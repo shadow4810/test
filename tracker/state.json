@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-09-30T14:02:00Z",
+  "last_checked": "2026-09-30T15:03:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-09-30T14:00:08.005213Z",
+      "updated_at": "2026-09-30T14:39:55.154546Z",
       "base_title": "FLOP20260930"
     },
     "session_01ScjN3AjDf7HmrKP1BdDiX7": {
@@ -21,9 +21,9 @@
       "base_title": "各種ワークブック作成"
     },
     "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
-      "title": "✅ 仕様検討",
-      "group": "✅完了",
-      "updated_at": "2026-09-30T13:40:29.582288Z",
+      "title": "🟧 仕様検討",
+      "group": "🟧手作業",
+      "updated_at": "2026-09-30T14:12:17.429193Z",
       "base_title": "仕様検討"
     },
     "session_01VidqCopvRnqEo3jWWDjSX7": {
@@ -49,6 +49,18 @@
       "group": "✅完了",
       "updated_at": "2026-09-30T12:00:50.583552Z",
       "base_title": "計画書"
+    },
+    "session_01U9xmaNbfYpgCMbik2xPsdZ": {
+      "title": "✅ ローカル環境とクラウド環境の違い",
+      "base_title": "ローカル環境とクラウド環境の違い",
+      "group": "✅完了",
+      "updated_at": "2026-09-30T14:17:54.648638Z"
+    },
+    "session_01TKHxnjoRJJTfoke5Vp69c5": {
+      "title": "✅ Claudecode起動 OJT2026フォルダ",
+      "base_title": "Claudecode起動 OJT2026フォルダ",
+      "group": "✅完了",
+      "updated_at": "2026-09-30T14:10:50.530869Z"
     }
   }
 }
