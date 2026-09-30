@@ -1,9 +1,10 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-09-30 13:58 UTC（22:58 JST）／期限情報のあるものなし
+最終確認: 2026-09-30 14:02 UTC（23:02 JST）
+区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）／期限情報のあるものなし
 
 ## 🟥 判断待ち
-- [ ] FLOP20260930 ／ クラウド移行先（Google Cloud でよいか）と VM 費用（月 $15–25＋ディスク）を承認する ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
+- [ ] FLOP20260930 ／ クラウド移行先（Google Cloud でよいか）と VM 費用（月 $15–25＋ディスク）を承認する（14:00 に定常の状況報告あり。この質問への回答は確認できず） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] EPX_gen予備 ／ 最後の報告に要約がないため、開いて内容を確認し返事する ／ https://claude.ai/code/session_01ScjN3AjDf7HmrKP1BdDiX7
 
 ## 🟧 手作業

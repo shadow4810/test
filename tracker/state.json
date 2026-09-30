@@ -1,14 +1,54 @@
 {
-  "last_checked": "2026-09-30T13:58:00Z",
+  "last_checked": "2026-09-30T14:02:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
-    "session_01MuXFYcS6N5ZZiPWKb662Fr": {"title": "FLOP20260930", "group": "🟥判断待ち", "updated_at": "2026-09-30T13:54:57.046530Z"},
-    "session_01ScjN3AjDf7HmrKP1BdDiX7": {"title": "EPX_gen予備", "group": "🟥判断待ち", "updated_at": "2026-09-30T12:14:35.146136Z"},
-    "session_01En3t9RkumGLdNsLKLXSc1S": {"title": "各種ワークブック作成", "group": "🟧手作業", "updated_at": "2026-09-30T12:41:40.306194Z"},
-    "session_01FHYT5jSQyJpbRmfs3hZyCQ": {"title": "仕様検討", "group": "✅完了", "updated_at": "2026-09-30T13:40:29.582288Z"},
-    "session_01VidqCopvRnqEo3jWWDjSX7": {"title": "OJT進め方相談室", "group": "✅完了", "updated_at": "2026-09-30T12:50:08.563218Z"},
-    "session_01JQhf2wYNJGHJfmmsRPSdGz": {"title": "指令塔", "group": "✅完了", "updated_at": "2026-09-30T12:44:17.999828Z"},
-    "session_01Jwgu2UER3Cy8wjSCnpLzjg": {"title": "ワンページ", "group": "✅完了", "updated_at": "2026-09-30T12:41:02.224024Z"},
-    "session_018fTVUa52tU51Wnww3eyxMr": {"title": "計画書", "group": "✅完了", "updated_at": "2026-09-30T12:00:50.583552Z"}
+    "session_01MuXFYcS6N5ZZiPWKb662Fr": {
+      "title": "🟥 FLOP20260930",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-09-30T14:00:08.005213Z",
+      "base_title": "FLOP20260930"
+    },
+    "session_01ScjN3AjDf7HmrKP1BdDiX7": {
+      "title": "🟥 EPX_gen予備",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-09-30T12:14:35.146136Z",
+      "base_title": "EPX_gen予備"
+    },
+    "session_01En3t9RkumGLdNsLKLXSc1S": {
+      "title": "🟧 各種ワークブック作成",
+      "group": "🟧手作業",
+      "updated_at": "2026-09-30T12:41:40.306194Z",
+      "base_title": "各種ワークブック作成"
+    },
+    "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
+      "title": "✅ 仕様検討",
+      "group": "✅完了",
+      "updated_at": "2026-09-30T13:40:29.582288Z",
+      "base_title": "仕様検討"
+    },
+    "session_01VidqCopvRnqEo3jWWDjSX7": {
+      "title": "✅ OJT進め方相談室",
+      "group": "✅完了",
+      "updated_at": "2026-09-30T12:50:08.563218Z",
+      "base_title": "OJT進め方相談室"
+    },
+    "session_01JQhf2wYNJGHJfmmsRPSdGz": {
+      "title": "✅ 指令塔",
+      "group": "✅完了",
+      "updated_at": "2026-09-30T12:44:17.999828Z",
+      "base_title": "指令塔"
+    },
+    "session_01Jwgu2UER3Cy8wjSCnpLzjg": {
+      "title": "✅ ワンページ",
+      "group": "✅完了",
+      "updated_at": "2026-09-30T12:41:02.224024Z",
+      "base_title": "ワンページ"
+    },
+    "session_018fTVUa52tU51Wnww3eyxMr": {
+      "title": "✅ 計画書",
+      "group": "✅完了",
+      "updated_at": "2026-09-30T12:00:50.583552Z",
+      "base_title": "計画書"
+    }
   }
 }
