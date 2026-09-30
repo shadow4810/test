@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-09-30 21:00 UTC（10/1 6:00 JST）
+最終確認: 2026-09-30 22:00 UTC（10/1 7:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
@@ -18,7 +18,7 @@
 （なし）
 
 ## ✅ 完了
-- [x] ローカル環境とクラウド環境の違い ／ 違いの説明で終了 ／ https://claude.ai/code/session_01U9xmaNbfYpgCMbik2xPsdZ
+- [x] ローカル環境とクラウド環境の違い ／ 違いの説明と、Linux 版 Claude Desktop の導入手順の案内で終了 ／ https://claude.ai/code/session_01U9xmaNbfYpgCMbik2xPsdZ
 - [x] Claudecode起動 OJT2026フォルダ ／ クラウドからはローカルのフォルダを開けないため、CLI かデスクトップアプリで開く方法を案内して終了 ／ https://claude.ai/code/session_01TKHxnjoRJJTfoke5Vp69c5
 - [x] OJT進め方相談室 ／ 台本を更新し、PDF を Drive と USB に同期済み ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
 - [x] 指令塔 ／ ファイルの置き場所（01_計画書）を回答して終了 ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
