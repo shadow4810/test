@@ -1,13 +1,13 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-01 12:00 UTC（10/1 21:00 JST）
+最終確認: 2026-10-01 13:01 UTC（10/1 22:01 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
 - [ ] 🟧 仕様検討 ／ 【今日】残りは⑥だけ。Makino 機で読み込みを確認する（M-10）。①〜⑤は OK で、結果シートに記録済み ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟥 判断待ち
-- [ ] M13教材作成 ／ M13 原稿 v0.2 をレビューする。次の作業を quiz_m13 にしてよいかも返事する ／ https://claude.ai/code/session_01Xx8m91FF5QujWfmAbtn12y
+- [ ] M13教材作成 ／ M13 原稿 v0.2 をレビューする。次の作業を quiz_m13 にしてよいかも返事する（13:00 時点で処理中。終わったら見直す） ／ https://claude.ai/code/session_01Xx8m91FF5QujWfmAbtn12y
 - [ ] FLOP20260930 ／ テストネットの faucet を設定して spend を自動化してよいか、OK かどうかを返事する（10:48 にも同じ質問が来ている） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] EPX_gen予備 ／ 要約がないため、開いて内容を確認し返事する ／ https://claude.ai/code/session_01ScjN3AjDf7HmrKP1BdDiX7
 
