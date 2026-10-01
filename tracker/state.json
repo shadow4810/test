@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-01T10:00:00Z",
+  "last_checked": "2026-10-01T11:01:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-01T09:41:05.603544Z",
+      "updated_at": "2026-10-01T10:48:10.701927Z",
       "base_title": "FLOP20260930"
     },
     "session_01ScjN3AjDf7HmrKP1BdDiX7": {
@@ -61,6 +61,18 @@
       "base_title": "Claudecode起動 OJT2026フォルダ",
       "group": "✅完了",
       "updated_at": "2026-09-30T14:10:50.530869Z"
+    },
+    "session_01YPkvahR8CvpM5uZAKDRZ4h": {
+      "title": "✅ DAM-M17 パッドの報告書",
+      "base_title": "DAM-M17 パッドの報告書",
+      "group": "✅完了",
+      "updated_at": "2026-10-01T10:59:26.344065Z"
+    },
+    "session_01Xx8m91FF5QujWfmAbtn12y": {
+      "title": "🟥 M13教材作成",
+      "base_title": "M13教材作成",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-01T10:42:19.428590Z"
     }
   }
 }
