@@ -1,23 +1,24 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-01 15:02 UTC（10/2 0:02 JST）
+最終確認: 2026-10-01 16:01 UTC（10/2 1:01 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
 - [ ] 🟧 仕様検討 ／ 【10/1 予定分】v4.0 に移行したため NX で再テストする（手順1〜3）。できた EPX と属性ダンプをアップロードする ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟥 判断待ち
-- [ ] 電極prt一括エクスポート開発 ／ 作られたばかりで、操作待ちで止まっている。開いて許可するか返事をする ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
 - [ ] TESTNET準備 ／ sr25519 鍵を作ってよいか承認する。復号鍵は close-1 と共用にするか別にするかを決める ／ https://claude.ai/code/session_017YikYDsdTSyxymRq71Ww3v
 - [ ] OJT進め方相談室 ／ 月曜面談の正式な呼び方を決める（おすすめは「週次ふりかえり」） ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
 - [ ] M08教材作成 ／ 仕様 v0.3 について2点に答える：(1) S1 以降の自律運用のルール、(2) CAM の検査範囲 ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
+- [ ] 電極prt一括エクスポート開発 ／ NX で電極データの入ったアセンブリに対して probe_api.py を実行し、probe_report.txt を送る ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
+- [ ] 電極ガス抜き穴自動設定 ／ NX で probe_api.py を2回実行する（1回目は電極を原点に置く、2回目はずらして回転させる）。probe_report.txt を保存する ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
 - [ ] 仕様検討 ／ （上の「期限が近いもの」を参照） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟦 外部待ち
-- [ ] 電極ガス抜き穴自動設定 ／ 対応不要。作られたばかりで処理中。結果が出たら区分を決め直す ／ https://claude.ai/code/session_01TUVTDFLucx3aUKj7YEA48u
+（なし）
 
 ## ✅ 完了
 - [x] 指令塔 ／ 全スクリプトの読み元を承認済みの計画書に切り替え、ワークブックも更新して完了（前回挙がっていた TODO の手直しが済んだかは確認できていない） ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
