@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-01T05:01:00Z",
+  "last_checked": "2026-10-01T06:01:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
-      "title": "🟥 FLOP20260930",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-01T04:48:28.499166Z",
+      "title": "✅ FLOP20260930",
+      "group": "✅完了",
+      "updated_at": "2026-10-01T05:39:53.920236Z",
       "base_title": "FLOP20260930"
     },
     "session_01ScjN3AjDf7HmrKP1BdDiX7": {
@@ -23,7 +23,7 @@
     "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
       "title": "🟧 仕様検討",
       "group": "🟧手作業",
-      "updated_at": "2026-10-01T04:43:27.926287Z",
+      "updated_at": "2026-10-01T05:59:21.448967Z",
       "base_title": "仕様検討"
     },
     "session_01VidqCopvRnqEo3jWWDjSX7": {

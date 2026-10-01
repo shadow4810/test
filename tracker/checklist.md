@@ -1,13 +1,12 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-01 05:01 UTC（10/1 14:01 JST）
+最終確認: 2026-10-01 06:01 UTC（10/1 15:01 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
-- [ ] 🟧 仕様検討 ／ 【今日】EPX テストを実施中。case_2 は確認済み。次は dump_attributes.py・epx_generator.py・case_3_split.py を実行する ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
+- [ ] 🟧 仕様検討 ／ 【今日】case_3_split.py → epx_generator.py の順に実行し、できた EPX をアップロードする（検証は完了済み） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟥 判断待ち
-- [ ] FLOP20260930 ／ クラウド移行先（Google Cloud でよいか）と VM 費用（月 $15–25＋ディスク）を承認する（毎時の定期報告は続いているが、この質問への回答は確認できず） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] EPX_gen予備 ／ 要約がないため、開いて内容を確認し返事する ／ https://claude.ai/code/session_01ScjN3AjDf7HmrKP1BdDiX7
 
 ## 🟧 手作業
@@ -17,6 +16,7 @@
 （なし）
 
 ## ✅ 完了
+- [x] FLOP20260930 ／ クラウド移行は「保留」と回答済み。毎時の監視だけが自動で続いている ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [x] 各種ワークブック作成 ／ ガントの表示終了日を変えて作り直し、Drive の 03_ワークブック/ に配置して完了（前に挙がっていた Todo 1行の手作業は、済んだか確認できていない） ／ https://claude.ai/code/session_01En3t9RkumGLdNsLKLXSc1S
 - [x] 指令塔 ／ ワークブック3種の終了日の判定を更新し、ガントを Drive に同期して完了 ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
 - [x] ローカル環境とクラウド環境の違い ／ 違いの説明と、Linux 版 Claude Desktop の導入手順の案内で終了 ／ https://claude.ai/code/session_01U9xmaNbfYpgCMbik2xPsdZ
