@@ -1,15 +1,15 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-01 21:01 UTC（10/2 6:01 JST）
+最終確認: 2026-10-01 22:01 UTC（10/2 7:01 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
-- [ ] 🟧 仕様検討 ／ 【10/1 予定分】v4.0 に移行したため NX で再テストする（手順1〜3）。できた EPX と属性ダンプをアップロードする ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
+- [ ] 🟧 仕様検討 ／ 【10/1 予定分】USB の中身は最新と確認済み。01_ツール/ と 07_試験/ を NX の PC にコピーして再テストし（手順1〜3）、EPX と属性ダンプをアップロードする ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟥 判断待ち
 - [ ] VR-6000検討 ／ インレットインサートの情報を渡す：寸法（縦×横×全高）、質量、最も深い部分の深さと開口幅、インレットの形状と壁の高さ、材質と表面処理 ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
 - [ ] TESTNET準備 ／ sr25519 鍵を作ってよいか承認する。復号鍵は close-1 と共用にするか別にするかを決める ／ https://claude.ai/code/session_017YikYDsdTSyxymRq71Ww3v
-- [ ] M08教材作成 ／ 仕様 v0.3 について2点に答える：(1) S1 以降の自律運用のルール、(2) CAM の検査範囲 ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
+- [ ] M08教材作成 ／ 仕様 v0.3 について2点に答える：(1) S1 以降の自律運用のルール、(2) CAM の検査範囲（最後の報告は USB の zip 確認だけ。この2点に答えたかは確認できず） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
