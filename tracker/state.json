@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-01T04:01:00Z",
+  "last_checked": "2026-10-01T05:01:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-01T03:38:47.115516Z",
+      "updated_at": "2026-10-01T04:48:28.499166Z",
       "base_title": "FLOP20260930"
     },
     "session_01ScjN3AjDf7HmrKP1BdDiX7": {
@@ -15,15 +15,15 @@
       "base_title": "EPX_gen予備"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
-      "title": "🟧 各種ワークブック作成",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-01T03:59:41.603934Z",
+      "title": "✅ 各種ワークブック作成",
+      "group": "✅完了",
+      "updated_at": "2026-10-01T04:00:11.931852Z",
       "base_title": "各種ワークブック作成"
     },
     "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
       "title": "🟧 仕様検討",
       "group": "🟧手作業",
-      "updated_at": "2026-09-30T14:12:17.429193Z",
+      "updated_at": "2026-10-01T04:43:27.926287Z",
       "base_title": "仕様検討"
     },
     "session_01VidqCopvRnqEo3jWWDjSX7": {
@@ -35,7 +35,7 @@
     "session_01JQhf2wYNJGHJfmmsRPSdGz": {
       "title": "✅ 指令塔",
       "group": "✅完了",
-      "updated_at": "2026-10-01T03:59:35.365463Z",
+      "updated_at": "2026-10-01T04:00:11.708275Z",
       "base_title": "指令塔"
     },
     "session_01Jwgu2UER3Cy8wjSCnpLzjg": {
