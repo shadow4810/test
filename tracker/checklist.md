@@ -1,26 +1,28 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-01 14:02 UTC（10/1 23:02 JST）
+最終確認: 2026-10-01 15:02 UTC（10/2 0:02 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
-- [ ] 🟧 仕様検討 ／ 【今日】残りは⑥だけ。Makino 機で読み込みを確認する（M-10）。①〜⑤は OK で記録済み ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
+- [ ] 🟧 仕様検討 ／ 【10/1 予定分】v4.0 に移行したため NX で再テストする（手順1〜3）。できた EPX と属性ダンプをアップロードする ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟥 判断待ち
+- [ ] 電極prt一括エクスポート開発 ／ 作られたばかりで、操作待ちで止まっている。開いて許可するか返事をする ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
+- [ ] TESTNET準備 ／ sr25519 鍵を作ってよいか承認する。復号鍵は close-1 と共用にするか別にするかを決める ／ https://claude.ai/code/session_017YikYDsdTSyxymRq71Ww3v
+- [ ] OJT進め方相談室 ／ 月曜面談の正式な呼び方を決める（おすすめは「週次ふりかえり」） ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
 - [ ] M08教材作成 ／ 仕様 v0.3 について2点に答える：(1) S1 以降の自律運用のルール、(2) CAM の検査範囲 ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
-- [ ] EPX_gen予備 ／ 要約がないため、開いて内容を確認し返事する ／ https://claude.ai/code/session_01ScjN3AjDf7HmrKP1BdDiX7
+- [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
-- [ ] 指令塔 ／ TODO を手で更新する（T004 に ID 101 を追加。T005 に ID 102 を追加し、ID 5 の文面を更新）。そのあと OneDrive の TODO を claudecode/in_ojt2026/ に上げて照合する ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
 - [ ] 仕様検討 ／ （上の「期限が近いもの」を参照） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟦 外部待ち
-- [ ] TESTNET準備 ／ 対応不要。新しく立ち上がって処理中。結果が出たら区分を決め直す ／ https://claude.ai/code/session_017YikYDsdTSyxymRq71Ww3v
+- [ ] 電極ガス抜き穴自動設定 ／ 対応不要。作られたばかりで処理中。結果が出たら区分を決め直す ／ https://claude.ai/code/session_01TUVTDFLucx3aUKj7YEA48u
 
 ## ✅ 完了
-- [x] FLOP20260930 ／ テストネットの件は TESTNET準備 に引き継がれたとみて完了扱い。毎時の監視だけが自動で続いている ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
-- [x] DAM-M17 パッドの報告書 ／ 用語統一と縦割れの記述の修正をコミット済み。USB 転送も済み ／ https://claude.ai/code/session_01YPkvahR8CvpM5uZAKDRZ4h
-- [x] 各種ワークブック作成 ／ ガントを作り直して Drive の 03_ワークブック/ に配置して完了 ／ https://claude.ai/code/session_01En3t9RkumGLdNsLKLXSc1S
-- [x] OJT進め方相談室 ／ 月曜面談の呼び方を5案出して終了（おすすめは「週次ふりかえり」） ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
-- [x] ワンページ ／ A4版の項目を修正して Drive の 02_ワンページ/ に配置、指令塔にも報告済み ／ https://claude.ai/code/session_01Jwgu2UER3Cy8wjSCnpLzjg
-- [x] 計画書 ／ 計画書 v13 の記録を更新し、差分も確認済み ／ https://claude.ai/code/session_018fTVUa52tU51Wnww3eyxMr
+- [x] 指令塔 ／ 全スクリプトの読み元を承認済みの計画書に切り替え、ワークブックも更新して完了（前回挙がっていた TODO の手直しが済んだかは確認できていない） ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
+- [x] 計画書 ／ 承認済みの計画書（20260929）を正本として確認。Drive と USB の差し替えも済み ／ https://claude.ai/code/session_018fTVUa52tU51Wnww3eyxMr
+- [x] 各種ワークブック作成 ／ 計画書を承認済み版に切り替え、比較スクリプトと達成確認記録を更新して完了 ／ https://claude.ai/code/session_01En3t9RkumGLdNsLKLXSc1S
+- [x] ワンページ ／ 読み元を承認済みの計画書に切り替えて完了。差分なし（19件） ／ https://claude.ai/code/session_01Jwgu2UER3Cy8wjSCnpLzjg
+- [x] FLOP20260930 ／ テストネットの監視だけが自動で続いている ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
+- [x] DAM-M17 パッドの報告書 ／ 用語の統一と縦割れの記述の修正をコミット済み。USB への転送も済み ／ https://claude.ai/code/session_01YPkvahR8CvpM5uZAKDRZ4h

@@ -1,53 +1,47 @@
 {
-  "last_checked": "2026-10-01T14:02:00Z",
+  "last_checked": "2026-10-01T15:02:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "✅ FLOP20260930",
       "group": "✅完了",
-      "updated_at": "2026-10-01T13:48:51.106807Z",
+      "updated_at": "2026-10-01T14:52:17.946370Z",
       "base_title": "FLOP20260930"
-    },
-    "session_01ScjN3AjDf7HmrKP1BdDiX7": {
-      "title": "🟥 EPX_gen予備",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-09-30T12:14:35.146136Z",
-      "base_title": "EPX_gen予備"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
       "title": "✅ 各種ワークブック作成",
       "group": "✅完了",
-      "updated_at": "2026-10-01T04:00:11.931852Z",
+      "updated_at": "2026-10-01T14:13:31.805403Z",
       "base_title": "各種ワークブック作成"
     },
     "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
       "title": "🟧 仕様検討",
       "group": "🟧手作業",
-      "updated_at": "2026-10-01T09:19:02.924277Z",
+      "updated_at": "2026-10-01T14:46:15.398465Z",
       "base_title": "仕様検討"
     },
     "session_01VidqCopvRnqEo3jWWDjSX7": {
-      "title": "✅ OJT進め方相談室",
-      "group": "✅完了",
-      "updated_at": "2026-10-01T09:12:17.936287Z",
+      "title": "🟥 OJT進め方相談室",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-01T14:07:23.977362Z",
       "base_title": "OJT進め方相談室"
     },
     "session_01JQhf2wYNJGHJfmmsRPSdGz": {
-      "title": "🟧 指令塔",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-01T14:00:03.359945Z",
+      "title": "✅ 指令塔",
+      "group": "✅完了",
+      "updated_at": "2026-10-01T14:13:41.492986Z",
       "base_title": "指令塔"
     },
     "session_01Jwgu2UER3Cy8wjSCnpLzjg": {
       "title": "✅ ワンページ",
       "group": "✅完了",
-      "updated_at": "2026-10-01T03:25:05.904920Z",
+      "updated_at": "2026-10-01T14:16:13.830145Z",
       "base_title": "ワンページ"
     },
     "session_018fTVUa52tU51Wnww3eyxMr": {
       "title": "✅ 計画書",
       "group": "✅完了",
-      "updated_at": "2026-09-30T12:00:50.583552Z",
+      "updated_at": "2026-10-01T14:13:10.223708Z",
       "base_title": "計画書"
     },
     "session_01YPkvahR8CvpM5uZAKDRZ4h": {
@@ -63,10 +57,28 @@
       "updated_at": "2026-10-01T13:39:22.112181Z"
     },
     "session_017YikYDsdTSyxymRq71Ww3v": {
-      "title": "🟦 TESTNET準備",
+      "title": "🟥 TESTNET準備",
       "base_title": "TESTNET準備",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-01T14:04:33.210304Z"
+    },
+    "session_01E9KHwux1YV1ErcY1Tm9byL": {
+      "title": "🟥 電極prt一括エクスポート開発",
+      "base_title": "電極prt一括エクスポート開発",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-01T14:59:34.165859Z"
+    },
+    "session_01TUVTDFLucx3aUKj7YEA48u": {
+      "title": "🟦 電極ガス抜き穴自動設定",
+      "base_title": "電極ガス抜き穴自動設定",
       "group": "🟦外部待ち",
-      "updated_at": "2026-10-01T14:00:01.600956Z"
+      "updated_at": "2026-10-01T14:59:39.975309Z"
+    },
+    "session_013jfA4BsM5XSGBMPziCfANG": {
+      "title": "🟥 EPXgen予備",
+      "base_title": "EPXgen予備",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-01T14:40:47.961749Z"
     }
   }
 }
