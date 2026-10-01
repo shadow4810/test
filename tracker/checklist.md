@@ -7,7 +7,7 @@
 - [ ] 🟧 仕様検討 ／ 【今日】EPX テストを実施中。case_2 は確認済み。次は dump_attributes.py・epx_generator.py・case_3_split.py を実行する ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟥 判断待ち
-- [ ] FLOP20260930 ／ クラウド移行先（Google Cloud でよいか）と VM 費用（月 $15–25＋ディスク）を承認する（16:47 の定期報告は「変化なし」。この質問への回答は確認できず） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
+- [ ] FLOP20260930 ／ クラウド移行先（Google Cloud でよいか）と VM 費用（月 $15–25＋ディスク）を承認する（毎時の定期報告は続いているが、この質問への回答は確認できず） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] EPX_gen予備 ／ 要約がないため、開いて内容を確認し返事する ／ https://claude.ai/code/session_01ScjN3AjDf7HmrKP1BdDiX7
 
 ## 🟧 手作業
