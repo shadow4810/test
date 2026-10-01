@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-01T13:01:00Z",
+  "last_checked": "2026-10-01T14:02:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
-      "title": "🟥 FLOP20260930",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-01T13:00:08.639206Z",
+      "title": "✅ FLOP20260930",
+      "group": "✅完了",
+      "updated_at": "2026-10-01T13:48:51.106807Z",
       "base_title": "FLOP20260930"
     },
     "session_01ScjN3AjDf7HmrKP1BdDiX7": {
@@ -33,9 +33,9 @@
       "base_title": "OJT進め方相談室"
     },
     "session_01JQhf2wYNJGHJfmmsRPSdGz": {
-      "title": "✅ 指令塔",
-      "group": "✅完了",
-      "updated_at": "2026-10-01T04:00:11.708275Z",
+      "title": "🟧 指令塔",
+      "group": "🟧手作業",
+      "updated_at": "2026-10-01T14:00:03.359945Z",
       "base_title": "指令塔"
     },
     "session_01Jwgu2UER3Cy8wjSCnpLzjg": {
@@ -50,29 +50,23 @@
       "updated_at": "2026-09-30T12:00:50.583552Z",
       "base_title": "計画書"
     },
-    "session_01U9xmaNbfYpgCMbik2xPsdZ": {
-      "title": "✅ ローカル環境とクラウド環境の違い",
-      "base_title": "ローカル環境とクラウド環境の違い",
-      "group": "✅完了",
-      "updated_at": "2026-09-30T21:13:00.217622Z"
-    },
-    "session_01TKHxnjoRJJTfoke5Vp69c5": {
-      "title": "✅ Claudecode起動 OJT2026フォルダ",
-      "base_title": "Claudecode起動 OJT2026フォルダ",
-      "group": "✅完了",
-      "updated_at": "2026-09-30T14:10:50.530869Z"
-    },
     "session_01YPkvahR8CvpM5uZAKDRZ4h": {
       "title": "✅ DAM-M17 パッドの報告書",
       "base_title": "DAM-M17 パッドの報告書",
       "group": "✅完了",
       "updated_at": "2026-10-01T12:44:36.562337Z"
     },
-    "session_01Xx8m91FF5QujWfmAbtn12y": {
-      "title": "🟥 M13教材作成",
-      "base_title": "M13教材作成",
+    "session_01VcRiswB5sYcoK6PQqF8c6K": {
+      "title": "🟥 M08教材作成",
+      "base_title": "M08教材作成",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-01T13:00:04.812037Z"
+      "updated_at": "2026-10-01T13:39:22.112181Z"
+    },
+    "session_017YikYDsdTSyxymRq71Ww3v": {
+      "title": "🟦 TESTNET準備",
+      "base_title": "TESTNET準備",
+      "group": "🟦外部待ち",
+      "updated_at": "2026-10-01T14:00:01.600956Z"
     }
   }
 }
