@@ -1,14 +1,14 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-01 20:00 UTC（10/2 5:00 JST）
+最終確認: 2026-10-01 21:01 UTC（10/2 6:01 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
 - [ ] 🟧 仕様検討 ／ 【10/1 予定分】v4.0 に移行したため NX で再テストする（手順1〜3）。できた EPX と属性ダンプをアップロードする ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟥 判断待ち
+- [ ] VR-6000検討 ／ インレットインサートの情報を渡す：寸法（縦×横×全高）、質量、最も深い部分の深さと開口幅、インレットの形状と壁の高さ、材質と表面処理 ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
 - [ ] TESTNET準備 ／ sr25519 鍵を作ってよいか承認する。復号鍵は close-1 と共用にするか別にするかを決める ／ https://claude.ai/code/session_017YikYDsdTSyxymRq71Ww3v
-- [ ] OJT進め方相談室 ／ 月曜面談の正式な呼び方を決める（おすすめは「週次ふりかえり」） ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
 - [ ] M08教材作成 ／ 仕様 v0.3 について2点に答える：(1) S1 以降の自律運用のルール、(2) CAM の検査範囲 ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
@@ -21,9 +21,10 @@
 （なし）
 
 ## ✅ 完了
-- [x] 指令塔 ／ 全スクリプトの読み元を承認済みの計画書に切り替え、ワークブックも更新して完了（前回挙がっていた TODO の手直しが済んだかは確認できていない） ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
+- [x] OJT進め方相談室 ／ 「月曜面談」を「週次ふりかえり」に変更。台本を直し、Drive と USB のファイルも差し替え済み ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
+- [x] 指令塔 ／ 経緯メモに承認版への切り替えと名称統一の経緯を追記して完了（前に挙がっていた TODO の手直しが済んだかは確認できていない） ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
 - [x] 計画書 ／ 承認済みの計画書（20260929）を正本として確認。Drive と USB の差し替えも済み ／ https://claude.ai/code/session_018fTVUa52tU51Wnww3eyxMr
-- [x] 各種ワークブック作成 ／ 計画書を承認済み版に切り替え、比較スクリプトと達成確認記録を更新して完了 ／ https://claude.ai/code/session_01En3t9RkumGLdNsLKLXSc1S
-- [x] ワンページ ／ 読み元を承認済みの計画書に切り替えて完了。差分なし（19件） ／ https://claude.ai/code/session_01Jwgu2UER3Cy8wjSCnpLzjg
+- [x] 各種ワークブック作成 ／ 週次ふりかえり用のテンプレートを作り直し、Drive と USB に同期済み ／ https://claude.ai/code/session_01En3t9RkumGLdNsLKLXSc1S
+- [x] ワンページ ／ 欄名を「ふりかえり実施」に統一し、Drive と USB に配置済み ／ https://claude.ai/code/session_01Jwgu2UER3Cy8wjSCnpLzjg
 - [x] FLOP20260930 ／ テストネットの監視だけが自動で続いている ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [x] DAM-M17 パッドの報告書 ／ 用語の統一と縦割れの記述の修正をコミット済み。USB への転送も済み ／ https://claude.ai/code/session_01YPkvahR8CvpM5uZAKDRZ4h

@@ -1,17 +1,17 @@
 {
-  "last_checked": "2026-10-01T20:00:00Z",
+  "last_checked": "2026-10-01T21:01:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "✅ FLOP20260930",
       "group": "✅完了",
-      "updated_at": "2026-10-01T19:51:10.369266Z",
+      "updated_at": "2026-10-01T20:51:36.764905Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
       "title": "✅ 各種ワークブック作成",
       "group": "✅完了",
-      "updated_at": "2026-10-01T14:13:31.805403Z",
+      "updated_at": "2026-10-01T20:16:29.911243Z",
       "base_title": "各種ワークブック作成"
     },
     "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
@@ -21,21 +21,21 @@
       "base_title": "仕様検討"
     },
     "session_01VidqCopvRnqEo3jWWDjSX7": {
-      "title": "🟥 OJT進め方相談室",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-01T14:07:23.977362Z",
+      "title": "✅ OJT進め方相談室",
+      "group": "✅完了",
+      "updated_at": "2026-10-01T20:16:19.446141Z",
       "base_title": "OJT進め方相談室"
     },
     "session_01JQhf2wYNJGHJfmmsRPSdGz": {
       "title": "✅ 指令塔",
       "group": "✅完了",
-      "updated_at": "2026-10-01T14:13:41.492986Z",
+      "updated_at": "2026-10-01T20:22:05.760225Z",
       "base_title": "指令塔"
     },
     "session_01Jwgu2UER3Cy8wjSCnpLzjg": {
       "title": "✅ ワンページ",
       "group": "✅完了",
-      "updated_at": "2026-10-01T14:16:13.830145Z",
+      "updated_at": "2026-10-01T20:16:05.733959Z",
       "base_title": "ワンページ"
     },
     "session_018fTVUa52tU51Wnww3eyxMr": {
@@ -79,6 +79,12 @@
       "base_title": "電極ガス抜き穴自動設定",
       "group": "🟧手作業",
       "updated_at": "2026-10-01T15:39:49.192167Z"
+    },
+    "session_016TPbjdfdHzTtQqjbRM31Ay": {
+      "title": "🟥 VR-6000検討",
+      "base_title": "VR-6000検討",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-01T20:59:08.753882Z"
     }
   }
 }
