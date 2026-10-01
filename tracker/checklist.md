@@ -1,21 +1,22 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-09-30 23:01 UTC（10/1 8:01 JST）
+最終確認: 2026-10-01 00:02 UTC（10/1 9:02 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
 - [ ] 🟧 仕様検討 ／ 【明日】6ステップの試験手順で EPX テストを実施し、結果と NG 内容を記録する ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟥 判断待ち
+- [ ] 指令塔 ／ 23:17 から操作待ちで止まっている。開いて許可・返事をする ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
 - [ ] FLOP20260930 ／ クラウド移行先（Google Cloud でよいか）と VM 費用（月 $15–25＋ディスク）を承認する（16:47 の定期報告は「変化なし」。この質問への回答は確認できず） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] EPX_gen予備 ／ 要約がないため、開いて内容を確認し返事する ／ https://claude.ai/code/session_01ScjN3AjDf7HmrKP1BdDiX7
 
 ## 🟧 手作業
 - [ ] 仕様検討 ／ （上の「期限が近いもの」を参照） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
-- [ ] 各種ワークブック作成 ／ 残っている TODO を手作業で更新する（23:00 時点で処理中。終わったら見直す） ／ https://claude.ai/code/session_01En3t9RkumGLdNsLKLXSc1S
+- [ ] 各種ワークブック作成 ／ Todo に1行を手作業で追加する（ワークブック3冊の再作成と T004 差分の Drive 配置は完了） ／ https://claude.ai/code/session_01En3t9RkumGLdNsLKLXSc1S
 
 ## 🟦 外部待ち
-- [ ] 指令塔 ／ 対応不要。治具講義を TODO に追加済みで、各種ワークブック作成からの差分待ち ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
+（なし）
 
 ## ✅ 完了
 - [x] ローカル環境とクラウド環境の違い ／ 違いの説明と、Linux 版 Claude Desktop の導入手順の案内で終了 ／ https://claude.ai/code/session_01U9xmaNbfYpgCMbik2xPsdZ
