@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-02T08:00:00Z",
+  "last_checked": "2026-10-02T09:01:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "✅ FLOP20260930",
       "group": "✅完了",
-      "updated_at": "2026-10-02T07:56:03.948430Z",
+      "updated_at": "2026-10-02T08:57:18.251391Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -17,7 +17,7 @@
     "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
       "title": "🟧 仕様検討",
       "group": "🟧手作業",
-      "updated_at": "2026-10-01T21:05:08.551660Z",
+      "updated_at": "2026-10-02T08:39:44.556918Z",
       "base_title": "仕様検討"
     },
     "session_01VidqCopvRnqEo3jWWDjSX7": {
@@ -54,7 +54,7 @@
       "title": "🟥 M08教材作成",
       "base_title": "M08教材作成",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-02T00:30:50.013013Z"
+      "updated_at": "2026-10-02T08:32:33.089275Z"
     },
     "session_017YikYDsdTSyxymRq71Ww3v": {
       "title": "🟥 TESTNET準備",
@@ -63,10 +63,10 @@
       "updated_at": "2026-10-01T14:04:33.210304Z"
     },
     "session_01E9KHwux1YV1ErcY1Tm9byL": {
-      "title": "🟧 電極prt一括エクスポート開発",
+      "title": "🟥 電極prt一括エクスポート開発",
       "base_title": "電極prt一括エクスポート開発",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-01T15:09:51.341776Z"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-02T08:48:52.274401Z"
     },
     "session_013jfA4BsM5XSGBMPziCfANG": {
       "title": "🟥 EPXgen予備",
@@ -78,7 +78,7 @@
       "title": "🟧 電極ガス抜き穴自動設定",
       "base_title": "電極ガス抜き穴自動設定",
       "group": "🟧手作業",
-      "updated_at": "2026-10-01T15:39:49.192167Z"
+      "updated_at": "2026-10-02T08:57:40.485899Z"
     },
     "session_016TPbjdfdHzTtQqjbRM31Ay": {
       "title": "🟥 VR-6000検討",
