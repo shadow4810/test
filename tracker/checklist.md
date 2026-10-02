@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-02 00:00 UTC（10/2 9:00 JST）
+最終確認: 2026-10-02 01:00 UTC（10/2 10:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
@@ -9,7 +9,7 @@
 ## 🟥 判断待ち
 - [ ] VR-6000検討 ／ インレットインサートの情報を渡す：寸法（縦×横×全高）、質量、最も深い部分の深さと開口幅、インレットの形状と壁の高さ、材質と表面処理 ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
 - [ ] TESTNET準備 ／ sr25519 鍵を作ってよいか承認する。復号鍵は close-1 と共用にするか別にするかを決める ／ https://claude.ai/code/session_017YikYDsdTSyxymRq71Ww3v
-- [ ] M08教材作成 ／ 仕様 v0.3 について2点に答える：(1) S1 以降の自律運用のルール、(2) CAM の検査範囲（その後の報告は USB の確認と M13 の PDF 送付だけ。この2点に答えたかは確認できず） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
+- [ ] M08教材作成 ／ 仕様 v0.3 について2点に答える：(1) S1 以降の自律運用のルール、(2) CAM の検査範囲（その後は USB 確認・M13 の PDF 送付・教育進捗のまとめが続いている。この2点に答えたかは確認できず） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
