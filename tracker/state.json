@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-02T12:00:00Z",
+  "last_checked": "2026-10-02T13:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "✅ FLOP20260930",
       "group": "✅完了",
-      "updated_at": "2026-10-02T11:59:14.478035Z",
+      "updated_at": "2026-10-02T12:59:49.809959Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -15,9 +15,9 @@
       "base_title": "各種ワークブック作成"
     },
     "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
-      "title": "🟧 仕様検討",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-02T08:39:44.556918Z",
+      "title": "✅ 仕様検討",
+      "group": "✅完了",
+      "updated_at": "2026-10-02T12:24:37.806858Z",
       "base_title": "仕様検討"
     },
     "session_01VidqCopvRnqEo3jWWDjSX7": {
@@ -54,7 +54,7 @@
       "title": "🟥 M08教材作成",
       "base_title": "M08教材作成",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-02T08:32:33.089275Z"
+      "updated_at": "2026-10-02T12:24:48.686556Z"
     },
     "session_017YikYDsdTSyxymRq71Ww3v": {
       "title": "🟥 TESTNET準備",
@@ -63,10 +63,10 @@
       "updated_at": "2026-10-01T14:04:33.210304Z"
     },
     "session_01E9KHwux1YV1ErcY1Tm9byL": {
-      "title": "🟥 電極prt一括エクスポート開発",
+      "title": "🟧 電極prt一括エクスポート開発",
       "base_title": "電極prt一括エクスポート開発",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-02T08:48:52.274401Z"
+      "group": "🟧手作業",
+      "updated_at": "2026-10-02T12:26:53.074450Z"
     },
     "session_013jfA4BsM5XSGBMPziCfANG": {
       "title": "🟥 EPXgen予備",
@@ -75,10 +75,10 @@
       "updated_at": "2026-10-01T14:40:47.961749Z"
     },
     "session_01Shx2fuvmvcuJHHAVQPfe8p": {
-      "title": "🟧 電極ガス抜き穴自動設定",
+      "title": "🟥 電極ガス抜き穴自動設定",
       "base_title": "電極ガス抜き穴自動設定",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-02T09:00:42.634177Z"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-02T12:25:28.423959Z"
     },
     "session_016TPbjdfdHzTtQqjbRM31Ay": {
       "title": "🟥 VR-6000検討",
