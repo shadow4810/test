@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-03T12:00:00Z",
+  "last_checked": "2026-10-03T13:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "✅ FLOP20260930",
       "group": "✅完了",
-      "updated_at": "2026-10-03T11:55:19.165584Z",
+      "updated_at": "2026-10-03T12:55:50.875194Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -51,10 +51,10 @@
       "updated_at": "2026-10-03T05:35:22.114319Z"
     },
     "session_017YikYDsdTSyxymRq71Ww3v": {
-      "title": "🟧 TESTNET準備",
+      "title": "✅ TESTNET準備",
       "base_title": "TESTNET準備",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-03T11:59:41.466461Z"
+      "group": "✅完了",
+      "updated_at": "2026-10-03T12:05:02.629679Z"
     },
     "session_01E9KHwux1YV1ErcY1Tm9byL": {
       "title": "🟧 電極prt一括エクスポート開発",
@@ -112,14 +112,14 @@
     },
     "session_01VhcnY2XVmxoGGmjiRfGqa3": {
       "base_title": "SFWローラの修理・高寿命化",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-03T10:14:40.812743Z",
-      "title": "🟥 SFWローラの修理・高寿命化"
+      "group": "✅完了",
+      "updated_at": "2026-10-03T12:59:01.906453Z",
+      "title": "✅ SFWローラの修理・高寿命化"
     },
     "session_015GonF7YvnSZ2DNCtn1NSw4": {
       "base_title": "鍛造金型へのDED造形適用",
       "group": "✅完了",
-      "updated_at": "2026-10-03T10:13:08.851827Z",
+      "updated_at": "2026-10-03T12:55:08.666626Z",
       "title": "✅ 鍛造金型へのDED造形適用"
     }
   }

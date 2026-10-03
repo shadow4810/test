@@ -1,20 +1,18 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-03 12:00 UTC（10/3 21:00 JST）
+最終確認: 2026-10-03 13:00 UTC（10/3 22:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
-- [ ] SFWローラの修理・高寿命化 ／ 摩耗ローラの試験計画書（1枚スライド）を Drive と USB に置いた。2点に答える：①1本目のローラを切って断面を確認するか ②盛り深さ 3mm と時間・数量の見積もりで合っているか ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] penguin-quizzical-puzzle ／ Drive（62件）と USB（13件）のフォルダをテーマ別に整理し、確認済み。この変更でよいか承認してコミットを許可する（直しがあれば指示する） ／ https://claude.ai/code/session_018uXz9osWhpucDBKGYNLYwz
 - [ ] M08教材作成 ／ 05:35 から操作待ちで止まっている（許可または返事が必要）。前回の3点（無人運転の方針・CAM の範囲・コア壁上面の切削）も未回答の可能性あり ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] 電極ガス抜き穴自動設定 ／ 2点に答える：①電極は常に原点・無回転で置かれるか ②ガスだまり検出の方式（priority-flood）の理解で合っているか ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
-- [ ] TESTNET準備 ／ 権限の都合で Claude では消せなかった。自分で rm daemons/testnet/metadata_20261003T1012Z.json を実行する ／ https://claude.ai/code/session_017YikYDsdTSyxymRq71Ww3v
 - [ ] 電極prt一括エクスポート開発 ／ NX で probe2_api.py を実行（2項目を選び「はい」→「いいえ」）し、D:\NX\TEST_electrode_export\_electrode_probe_out\ の probe2_report.txt と probe_report.txt を返す ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
 
 ## 🟦 外部待ち
@@ -22,7 +20,9 @@
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
 
 ## ✅ 完了
-- [x] 鍛造金型へのDED造形適用 ／ 候補材の比較（本命 Inconel 718）に続き、検証手順のスライド（試験片→高温→形状試験→量産金型の5段階）を作成 ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
+- [x] SFWローラの修理・高寿命化 ／ 摩耗試験計画のスライド（3/4枚目）に試験装置の構成図を追加し、PPTX を更新（前回の2点の質問に答えたかは不明） ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
+- [x] TESTNET準備 ／ testnet の faucet 準備が完了（テスト15件合格、バックアップ確認済み、初日の手順書 tasks/testnet_dayone.md） ／ https://claude.ai/code/session_017YikYDsdTSyxymRq71Ww3v
+- [x] 鍛造金型へのDED造形適用 ／ 候補材比較（本命 Inconel 718）と検証手順スライドに続き、段階1（試験片の造形）と段階2（高温試験）の計画書を仮の値で初版作成 ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [x] FLOP20260930 ／ 監視を再起動し、testnet_spend を含む 10 サービスすべて稼働中（自動監視が続いている） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [x] Winroof解析 ／ 図3の横軸を指標ごとにそろえて PDF を作り直し、Drive と USB を更新済み ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [x] VR-6000検討 ／ 調査メモと .gitignore をコミット済み（eec728c）。図面はローカルのみ ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
