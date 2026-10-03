@@ -1,13 +1,13 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-03 8:00 UTC（10/3 17:00 JST）
+最終確認: 2026-10-03 9:00 UTC（10/3 18:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
-- [ ] SFWローラの修理・高寿命化 ／ 肉盛り材の比較が出た（Ni+WC は摩耗に強いが予熱と研削仕上げが必要。高バナジウム鋼は同等の性能で今の設備に合う）。3点に対応する：①2020年サンプルが窒化済みか確認 ②Höganäs への問い合わせ文の下書きを許可 ③現場への聞き取りの日程を決める ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
+- [ ] SFWローラの修理・高寿命化 ／ 2点に答える：①SKD11 を使ったときの実績（寿命の比較、元に戻した理由）②試験片をどちらにするか（SKD61 丸棒 か 摩耗したローラ）。前回の3点（2020年サンプルの窒化・Höganäs 問い合わせ・現場聞き取り）が済んだかは不明 ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] penguin-quizzical-puzzle ／ Drive（62件）と USB（13件）のフォルダをテーマ別に整理し、確認済み。この変更でよいか承認してコミットを許可する（直しがあれば指示する） ／ https://claude.ai/code/session_018uXz9osWhpucDBKGYNLYwz
 - [ ] 鍛造金型へのDED造形適用 ／ 硬さと熱処理の計画案ができた。炉の仕様と 2001 年の試作データを渡す ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] M08教材作成 ／ 05:35 から操作待ちで止まっている（許可または返事が必要）。前回の3点（無人運転の方針・CAM の範囲・コア壁上面の切削）も未回答の可能性あり ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
