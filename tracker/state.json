@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-03T20:00:00Z",
+  "last_checked": "2026-10-03T21:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-03T19:42:42.964551Z",
+      "updated_at": "2026-10-03T20:42:46.890884Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -17,7 +17,7 @@
     "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
       "title": "✅ 仕様検討",
       "group": "✅完了",
-      "updated_at": "2026-10-02T12:24:37.806858Z",
+      "updated_at": "2026-10-03T20:18:54.428246Z",
       "base_title": "仕様検討"
     },
     "session_01VidqCopvRnqEo3jWWDjSX7": {
@@ -54,7 +54,7 @@
       "title": "✅ TESTNET準備",
       "base_title": "TESTNET準備",
       "group": "✅完了",
-      "updated_at": "2026-10-03T12:05:02.629679Z"
+      "updated_at": "2026-10-03T20:19:35.776441Z"
     },
     "session_01E9KHwux1YV1ErcY1Tm9byL": {
       "title": "🟧 電極prt一括エクスポート開発",
@@ -72,7 +72,7 @@
       "title": "🟥 電極ガス抜き穴自動設定",
       "base_title": "電極ガス抜き穴自動設定",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-02T12:25:28.423959Z"
+      "updated_at": "2026-10-03T20:21:08.202041Z"
     },
     "session_016TPbjdfdHzTtQqjbRM31Ay": {
       "title": "✅ VR-6000検討",
@@ -83,7 +83,7 @@
     "session_018uXz9osWhpucDBKGYNLYwz": {
       "base_title": "penguin-quizzical-puzzle",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-03T14:07:07.383508Z",
+      "updated_at": "2026-10-03T20:20:35.313031Z",
       "title": "🟥 penguin-quizzical-puzzle"
     },
     "session_01NMcZKJMWnQZUtyTagcTRFL": {
