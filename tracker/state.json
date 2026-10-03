@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-03T21:00:00Z",
+  "last_checked": "2026-10-03T22:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
-      "title": "🟥 FLOP20260930",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-03T20:42:46.890884Z",
+      "title": "🟦 FLOP20260930",
+      "group": "🟦外部待ち",
+      "updated_at": "2026-10-03T21:49:20.823438Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -54,7 +54,7 @@
       "title": "✅ TESTNET準備",
       "base_title": "TESTNET準備",
       "group": "✅完了",
-      "updated_at": "2026-10-03T20:19:35.776441Z"
+      "updated_at": "2026-10-03T21:49:12.646929Z"
     },
     "session_01E9KHwux1YV1ErcY1Tm9byL": {
       "title": "🟧 電極prt一括エクスポート開発",
@@ -69,10 +69,10 @@
       "updated_at": "2026-10-01T14:40:47.961749Z"
     },
     "session_01Shx2fuvmvcuJHHAVQPfe8p": {
-      "title": "🟥 電極ガス抜き穴自動設定",
+      "title": "🟦 電極ガス抜き穴自動設定",
       "base_title": "電極ガス抜き穴自動設定",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-03T20:21:08.202041Z"
+      "group": "🟦外部待ち",
+      "updated_at": "2026-10-03T22:00:01.951457Z"
     },
     "session_016TPbjdfdHzTtQqjbRM31Ay": {
       "title": "✅ VR-6000検討",
