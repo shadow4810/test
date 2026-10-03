@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-03 9:00 UTC（10/3 18:00 JST）
+最終確認: 2026-10-03 10:00 UTC（10/3 19:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
@@ -9,7 +9,6 @@
 ## 🟥 判断待ち
 - [ ] SFWローラの修理・高寿命化 ／ 2点に答える：①SKD11 を使ったときの実績（寿命の比較、元に戻した理由）②試験片をどちらにするか（SKD61 丸棒 か 摩耗したローラ）。前回の3点（2020年サンプルの窒化・Höganäs 問い合わせ・現場聞き取り）が済んだかは不明 ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] penguin-quizzical-puzzle ／ Drive（62件）と USB（13件）のフォルダをテーマ別に整理し、確認済み。この変更でよいか承認してコミットを許可する（直しがあれば指示する） ／ https://claude.ai/code/session_018uXz9osWhpucDBKGYNLYwz
-- [ ] 鍛造金型へのDED造形適用 ／ 硬さと熱処理の計画案ができた。炉の仕様と 2001 年の試作データを渡す ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] M08教材作成 ／ 05:35 から操作待ちで止まっている（許可または返事が必要）。前回の3点（無人運転の方針・CAM の範囲・コア壁上面の切削）も未回答の可能性あり ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] 電極ガス抜き穴自動設定 ／ 2点に答える：①電極は常に原点・無回転で置かれるか ②ガスだまり検出の方式（priority-flood）の理解で合っているか ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
@@ -23,6 +22,7 @@
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
 
 ## ✅ 完了
+- [x] 鍛造金型へのDED造形適用 ／ 候補材6種の比較表を作成。本命は Inconel 718、比較材に M2（硬さ）と 625（耐酸化）を推奨。Co を含まない候補（X-750・T-700・Ni₃Al 系）は成分と入手性の確認が必要（前回求められた炉の仕様と2001年データを渡したかは不明） ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [x] FLOP20260930 ／ 監視を再起動し、testnet_spend を含む 10 サービスすべて稼働中（自動監視が続いている） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [x] Winroof解析 ／ PDF に第5章（上・中・下段の傾向）を追加し、章番号を振り直した ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [x] VR-6000検討 ／ 調査メモと .gitignore をコミット済み（eec728c）。図面はローカルのみ ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
