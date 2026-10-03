@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-03T06:00:00Z",
+  "last_checked": "2026-10-03T07:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
-      "title": "🟧 FLOP20260930",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-03T05:45:38.246555Z",
+      "title": "✅ FLOP20260930",
+      "group": "✅完了",
+      "updated_at": "2026-10-03T06:52:53.967025Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -54,7 +54,7 @@
       "title": "🟧 TESTNET準備",
       "base_title": "TESTNET準備",
       "group": "🟧手作業",
-      "updated_at": "2026-10-03T05:45:28.142808Z"
+      "updated_at": "2026-10-03T06:25:20.608792Z"
     },
     "session_01E9KHwux1YV1ErcY1Tm9byL": {
       "title": "🟧 電極prt一括エクスポート開発",
@@ -83,7 +83,7 @@
     "session_018uXz9osWhpucDBKGYNLYwz": {
       "base_title": "penguin-quizzical-puzzle",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-03T05:46:40.827480Z",
+      "updated_at": "2026-10-03T06:10:04.146736Z",
       "title": "🟥 penguin-quizzical-puzzle"
     },
     "session_01NMcZKJMWnQZUtyTagcTRFL": {
@@ -94,9 +94,9 @@
     },
     "session_01RjyqBTpGvmGbdYC1n6A56g": {
       "base_title": "Winroof解析",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-03T05:42:03.297536Z",
-      "title": "🟥 Winroof解析"
+      "group": "✅完了",
+      "updated_at": "2026-10-03T06:05:11.001644Z",
+      "title": "✅ Winroof解析"
     },
     "session_0183JN1ohfmutn4DiK8dz9iG": {
       "base_title": "M2C の使い方",
@@ -109,6 +109,18 @@
       "group": "✅完了",
       "updated_at": "2026-10-03T05:44:52.878847Z",
       "title": "✅ 単トラック、パッドの材料分析依頼"
+    },
+    "session_01VhcnY2XVmxoGGmjiRfGqa3": {
+      "base_title": "SFWローラの修理・高寿命化",
+      "group": "🟦外部待ち",
+      "updated_at": "2026-10-03T06:59:50.574185Z",
+      "title": "🟦 SFWローラの修理・高寿命化"
+    },
+    "session_015GonF7YvnSZ2DNCtn1NSw4": {
+      "base_title": "鍛造金型へのDED造形適用",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-03T06:34:31.645396Z",
+      "title": "🟥 鍛造金型へのDED造形適用"
     }
   }
 }
