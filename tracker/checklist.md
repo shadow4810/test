@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-03 22:00 UTC（10/4 7:00 JST）
+最終確認: 2026-10-03 23:00 UTC（10/4 8:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
@@ -9,15 +9,15 @@
 ## 🟥 判断待ち
 - [ ] penguin-quizzical-puzzle ／ 作業台帳ダッシュボードの自動更新の方法を3つから選ぶ：①毎日 SessionStart フックで更新 ②Google Drive へ毎時コピー ③手動のみ ／ https://claude.ai/code/session_018uXz9osWhpucDBKGYNLYwz
 - [ ] SFWローラの修理・高寿命化 ／ 試験方法6案（費用・納期・精度の比較表）とサンプル候補6つ（R1〜R3・A・B1〜B2）をスライドにまとめた。「①＋⑤」の進め方でよいか OK を出す（OK ならメーカーへの問い合わせと鋳物工場への確認に進む） ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
-- [ ] M08教材作成 ／ 仕様を v0.7 に作り直した（コアを 4mm ずつ A/B/C の3段で重ねる。S1 は CAM と講義、S2 は観察）。コア高さ 12mm と最終的な LTX 高さを反映した形状データを渡す ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
+- [ ] M08教材作成 ／ 仕様 v0.8 を確定（46×22×14mm の LTX モジュール、Cu-10Al コアを3ゾーン、寸法表と図2）。これで確定してよいか、モジュール文書とチェックリストの作成に進んでよいか OK を出す ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
-- [ ] 電極prt一括エクスポート開発 ／ probe2_api.py と probe_api.py を Drive と USB（claudecode/out_nx_electrode_export/01_probe/）に置いた。NX で probe2_api.py を実行し、出てきたレポート（probe2_report.txt と probe_report.txt）を返す ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
+- [ ] 電極ガス抜き穴自動設定 ／ NX の実機で動作を確かめ、結果（エラーメッセージ、情報ウィンドウの内容、またはスクリーンショット）を返す ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
+- [ ] 電極prt一括エクスポート開発 ／ NX で probe2_api.py を実行し、D:\NX\TEST_electrode_export\_electrode_probe_out\ の probe2_report.txt と probe_report.txt を返す（引き続き待ち） ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
 
 ## 🟦 外部待ち
-- [ ] 電極ガス抜き穴自動設定 ／ 22:00 から Claude が作業中（質問に答えた後と思われる）。私の操作は不要（終わったら次回の見直しで区分し直す） ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
-- [ ] FLOP20260930 ／ 公式の testnet 情報（RPC エンドポイント）の公開待ち。その間も自動監視は続いていて、close-1 の定時報告は正常 ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
+- [ ] FLOP20260930 ／ 公式の testnet 情報（RPC エンドポイント）の公開待ち。自動監視は続いている（close-1 の sweep は 2423） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] DAM-M17 材料技術分析 ／ 材料技術からの分析結果待ち。届いたらセッションを再開する ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
 
