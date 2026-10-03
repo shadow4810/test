@@ -1,12 +1,13 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-03 14:00 UTC（10/3 23:00 JST）
+最終確認: 2026-10-03 15:00 UTC（10/4 0:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
+- [ ] penguin-quizzical-puzzle ／ ダッシュボード「Claude Code 作業台帳」を公開した（https://claude.ai/artifact/918mferKE7n1eeKZDjUVNe）。中身を確認し、フックと絞り込みのテスト→コミットに進めてよいか返事をする ／ https://claude.ai/code/session_018uXz9osWhpucDBKGYNLYwz
 - [ ] SFWローラの修理・高寿命化 ／ 試験方法6案（費用・納期・精度の比較表）とサンプル候補6つ（R1〜R3・A・B1〜B2）をスライドにまとめた。「①＋⑤」の進め方でよいか OK を出す（OK ならメーカーへの問い合わせと鋳物工場への確認に進む） ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] M08教材作成 ／ 仕様を v0.7 に作り直した（コアを 4mm ずつ A/B/C の3段で重ねる。S1 は CAM と講義、S2 は観察）。コア高さ 12mm と最終的な LTX 高さを反映した形状データを渡す ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] 電極ガス抜き穴自動設定 ／ 2点に答える：①電極は常に原点・無回転で置かれるか ②ガスだまり検出の方式（priority-flood）の理解で合っているか ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
@@ -16,7 +17,6 @@
 - [ ] 電極prt一括エクスポート開発 ／ probe2_api.py と probe_api.py を Drive と USB（claudecode/out_nx_electrode_export/01_probe/）に置いた。NX で probe2_api.py を実行し、出てきたレポート（probe2_report.txt と probe_report.txt）を返す ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
 
 ## 🟦 外部待ち
-- [ ] penguin-quizzical-puzzle ／ フォルダ整理の続きを Claude が作業中。私の操作は不要（前回のコミット承認に答えたかは不明。終わったら次回の見直しで区分し直す） ／ https://claude.ai/code/session_018uXz9osWhpucDBKGYNLYwz
 - [ ] DAM-M17 材料技術分析 ／ 材料技術からの分析結果待ち。届いたらセッションを再開する ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
 
