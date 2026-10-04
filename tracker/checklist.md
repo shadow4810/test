@@ -1,13 +1,14 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-04 11:00 UTC（10/4 20:00 JST）
+最終確認: 2026-10-04 12:00 UTC（10/4 21:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
-- [ ] M08教材作成 ／ 本文（254行に圧縮）と仕様 v0.8.3 が更新済み。下書きを読んで直してほしい点を返し、講師記入欄 #1〜#3 と #4〜#7 を S2 で扱うかを決める（その後 GL レビュー・公開へ） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
+- [ ] FLOP20260930 ／ 公式 testnet RPC エンドポイントの URL を教えてほしいと求めている（まだ公開されていない様子）。接続情報を渡すか、まだ公開されていないと伝える ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
+- [ ] M08教材作成 ／ レビュー用 PDF（m08_bimetal_mold_review.pdf）を Drive の claudecode/out_ded_training/02_レビュー用pdf/ に置いた。読んで直してほしい点を返し、講師記入欄 #1〜#3 と #4〜#7 を S2 で扱うかを決める（その後 GL レビュー・公開へ） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
@@ -18,7 +19,6 @@
 
 ## 🟦 外部待ち
 - [ ] SFWローラの修理・高寿命化 ／ 提案資料3点を out_ded_general/sfw_roller_repair/01_計画書/ に整理済み。部内の反応待ち。反応が来たらセッションに伝える ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
-- [ ] FLOP20260930 ／ 決着価格（S=234.69）が出て、結果の公式発表待ち。faucet はまだ 404。案A で盤面の収集を続けている ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] VR-6000検討 ／ デモ用のチェックリストを用意済み。デモの結果とデータが出たらセッションに渡す ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ GL のレビュー待ち。フィードバックが届いたらセッションに貼り付ける ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [ ] DAM-M17 材料技術分析 ／ 材料技術からの分析結果待ち。届いたらセッションを再開する ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
