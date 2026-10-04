@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-04 4:00 UTC（10/4 13:00 JST）
+最終確認: 2026-10-04 5:00 UTC（10/4 14:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
@@ -8,7 +8,7 @@
 
 ## 🟥 判断待ち
 - [ ] 鍛造金型へのDED造形適用 ／ 単トラックの段階は社内で色の確認と寸法測定だけで済ませ、断面の分析はパッドの段階で行う案ができた。設備が使えるか確認するか、「進めて」と返して計画書 §5.1 の改訂に進ませる ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
-- [ ] FLOP20260930 ／ 公式の testnet RPC エンドポイントを教えてほしいと求めている（まだ公式に公開されていない様子）。接続情報を渡すか、まだ公開されていないと伝える ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
+- [ ] FLOP20260930 ／ 「TESTNET準備セッションを落としてよいか」の承認を求めている（TESTNET準備はすでにアーカイブ済み）。OK と返す。公式 testnet RPC エンドポイントも引き続き待っている ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] M08教材作成 ／ モジュール文書（docs/modules/m08_bimetal_mold.md）の下書き v0.1 を読んで、直してほしい点を返す ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
