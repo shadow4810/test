@@ -1,12 +1,13 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-04 1:00 UTC（10/4 10:00 JST）
+最終確認: 2026-10-04 2:00 UTC（10/4 11:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
+- [ ] FLOP20260930 ／ 再び「公式の testnet RPC エンドポイントを教えてほしい」と求めている（外部待ちと判断待ちを行き来している）。接続情報を渡すか、まだ公開されていないと伝える ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] penguin-quizzical-puzzle ／ 作業台帳ダッシュボードの自動更新の方法を3つから選ぶ：①毎日 SessionStart フックで更新 ②Google Drive へ毎時コピー ③手動のみ ／ https://claude.ai/code/session_018uXz9osWhpucDBKGYNLYwz
 - [ ] SFWローラの修理・高寿命化 ／ 試験方法6案（費用・納期・精度の比較表）とサンプル候補6つ（R1〜R3・A・B1〜B2）をスライドにまとめた。「①＋⑤」の進め方でよいか OK を出す（OK ならメーカーへの問い合わせと鋳物工場への確認に進む） ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] M08教材作成 ／ 仕様 v0.8 を確定（46×22×14mm の LTX モジュール、Cu-10Al コアを3ゾーン、寸法表と図2）。これで確定してよいか、モジュール文書とチェックリストの作成に進んでよいか OK を出す ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
@@ -17,7 +18,6 @@
 - [ ] 電極prt一括エクスポート開発 ／ NX で probe2_api.py を実行し、D:\NX\TEST_electrode_export\_electrode_probe_out\ の probe2_report.txt と probe_report.txt を返す（引き続き待ち） ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
 
 ## 🟦 外部待ち
-- [ ] FLOP20260930 ／ 公式の testnet 情報（RPC エンドポイント）の公開待ち。自動監視は続いている（close-1 の sweep は 2423） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] DAM-M17 材料技術分析 ／ 材料技術からの分析結果待ち。届いたらセッションを再開する ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
 
