@@ -1,16 +1,18 @@
 # Claude セッション進捗チェックリスト
 
 最終確認: 2026-10-04 5:15 UTC（10/4 14:15 JST）
-区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
+区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
+- [ ] M08教材作成 ／ 本文（254行に圧縮）と仕様 v0.8.3 が更新済み。下書きを読んで直してほしい点を返し、講師記入欄 #1〜#3 と #4〜#7 を S2 で扱うかを決める（その後 GL レビュー・公開へ） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] FLOP20260930 ／ 公式の testnet RPC エンドポイントを教えてほしいと求めている。接続情報を渡すか、まだ公開されていないと伝える（以前の「TESTNET準備を落としてよいか」は TESTNET準備がアーカイブ済みなので済んでいる可能性が高い） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
+- [ ] 鍛造金型へのDED造形適用 ／ 計画書（v0.4／v0.3）とスライドは確定・同期済み。次は試験の実施で、段階0（表面温度の解析）から手配して進める ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] EPX_generator開発 ／ NX で検証した結果を渡す（結果を見て進め方を決めるとのこと） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 - [ ] 電極ガス抜き穴自動設定 ／ NX の実機で動作を確かめ、結果（エラーメッセージ、情報ウィンドウの内容、またはスクリーンショット）を返す ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
 - [ ] 電極prt一括エクスポート開発 ／ NX で probe2_api.py を実行し、D:\NX\TEST_electrode_export\_electrode_probe_out\ の probe2_report.txt と probe_report.txt を返す（引き続き待ち） ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
@@ -23,8 +25,6 @@
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
 
 ## ✅ 完了
-- [x] 鍛造金型へのDED造形適用 ／ 表面温度の解析を段階0に移し、計画書（v0.4／v0.3）とスライドを確定。Drive と USB に同期済み ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
-- [x] M08教材作成 ／ 仕様 v0.8.3・調査メモ v0.14・M05 ノート v0.1.1 を同期し、本文を 286→254 行に圧縮 ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [x] OJT進め方相談室 ／ 「月曜面談」を「週次ふりかえり」に変更。台本を直し、Drive と USB のファイルも差し替え済み ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
 - [x] 指令塔 ／ 経緯メモに承認版への切り替えと名称統一の経緯を追記して完了（前に挙がっていた TODO の手直しが済んだかは確認できていない） ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
 - [x] 計画書 ／ 承認済みの計画書（20260929）を正本として確認。Drive と USB の差し替えも済み ／ https://claude.ai/code/session_018fTVUa52tU51Wnww3eyxMr

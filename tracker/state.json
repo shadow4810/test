@@ -45,9 +45,9 @@
       "base_title": "計画書"
     },
     "session_01VcRiswB5sYcoK6PQqF8c6K": {
-      "title": "✅ M08教材作成",
+      "title": "🟥 M08教材作成",
       "base_title": "M08教材作成",
-      "group": "✅完了",
+      "group": "🟥判断待ち",
       "updated_at": "2026-10-04T05:34:26.444474Z"
     },
     "session_01E9KHwux1YV1ErcY1Tm9byL": {
@@ -100,9 +100,10 @@
     },
     "session_015GonF7YvnSZ2DNCtn1NSw4": {
       "base_title": "鍛造金型へのDED造形適用",
-      "group": "✅完了",
-      "updated_at": "2026-10-04T05:34:44.011831Z",
-      "title": "✅ 鍛造金型へのDED造形適用"
+      "group": "🟧手作業",
+      "updated_at": "2026-10-04T05:56:11.663710Z",
+      "title": "🟧 鍛造金型へのDED造形適用"
     }
-  }
+  },
+  "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
 }
