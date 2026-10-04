@@ -1,13 +1,13 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-04 9:00 UTC（10/4 18:00 JST）
+最終確認: 2026-10-04 10:00 UTC（10/4 19:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
-- [ ] 鍛造金型へのDED造形適用 ／ DED は Inconel 718 の荒取りの時間を減らせるが、仕上げの難しさは変わらない、と分析。2001年の金型の仕上げが放電加工か切削かを答える（DED の価値の判断に使う）。前回の3点（SKD61 板の追加・時効24時間・目標5倍）にも OK を出す ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
+- [ ] 鍛造金型へのDED造形適用 ／ 既存の型も補修できると分析（ヒートチェックを削り取り→Inconel 718 を肉盛り→仕上げ。熱処理は H1 か低温の H2 に限る）。廃却する型で検証することを提案している。進めるか決める（前回までの質問に答えたかは要約からは不明） ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] M08教材作成 ／ 本文（254行に圧縮）と仕様 v0.8.3 が更新済み。下書きを読んで直してほしい点を返し、講師記入欄 #1〜#3 と #4〜#7 を S2 で扱うかを決める（その後 GL レビュー・公開へ） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
@@ -18,7 +18,7 @@
 
 ## 🟦 外部待ち
 - [ ] SFWローラの修理・高寿命化 ／ 提案資料3点を out_ded_general/sfw_roller_repair/01_計画書/ に整理済み。部内の反応待ち。反応が来たらセッションに伝える ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
-- [ ] FLOP20260930 ／ bot は 17:55 JST に停止し、19:12 JST に結果を確認する予定。公式 testnet RPC エンドポイントの公開待ち ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
+- [ ] FLOP20260930 ／ 公式 testnet RPC エンドポイントの公開待ち（自動監視は継続中） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] VR-6000検討 ／ デモ用のチェックリストを用意済み。デモの結果とデータが出たらセッションに渡す ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ GL のレビュー待ち。フィードバックが届いたらセッションに貼り付ける ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [ ] DAM-M17 材料技術分析 ／ 材料技術からの分析結果待ち。届いたらセッションを再開する ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
