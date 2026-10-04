@@ -1,13 +1,12 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-04 21:00 UTC（10/5 6:00 JST）
+最終確認: 2026-10-04 22:00 UTC（10/5 7:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
-- [ ] M08教材作成 ／ 仕様書の表記を「高さ」に統一（v0.5.2、§6.3 も同期）。レビュー用 PDF v0.5 への次の修正指示をまとめて渡す（講師記入欄 #1〜#3／#4〜#7 を S2 で扱うかも決める。その後 GL レビュー・公開へ） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
@@ -17,6 +16,7 @@
 - [ ] 電極prt一括エクスポート開発 ／ NX で probe2_api.py を実行し、D:\NX\TEST_electrode_export\_electrode_probe_out\ の probe2_report.txt と probe_report.txt を返す（引き続き待ち） ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
 
 ## 🟦 外部待ち
+- [ ] M08教材作成 ／ M08／M13 の GL レビュー結果待ち（次の手順は記録済み）。結果が届いたらセッションに渡す ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] FLOP20260930 ／ close-1 の集計（23,095 件）を終え、公式結果と testnet RPC の公開待ち（セッションが監視中）。公開されたら接続情報を渡す ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] SFWローラの修理・高寿命化 ／ 提案資料3点を out_ded_general/sfw_roller_repair/01_計画書/ に整理済み。部内の反応待ち。反応が来たらセッションに伝える ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] VR-6000検討 ／ デモ用のチェックリストを用意済み。デモの結果とデータが出たらセッションに渡す ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
