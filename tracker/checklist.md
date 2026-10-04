@@ -1,15 +1,15 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-04 3:00 UTC（10/4 12:00 JST）
+最終確認: 2026-10-04 4:00 UTC（10/4 13:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
-- [ ] FLOP20260930 ／ 「TESTNET準備セッションを落としてよいか」の確認を求めている（TESTNET準備は 03:00 時点でアーカイブ済みなので、もう済んでいる可能性あり）。必要なら OK と返す ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
-- [ ] penguin-quizzical-puzzle ／ ダッシュボードの定期公開の方法を決める：非公開リポジトリ＋ルーティンで進めるか、毎日こちらから頼む方式にするか ／ https://claude.ai/code/session_018uXz9osWhpucDBKGYNLYwz
-- [ ] M08教材作成 ／ 本文 v0.1・別紙・チェックリストの下書きが完成。講師記入欄 #1〜#3（CAM 確認）を書き、#4〜#7（造形品の進捗確認、重ね代別の比較の扱い）を S2 で扱うか決める ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
+- [ ] 鍛造金型へのDED造形適用 ／ 単トラックの段階は社内で色の確認と寸法測定だけで済ませ、断面の分析はパッドの段階で行う案ができた。設備が使えるか確認するか、「進めて」と返して計画書 §5.1 の改訂に進ませる ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
+- [ ] FLOP20260930 ／ 公式の testnet RPC エンドポイントを教えてほしいと求めている（まだ公式に公開されていない様子）。接続情報を渡すか、まだ公開されていないと伝える ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
+- [ ] M08教材作成 ／ モジュール文書（docs/modules/m08_bimetal_mold.md）の下書き v0.1 を読んで、直してほしい点を返す ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
@@ -22,8 +22,7 @@
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
 
 ## ✅ 完了
-- [x] SFWローラの修理・高寿命化 ／ SRV 試験機を④（アルミの凝着の比較）の第一候補に決め、計画書 v0.9 とスライドを更新済み（前回の「①＋⑤」の承認は済んだと思われる） ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
-- [x] 鍛造金型へのDED造形適用 ／ 段階1（試験片の造形）と段階2（高温試験）の計画書をスライドにし、Drive と USB（out_ded_general/forging_die_ded/01_計画書/）に配置済み ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
+- [x] SFWローラの修理・高寿命化 ／ SRV 試験機の試験球をアルミに変えることは寸法上可能。ただし実機での確認が必須で、材料技術部に4項目（ホルダが使えるか、温度上限、荷重・振幅・周波数、円板の寸法）を確かめて試験できるか判断する必要がある ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [x] Winroof解析 ／ 図3の横軸を指標ごとにそろえて PDF を作り直し、Drive と USB を更新済み ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [x] VR-6000検討 ／ 調査メモと .gitignore をコミット済み（eec728c）。図面はローカルのみ ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
 - [x] OJT進め方相談室 ／ 「月曜面談」を「週次ふりかえり」に変更。台本を直し、Drive と USB のファイルも差し替え済み ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7

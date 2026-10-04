@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-04T03:00:00Z",
+  "last_checked": "2026-10-04T04:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-04T03:00:29.113901Z",
+      "updated_at": "2026-10-04T03:42:46.283691Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -48,7 +48,7 @@
       "title": "🟥 M08教材作成",
       "base_title": "M08教材作成",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-04T02:28:09.125893Z"
+      "updated_at": "2026-10-04T03:16:10.112806Z"
     },
     "session_01E9KHwux1YV1ErcY1Tm9byL": {
       "title": "🟧 電極prt一括エクスポート開発",
@@ -74,12 +74,6 @@
       "group": "✅完了",
       "updated_at": "2026-10-03T05:54:33.810640Z"
     },
-    "session_018uXz9osWhpucDBKGYNLYwz": {
-      "base_title": "penguin-quizzical-puzzle",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-04T02:20:07.422979Z",
-      "title": "🟥 penguin-quizzical-puzzle"
-    },
     "session_01NMcZKJMWnQZUtyTagcTRFL": {
       "base_title": "DAM-M17 材料技術分析",
       "group": "🟦外部待ち",
@@ -101,14 +95,14 @@
     "session_01VhcnY2XVmxoGGmjiRfGqa3": {
       "base_title": "SFWローラの修理・高寿命化",
       "group": "✅完了",
-      "updated_at": "2026-10-04T02:52:26.611220Z",
+      "updated_at": "2026-10-04T03:12:27.239034Z",
       "title": "✅ SFWローラの修理・高寿命化"
     },
     "session_015GonF7YvnSZ2DNCtn1NSw4": {
       "base_title": "鍛造金型へのDED造形適用",
-      "group": "✅完了",
-      "updated_at": "2026-10-03T13:28:42.415281Z",
-      "title": "✅ 鍛造金型へのDED造形適用"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-04T03:51:38.419018Z",
+      "title": "🟥 鍛造金型へのDED造形適用"
     }
   }
 }
