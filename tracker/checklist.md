@@ -1,12 +1,13 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-04 7:00 UTC（10/4 16:00 JST）
+最終確認: 2026-10-04 8:00 UTC（10/4 17:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
+- [ ] 鍛造金型へのDED造形適用 ／ 母材で改善する3案（①SKD61＋620〜650℃焼戻し ②高熱伝導の熱間工具鋼 ③全体を718）を出し、①を段階1で試すことを勧めている。3点に OK を出す：SKD61 板を段階1に追加するか、時効を24時間に延ばすか、目標を摩耗寿命の約5倍に置き直すか ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] M08教材作成 ／ 本文（254行に圧縮）と仕様 v0.8.3 が更新済み。下書きを読んで直してほしい点を返し、講師記入欄 #1〜#3 と #4〜#7 を S2 で扱うかを決める（その後 GL レビュー・公開へ） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
@@ -17,7 +18,6 @@
 
 ## 🟦 外部待ち
 - [ ] SFWローラの修理・高寿命化 ／ 提案資料3点を out_ded_general/sfw_roller_repair/01_計画書/ に整理済み。部内の反応待ち。反応が来たらセッションに伝える ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
-- [ ] 鍛造金型へのDED造形適用 ／ 7:00 から Claude が作業中。操作は不要（終わったら次の見直しで区分し直す） ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] FLOP20260930 ／ 自動監視は正常（fastdeal 06:00 UTC：配送2件、エラー0）。公式 testnet RPC エンドポイントの公開待ち ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] VR-6000検討 ／ デモ用のチェックリストを用意済み。デモの結果とデータが出たらセッションに渡す ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ GL のレビュー待ち。フィードバックが届いたらセッションに貼り付ける ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g

@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-04T07:00:00Z",
+  "last_checked": "2026-10-04T08:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟦 FLOP20260930",
       "group": "🟦外部待ち",
-      "updated_at": "2026-10-04T07:00:45.847430Z",
+      "updated_at": "2026-10-04T07:42:44.511138Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -100,9 +100,9 @@
     },
     "session_015GonF7YvnSZ2DNCtn1NSw4": {
       "base_title": "鍛造金型へのDED造形適用",
-      "group": "🟦外部待ち",
-      "updated_at": "2026-10-04T07:00:43.925050Z",
-      "title": "🟦 鍛造金型へのDED造形適用"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-04T07:20:06.191024Z",
+      "title": "🟥 鍛造金型へのDED造形適用"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
