@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-04 16:00 UTC（10/5 1:00 JST）
+最終確認: 2026-10-04 17:00 UTC（10/5 2:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -17,7 +17,7 @@
 - [ ] 電極prt一括エクスポート開発 ／ NX で probe2_api.py を実行し、D:\NX\TEST_electrode_export\_electrode_probe_out\ の probe2_report.txt と probe_report.txt を返す（引き続き待ち） ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
 
 ## 🟦 外部待ち
-- [ ] FLOP20260930 ／ 公式 testnet RPC の公開待ち（セッションが監視中）。公開されたら接続情報を渡す ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
+- [ ] FLOP20260930 ／ close-1 の集計（23,095 件）を終え、公式結果と testnet RPC の公開待ち（セッションが監視中）。公開されたら接続情報を渡す ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] SFWローラの修理・高寿命化 ／ 提案資料3点を out_ded_general/sfw_roller_repair/01_計画書/ に整理済み。部内の反応待ち。反応が来たらセッションに伝える ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] VR-6000検討 ／ デモ用のチェックリストを用意済み。デモの結果とデータが出たらセッションに渡す ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ GL のレビュー待ち。フィードバックが届いたらセッションに貼り付ける ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
