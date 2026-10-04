@@ -1,13 +1,14 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-04 13:00 UTC（10/4 22:00 JST）
+最終確認: 2026-10-04 14:00 UTC（10/4 23:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
-- [ ] M08教材作成 ／ レビュー用 PDF（m08_bimetal_mold_review.pdf）を Drive の claudecode/out_ded_training/02_レビュー用pdf/ に置いた。読んで直してほしい点を返し、講師記入欄 #1〜#3 と #4〜#7 を S2 で扱うかを決める（その後 GL レビュー・公開へ） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
+- [ ] FLOP20260930 ／ 公式 testnet RPC エンドポイントの URL を教えてほしいと求めている（まだ公開されていない様子）。接続情報を渡すか、まだ公開されていないと伝える ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
+- [ ] M08教材作成 ／ レビュー用 PDF を v0.5 に更新（§4.2.2 差し替え＋8か所修正、Drive 更新済み）。読んで直してほしい点を返し、講師記入欄 #1〜#3 と #4〜#7 を S2 で扱うかを決める（その後 GL レビュー・公開へ） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
@@ -17,7 +18,6 @@
 - [ ] 電極prt一括エクスポート開発 ／ NX で probe2_api.py を実行し、D:\NX\TEST_electrode_export\_electrode_probe_out\ の probe2_report.txt と probe_report.txt を返す（引き続き待ち） ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
 
 ## 🟦 外部待ち
-- [ ] FLOP20260930 ／ 自動監視は正常（fastpay：注文3・決済1・返金5、12:00Z から静かな時間帯）。公式 testnet RPC エンドポイントの公開待ち ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] SFWローラの修理・高寿命化 ／ 提案資料3点を out_ded_general/sfw_roller_repair/01_計画書/ に整理済み。部内の反応待ち。反応が来たらセッションに伝える ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] VR-6000検討 ／ デモ用のチェックリストを用意済み。デモの結果とデータが出たらセッションに渡す ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ GL のレビュー待ち。フィードバックが届いたらセッションに貼り付ける ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g

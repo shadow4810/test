@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-04T13:00:00Z",
+  "last_checked": "2026-10-04T14:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
-      "title": "🟦 FLOP20260930",
-      "group": "🟦外部待ち",
-      "updated_at": "2026-10-04T12:44:55.611288Z",
+      "title": "🟥 FLOP20260930",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-04T13:45:57.376164Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -48,7 +48,7 @@
       "title": "🟥 M08教材作成",
       "base_title": "M08教材作成",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-04T11:02:46.719640Z"
+      "updated_at": "2026-10-04T13:55:13.358865Z"
     },
     "session_01E9KHwux1YV1ErcY1Tm9byL": {
       "title": "🟧 電極prt一括エクスポート開発",
