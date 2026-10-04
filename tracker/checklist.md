@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-04 6:00 UTC（10/4 15:00 JST）
+最終確認: 2026-10-04 7:00 UTC（10/4 16:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,17 +8,17 @@
 
 ## 🟥 判断待ち
 - [ ] M08教材作成 ／ 本文（254行に圧縮）と仕様 v0.8.3 が更新済み。下書きを読んで直してほしい点を返し、講師記入欄 #1〜#3 と #4〜#7 を S2 で扱うかを決める（その後 GL レビュー・公開へ） ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
-- [ ] FLOP20260930 ／ 公式の testnet RPC エンドポイントを教えてほしいと求めている。接続情報を渡すか、まだ公開されていないと伝える（以前の「TESTNET準備を落としてよいか」は TESTNET準備がアーカイブ済みなので済んでいる可能性が高い） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
-- [ ] SFWローラの修理・高寿命化 ／ 試験計画のスライド（形状の回復・耐久性向上・窒化の詳細の3枚）を更新し Drive に置いた。次は試験の手配：材料技術部に SRV 試験機の4項目（ホルダ、温度上限、荷重・振幅・周波数、円板寸法）を確認して進める ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
-- [ ] 鍛造金型へのDED造形適用 ／ 計画書（v0.4／v0.3）とスライドは確定・同期済み。次は試験の実施で、段階0（表面温度の解析）から手配して進める ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] EPX_generator開発 ／ NX で検証した結果を渡す（結果を見て進め方を決めるとのこと） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 - [ ] 電極ガス抜き穴自動設定 ／ NX の実機で動作を確かめ、結果（エラーメッセージ、情報ウィンドウの内容、またはスクリーンショット）を返す ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
 - [ ] 電極prt一括エクスポート開発 ／ NX で probe2_api.py を実行し、D:\NX\TEST_electrode_export\_electrode_probe_out\ の probe2_report.txt と probe_report.txt を返す（引き続き待ち） ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
 
 ## 🟦 外部待ち
+- [ ] SFWローラの修理・高寿命化 ／ 提案資料3点を out_ded_general/sfw_roller_repair/01_計画書/ に整理済み。部内の反応待ち。反応が来たらセッションに伝える ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
+- [ ] 鍛造金型へのDED造形適用 ／ 7:00 から Claude が作業中。操作は不要（終わったら次の見直しで区分し直す） ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
+- [ ] FLOP20260930 ／ 自動監視は正常（fastdeal 06:00 UTC：配送2件、エラー0）。公式 testnet RPC エンドポイントの公開待ち ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] VR-6000検討 ／ デモ用のチェックリストを用意済み。デモの結果とデータが出たらセッションに渡す ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ GL のレビュー待ち。フィードバックが届いたらセッションに貼り付ける ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [ ] DAM-M17 材料技術分析 ／ 材料技術からの分析結果待ち。届いたらセッションを再開する ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
