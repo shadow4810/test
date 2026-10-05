@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-05 11:00 UTC（10/5 20:00 JST）
+最終確認: 2026-10-05 12:00 UTC（10/5 21:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -14,7 +14,7 @@
 ## 🟧 手作業
 - [ ] 製番部番ドキュメント保存機能追加 ／ 整理作業（27件を archive へ移動、引き継ぎメモ訂正）と UX-28 の時刻表示（6か所を日本時間に、テスト194件OK）が完了。開発サーバを起動して UX-28 の時刻表示を目で確かめる ／ https://claude.ai/code/session_01G3u5Yq1LnRweZRfvHpyxYp
 - [ ] 電極prt一括エクスポート開発 ／ （新しいセッション）electrode_export.py が完成し、手元のテスト65件OK。NX のテスト用アセンブリで実行し、export/ への出力・上書き・一部選択を確かめ、最後のメッセージと情報ウィンドウの内容を送る ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
-- [ ] EPX_generator開発 ／ 属性設定ツール（VB.NET）が完成し、連携テスト63件OK。NX 実機でツールを実行し、S-01〜S-03 の確認結果・スクリーンショット・保存した設定ファイルを送る ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
+- [ ] EPX_generator開発 ／ 属性設定ツール（VB.NET）完成、連携テスト63件OK。最新61ファイルを USB（claudecode/out_epx_generator/）に反映済み。NX 実機でツールを実行し、S-01〜S-03 の確認結果・スクリーンショット・保存した設定ファイルを送る ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟦 外部待ち
 - [ ] M08教材作成 ／ M08／M13 の GL レビュー結果待ち（次の手順は記録済み）。結果が届いたらセッションに渡す ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
