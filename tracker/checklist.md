@@ -1,26 +1,27 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-05 12:00 UTC（10/5 21:00 JST）
+最終確認: 2026-10-05 13:00 UTC（10/5 22:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
+- [ ] バイメタル造形CAM自動化 ／ （新しいセッション）仕様書 v0.2 完成（1サイクル分の型を N サイクルに複製し、サイクルごとに変えるのは高さ Z だけ）。未回答の質問 Q10〜Q12（形状の変化、高さ欄の特定、余りの扱い）に答える。あわせて NX 2312 でサイクル1〜2を記録し、高さ欄の変化とスクリーンショット、probe_env.py の結果を MyDrive/claudecode/in_nx_ded_bimetal_cam/（または nx_probe/）に上げる ／ https://claude.ai/code/session_012fSWKeX93eEYPqMjqC6evx
 - [ ] 鍛造金型へのDED造形適用 ／ 試験計画をまとめるため、4つの修正案への判断を求めている。4案を承認するか、変えたい点を伝える ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] FLOP20260930 ／ 公式 testnet RPC エンドポイントを教えてほしいと再び求めている（まだ公開されていない）。接続情報を渡すか、「公開されたら伝える」と返す ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
-- [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
-- [ ] 製番部番ドキュメント保存機能追加 ／ 整理作業（27件を archive へ移動、引き継ぎメモ訂正）と UX-28 の時刻表示（6か所を日本時間に、テスト194件OK）が完了。開発サーバを起動して UX-28 の時刻表示を目で確かめる ／ https://claude.ai/code/session_01G3u5Yq1LnRweZRfvHpyxYp
+- [ ] 製番部番ドキュメント保存機能追加 ／ UX-28 の日本時間表示を6か所とも確認済み、テスト全件OK、リリースできる状態。本番に反映する ／ https://claude.ai/code/session_01G3u5Yq1LnRweZRfvHpyxYp
+- [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ 根拠 Excel（明細630行、90項目すべて元データと照合済み）と画像12枚ができて送付済み。受け取ったファイルを GL に渡す ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [ ] 電極prt一括エクスポート開発 ／ （新しいセッション）electrode_export.py が完成し、手元のテスト65件OK。NX のテスト用アセンブリで実行し、export/ への出力・上書き・一部選択を確かめ、最後のメッセージと情報ウィンドウの内容を送る ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
 - [ ] EPX_generator開発 ／ 属性設定ツール（VB.NET）完成、連携テスト63件OK。最新61ファイルを USB（claudecode/out_epx_generator/）に反映済み。NX 実機でツールを実行し、S-01〜S-03 の確認結果・スクリーンショット・保存した設定ファイルを送る ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟦 外部待ち
+- [ ] EPXgen予備 ／ バイメタル造形CAM自動化のセッションに指示を送り、その返事を待っている ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 - [ ] M08教材作成 ／ M08／M13 の GL レビュー結果待ち（次の手順は記録済み）。結果が届いたらセッションに渡す ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] SFWローラの修理・高寿命化 ／ 提案資料3点を out_ded_general/sfw_roller_repair/01_計画書/ に整理済み。部内の反応待ち。反応が来たらセッションに伝える ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] VR-6000検討 ／ デモ用のチェックリストを用意済み。デモの結果とデータが出たらセッションに渡す ／ https://claude.ai/code/session_016TPbjdfdHzTtQqjbRM31Ay
-- [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ GL のレビュー待ち。フィードバックが届いたらセッションに貼り付ける ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [ ] DAM-M17 材料技術分析 ／ 材料技術からの分析結果待ち。届いたらセッションを再開する ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
 
