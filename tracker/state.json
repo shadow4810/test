@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-05T21:00:00Z",
+  "last_checked": "2026-10-05T22:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-05T20:57:41.098327Z",
+      "updated_at": "2026-10-05T21:58:12.556889Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -77,7 +77,7 @@
     "session_01RjyqBTpGvmGbdYC1n6A56g": {
       "base_title": "LTX表面と内部の欠陥観察",
       "group": "🟧手作業",
-      "updated_at": "2026-10-05T12:13:33.262047Z",
+      "updated_at": "2026-10-05T21:16:49.010445Z",
       "title": "🟧 LTX表面と内部の欠陥観察"
     },
     "session_0183JN1ohfmutn4DiK8dz9iG": {
@@ -94,9 +94,9 @@
     },
     "session_015GonF7YvnSZ2DNCtn1NSw4": {
       "base_title": "鍛造金型へのDED造形適用",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-05T09:19:15.014400Z",
-      "title": "🟥 鍛造金型へのDED造形適用"
+      "group": "🟧手作業",
+      "updated_at": "2026-10-05T21:27:23.885120Z",
+      "title": "🟧 鍛造金型へのDED造形適用"
     },
     "session_01PN8DUjPuBCKfHo3QgLGcRA": {
       "title": "🟧 電極prt一括エクスポート開発",

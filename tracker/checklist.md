@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-05 21:00 UTC（10/6 6:00 JST）
+最終確認: 2026-10-05 22:00 UTC（10/6 7:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,12 +8,12 @@
 
 ## 🟥 判断待ち
 - [ ] バイメタル造形CAM自動化 ／ （新しいセッション）仕様書 v0.2 完成（1サイクル分の型を N サイクルに複製し、サイクルごとに変えるのは高さ Z だけ）。未回答の質問 Q10〜Q12（形状の変化、高さ欄の特定、余りの扱い）に答える。あわせて NX 2312 でサイクル1〜2を記録し、高さ欄の変化とスクリーンショット、probe_env.py の結果を MyDrive/claudecode/in_nx_ded_bimetal_cam/（または nx_probe/）に上げる ／ https://claude.ai/code/session_012fSWKeX93eEYPqMjqC6evx
-- [ ] 鍛造金型へのDED造形適用 ／ 試験計画をまとめるため、4つの修正案への判断を求めている。4案を承認するか、変えたい点を伝える ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] FLOP20260930 ／ 公式 testnet RPC エンドポイントを教えてほしいと再び求めている（まだ公開されていない）。接続情報を渡すか、「公開されたら伝える」と返す ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 
 ## 🟧 手作業
+- [ ] 鍛造金型へのDED造形適用 ／ 4つの修正案を反映し、第1〜2段階の計画書（v0.5／v0.4）とスライドを更新、Google Drive と USB にも反映済み。試験片13個、寿命の目標は摩耗の約5倍、段付きパッド 0.3／0.7 mm（仮）。計画書に沿って試験片の製作・試験を進める（変形は第3〜4段階で確認） ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] 製番部番ドキュメント保存機能追加 ／ リリース用 zip（DED_QMS_release_20261006_052450.zip、353ファイル）と本番適用手順メモを Google Drive の claudecode/out_ded_qms/01_リリース/ に用意済み。手順メモに沿って本番に反映する ／ https://claude.ai/code/session_01G3u5Yq1LnRweZRfvHpyxYp
-- [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ 根拠 Excel（明細630行、90項目すべて元データと照合済み）と画像12枚ができて送付済み。受け取ったファイルを GL に渡す ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
+- [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ 根拠 Excel・画像12枚・PDF 報告書の13ファイルを Google Drive（claudecode/out_ded_general/defect_fatigue_sqrtarea/05_報告書/）と USB に保存済み（md5 確認済み）。GL に渡す ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [ ] 電極prt一括エクスポート開発 ／ （新しいセッション）electrode_export.py が完成し、手元のテスト65件OK。NX のテスト用アセンブリで実行し、export/ への出力・上書き・一部選択を確かめ、最後のメッセージと情報ウィンドウの内容を送る ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
 - [ ] EPX_generator開発 ／ 属性設定ツール（VB.NET）完成、連携テスト63件OK。最新61ファイルを USB（claudecode/out_epx_generator/）に反映済み。NX 実機でツールを実行し、S-01〜S-03 の確認結果・スクリーンショット・保存した設定ファイルを送る ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
