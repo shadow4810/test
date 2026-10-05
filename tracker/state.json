@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-05T20:00:00Z",
+  "last_checked": "2026-10-05T21:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-05T19:57:19.098005Z",
+      "updated_at": "2026-10-05T20:57:41.098327Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -108,7 +108,7 @@
       "title": "🟧 製番部番ドキュメント保存機能追加",
       "base_title": "製番部番ドキュメント保存機能追加",
       "group": "🟧手作業",
-      "updated_at": "2026-10-05T12:19:26.371789Z"
+      "updated_at": "2026-10-05T20:25:38.523234Z"
     },
     "session_012fSWKeX93eEYPqMjqC6evx": {
       "title": "🟥 バイメタル造形CAM自動化",

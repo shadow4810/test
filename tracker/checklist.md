@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-05 20:00 UTC（10/6 5:00 JST）
+最終確認: 2026-10-05 21:00 UTC（10/6 6:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -12,7 +12,7 @@
 - [ ] FLOP20260930 ／ 公式 testnet RPC エンドポイントを教えてほしいと再び求めている（まだ公開されていない）。接続情報を渡すか、「公開されたら伝える」と返す ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 
 ## 🟧 手作業
-- [ ] 製番部番ドキュメント保存機能追加 ／ UX-28 の日本時間表示を6か所とも確認済み、テスト全件OK、リリースできる状態。本番に反映する ／ https://claude.ai/code/session_01G3u5Yq1LnRweZRfvHpyxYp
+- [ ] 製番部番ドキュメント保存機能追加 ／ リリース用 zip（DED_QMS_release_20261006_052450.zip、353ファイル）と本番適用手順メモを Google Drive の claudecode/out_ded_qms/01_リリース/ に用意済み。手順メモに沿って本番に反映する ／ https://claude.ai/code/session_01G3u5Yq1LnRweZRfvHpyxYp
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ 根拠 Excel（明細630行、90項目すべて元データと照合済み）と画像12枚ができて送付済み。受け取ったファイルを GL に渡す ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [ ] 電極prt一括エクスポート開発 ／ （新しいセッション）electrode_export.py が完成し、手元のテスト65件OK。NX のテスト用アセンブリで実行し、export/ への出力・上書き・一部選択を確かめ、最後のメッセージと情報ウィンドウの内容を送る ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
 - [ ] EPX_generator開発 ／ 属性設定ツール（VB.NET）完成、連携テスト63件OK。最新61ファイルを USB（claudecode/out_epx_generator/）に反映済み。NX 実機でツールを実行し、S-01〜S-03 の確認結果・スクリーンショット・保存した設定ファイルを送る ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
