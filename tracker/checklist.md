@@ -1,19 +1,19 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-05 10:00 UTC（10/5 19:00 JST）
+最終確認: 2026-10-05 11:00 UTC（10/5 20:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
-- [ ] 電極prt一括エクスポート開発 ／ セッションが操作の許可待ちで止まっている。開いて内容を確認し、許可するか断る ／ https://claude.ai/code/session_01E9KHwux1YV1ErcY1Tm9byL
 - [ ] 鍛造金型へのDED造形適用 ／ 試験計画をまとめるため、4つの修正案への判断を求めている。4案を承認するか、変えたい点を伝える ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] FLOP20260930 ／ 公式 testnet RPC エンドポイントを教えてほしいと再び求めている（まだ公開されていない）。接続情報を渡すか、「公開されたら伝える」と返す ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] EPXgen予備 ／ 新しく作られたが、まだ何もしていない。使うなら指示を送る ／ https://claude.ai/code/session_013jfA4BsM5XSGBMPziCfANG
 
 ## 🟧 手作業
-- [ ] 電極ガス抜き穴自動設定 ／ NX 実機で動作確認済み（閉じたポケットごとに円柱を作成、元に戻す／やり直し OK、部品・アセンブリどちらでも動く）。USB ドライブを差し込み、02_journal フォルダを更新できるようにする ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
+- [ ] 製番部番ドキュメント保存機能追加 ／ 整理作業（27件を archive へ移動、引き継ぎメモ訂正）と UX-28 の時刻表示（6か所を日本時間に、テスト194件OK）が完了。開発サーバを起動して UX-28 の時刻表示を目で確かめる ／ https://claude.ai/code/session_01G3u5Yq1LnRweZRfvHpyxYp
+- [ ] 電極prt一括エクスポート開発 ／ （新しいセッション）electrode_export.py が完成し、手元のテスト65件OK。NX のテスト用アセンブリで実行し、export/ への出力・上書き・一部選択を確かめ、最後のメッセージと情報ウィンドウの内容を送る ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
 - [ ] EPX_generator開発 ／ 属性設定ツール（VB.NET）が完成し、連携テスト63件OK。NX 実機でツールを実行し、S-01〜S-03 の確認結果・スクリーンショット・保存した設定ファイルを送る ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 
 ## 🟦 外部待ち
@@ -25,6 +25,7 @@
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
 
 ## ✅ 完了
+- [x] 電極ガス抜き穴自動設定 ／ NX 実機で動作確認済み。最新のジャーナルを USB に入れ、Google Drive と一致を確認（4ファイル、md5 一致）。仕事全体が完了 ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
 - [x] OJT進め方相談室 ／ 「月曜面談」を「週次ふりかえり」に変更。台本を直し、Drive と USB のファイルも差し替え済み ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
 - [x] 指令塔 ／ 経緯メモに承認版への切り替えと名称統一の経緯を追記して完了（前に挙がっていた TODO の手直しが済んだかは確認できていない） ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
 - [x] 計画書 ／ 承認済みの計画書（20260929）を正本として確認。Drive と USB の差し替えも済み ／ https://claude.ai/code/session_018fTVUa52tU51Wnww3eyxMr
