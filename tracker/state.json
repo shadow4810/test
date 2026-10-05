@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-05T08:00:00Z",
+  "last_checked": "2026-10-05T09:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-05T07:48:59.630678Z",
+      "updated_at": "2026-10-05T08:52:21.366126Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -17,7 +17,7 @@
     "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
       "title": "🟧 EPX_generator開発",
       "group": "🟧手作業",
-      "updated_at": "2026-10-04T02:50:12.490812Z",
+      "updated_at": "2026-10-05T08:35:35.290494Z",
       "base_title": "EPX_generator開発"
     },
     "session_01VidqCopvRnqEo3jWWDjSX7": {
@@ -51,10 +51,10 @@
       "updated_at": "2026-10-04T21:42:23.524597Z"
     },
     "session_01E9KHwux1YV1ErcY1Tm9byL": {
-      "title": "🟧 電極prt一括エクスポート開発",
+      "title": "🟥 電極prt一括エクスポート開発",
       "base_title": "電極prt一括エクスポート開発",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-03T22:07:58.835794Z"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-05T08:29:10.627638Z"
     },
     "session_013jfA4BsM5XSGBMPziCfANG": {
       "title": "🟥 EPXgen予備",
@@ -66,7 +66,7 @@
       "title": "🟧 電極ガス抜き穴自動設定",
       "base_title": "電極ガス抜き穴自動設定",
       "group": "🟧手作業",
-      "updated_at": "2026-10-03T22:09:30.082975Z"
+      "updated_at": "2026-10-05T08:52:07.505892Z"
     },
     "session_016TPbjdfdHzTtQqjbRM31Ay": {
       "title": "🟦 VR-6000検討",
@@ -100,9 +100,9 @@
     },
     "session_015GonF7YvnSZ2DNCtn1NSw4": {
       "base_title": "鍛造金型へのDED造形適用",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-04T10:23:35.196591Z",
-      "title": "🟧 鍛造金型へのDED造形適用"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-05T08:26:01.064664Z",
+      "title": "🟥 鍛造金型へのDED造形適用"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
