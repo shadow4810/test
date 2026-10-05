@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-05T09:00:00Z",
+  "last_checked": "2026-10-05T10:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-05T08:52:21.366126Z",
+      "updated_at": "2026-10-05T09:58:45.341990Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -66,7 +66,7 @@
       "title": "🟧 電極ガス抜き穴自動設定",
       "base_title": "電極ガス抜き穴自動設定",
       "group": "🟧手作業",
-      "updated_at": "2026-10-05T08:52:07.505892Z"
+      "updated_at": "2026-10-05T09:09:45.877405Z"
     },
     "session_016TPbjdfdHzTtQqjbRM31Ay": {
       "title": "🟦 VR-6000検討",
@@ -101,7 +101,7 @@
     "session_015GonF7YvnSZ2DNCtn1NSw4": {
       "base_title": "鍛造金型へのDED造形適用",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-05T08:26:01.064664Z",
+      "updated_at": "2026-10-05T09:19:15.014400Z",
       "title": "🟥 鍛造金型へのDED造形適用"
     }
   },
