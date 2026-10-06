@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-06 13:00 UTC（10/6 22:00 JST）
+最終確認: 2026-10-06 17:00 UTC（10/7 2:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -9,7 +9,7 @@
 ## 🟥 判断待ち
 - [ ] M09教材作成 ／ （新しいセッション）始めたばかりで、操作の許可待ちで止まっている。開いて内容を確認し、許可するか断る ／ https://claude.ai/code/session_013hd3EPjADEmujSjZePLGam
 - [ ] バイメタル造形CAM自動化 ／ （新しいセッション）仕様書 v0.2 完成（1サイクル分の型を N サイクルに複製し、サイクルごとに変えるのは高さ Z だけ）。未回答の質問 Q10〜Q12（形状の変化、高さ欄の特定、余りの扱い）に答える。あわせて NX 2312 でサイクル1〜2を記録し、高さ欄の変化とスクリーンショット、probe_env.py の結果を MyDrive/claudecode/in_nx_ded_bimetal_cam/（または nx_probe/）に上げる ／ https://claude.ai/code/session_012fSWKeX93eEYPqMjqC6evx
-- [ ] FLOP20260930 ／ 公式 testnet RPC の URL を求めている（未回答）。最新情報では testnet 公開は10月下旬〜11月上旬に延期、mainnet は 2027年Q1 のまま。「公開されたら伝える」と返せば外部待ちに移せる ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
+- [ ] FLOP20260930 ／ 質問が2つ残っている：①close-1 の鍵バックアップを案A（停止）にするか案B（継続）にするか決める ②公式 testnet RPC の URL（testnet 公開は10月下旬〜11月上旬に延期。「公開されたら伝える」と返せばよい） ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 
 ## 🟧 手作業
 - [ ] 鍛造金型へのDED造形適用 ／ 4つの修正案を反映し、第1〜2段階の計画書（v0.5／v0.4）とスライドを更新、Google Drive と USB にも反映済み。試験片13個、寿命の目標は摩耗の約5倍、段付きパッド 0.3／0.7 mm（仮）。計画書に沿って試験片の製作・試験を進める（変形は第3〜4段階で確認） ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
