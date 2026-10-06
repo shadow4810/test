@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-06T12:00:00Z",
+  "last_checked": "2026-10-06T13:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-06T11:46:00.448964Z",
+      "updated_at": "2026-10-06T12:56:11.388423Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -115,6 +115,12 @@
       "base_title": "バイメタル造形CAM自動化",
       "group": "🟥判断待ち",
       "updated_at": "2026-10-05T12:39:13.640326Z"
+    },
+    "session_013hd3EPjADEmujSjZePLGam": {
+      "title": "🟥 M09教材作成",
+      "base_title": "M09教材作成",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-06T12:52:01.435795Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"

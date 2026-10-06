@@ -1,12 +1,13 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-06 12:00 UTC（10/6 21:00 JST）
+最終確認: 2026-10-06 13:00 UTC（10/6 22:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
+- [ ] M09教材作成 ／ （新しいセッション）始めたばかりで、操作の許可待ちで止まっている。開いて内容を確認し、許可するか断る ／ https://claude.ai/code/session_013hd3EPjADEmujSjZePLGam
 - [ ] バイメタル造形CAM自動化 ／ （新しいセッション）仕様書 v0.2 完成（1サイクル分の型を N サイクルに複製し、サイクルごとに変えるのは高さ Z だけ）。未回答の質問 Q10〜Q12（形状の変化、高さ欄の特定、余りの扱い）に答える。あわせて NX 2312 でサイクル1〜2を記録し、高さ欄の変化とスクリーンショット、probe_env.py の結果を MyDrive/claudecode/in_nx_ded_bimetal_cam/（または nx_probe/）に上げる ／ https://claude.ai/code/session_012fSWKeX93eEYPqMjqC6evx
 - [ ] FLOP20260930 ／ 公式 testnet RPC の URL を求めている（未回答）。最新情報では testnet 公開は10月下旬〜11月上旬に延期、mainnet は 2027年Q1 のまま。「公開されたら伝える」と返せば外部待ちに移せる ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 
