@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-07T14:00:00Z",
+  "last_checked": "2026-10-07T15:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-07T14:00:00.188935Z",
+      "updated_at": "2026-10-07T14:57:05.504253Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -54,7 +54,7 @@
       "title": "✅ 電極ガス抜き穴自動設定",
       "base_title": "電極ガス抜き穴自動設定",
       "group": "✅完了",
-      "updated_at": "2026-10-05T10:34:29.162262Z"
+      "updated_at": "2026-10-07T14:04:10.489213Z"
     },
     "session_01NMcZKJMWnQZUtyTagcTRFL": {
       "base_title": "DAM-M17 材料技術分析",
@@ -64,9 +64,9 @@
     },
     "session_01RjyqBTpGvmGbdYC1n6A56g": {
       "base_title": "LTX表面と内部の欠陥観察",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-07T14:00:10.579437Z",
-      "title": "🟥 LTX表面と内部の欠陥観察"
+      "group": "🟧手作業",
+      "updated_at": "2026-10-07T14:03:53.876763Z",
+      "title": "🟧 LTX表面と内部の欠陥観察"
     },
     "session_0183JN1ohfmutn4DiK8dz9iG": {
       "base_title": "M2C の使い方",
@@ -76,14 +76,14 @@
     },
     "session_01VhcnY2XVmxoGGmjiRfGqa3": {
       "base_title": "SFWローラの修理・高寿命化",
-      "group": "🟦外部待ち",
-      "updated_at": "2026-10-04T06:56:27.546004Z",
-      "title": "🟦 SFWローラの修理・高寿命化"
+      "group": "🟧手作業",
+      "updated_at": "2026-10-07T14:10:37.788244Z",
+      "title": "🟧 SFWローラの修理・高寿命化"
     },
     "session_015GonF7YvnSZ2DNCtn1NSw4": {
       "base_title": "鍛造金型へのDED造形適用",
       "group": "🟧手作業",
-      "updated_at": "2026-10-05T21:27:23.885120Z",
+      "updated_at": "2026-10-07T14:11:29.437395Z",
       "title": "🟧 鍛造金型へのDED造形適用"
     },
     "session_01PN8DUjPuBCKfHo3QgLGcRA": {
@@ -91,12 +91,6 @@
       "base_title": "電極prt一括エクスポート開発",
       "group": "🟧手作業",
       "updated_at": "2026-10-07T11:26:58.766088Z"
-    },
-    "session_01G3u5Yq1LnRweZRfvHpyxYp": {
-      "title": "🟧 製番部番ドキュメント保存機能追加",
-      "base_title": "製番部番ドキュメント保存機能追加",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-05T20:25:38.523234Z"
     },
     "session_012fSWKeX93eEYPqMjqC6evx": {
       "title": "🟥 バイメタル造形CAM自動化",
@@ -108,7 +102,13 @@
       "title": "🟥 M09教材作成",
       "base_title": "M09教材作成",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-07T13:56:19.665610Z"
+      "updated_at": "2026-10-07T14:48:16.557252Z"
+    },
+    "session_01SVgbt7VeVyvk4xwFRoSeMe": {
+      "title": "🟥 ノズル閉塞を防ぐ休止条件の検証",
+      "base_title": "ノズル閉塞を防ぐ休止条件の検証",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-07T14:01:42.966552Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
