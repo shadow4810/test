@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-07 09:00 UTC（10/7 18:00 JST）
+最終確認: 2026-10-07 10:00 UTC（10/7 19:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -28,7 +28,7 @@
 
 ## ✅ 完了
 - [x] 電極ガス抜き穴自動設定 ／ NX 実機で動作確認済み。最新のジャーナルを USB に入れ、Google Drive と一致を確認（4ファイル、md5 一致）。仕事全体が完了 ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
-- [x] OJT進め方相談室 ／ ワンページ説明①の45分台本（A4×2ページ）が完成。PDF保存・md5確認済みで、Drive と USB に配置 ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
+- [x] OJT進め方相談室 ／ 週次ふりかえり（10分）の進め方ガイド（褒める→1〜2行補足→基準伝達）を作成。要対応なし ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
 - [x] 指令塔 ／ ワンページ説明①台本の完了報告を受領。要対応なし ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
 - [x] 計画書 ／ 承認済みの計画書（20260929）を正本として確認。Drive と USB の差し替えも済み ／ https://claude.ai/code/session_018fTVUa52tU51Wnww3eyxMr
 - [x] 各種ワークブック作成 ／ 週次ふりかえり用のテンプレートを作り直し、Drive と USB に同期済み ／ https://claude.ai/code/session_01En3t9RkumGLdNsLKLXSc1S
