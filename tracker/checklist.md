@@ -1,12 +1,13 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-08 13:00 UTC（10/8 22:00 JST）
+最終確認: 2026-10-08 14:00 UTC（10/8 23:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
 （なし）
 
 ## 🟥 判断待ち
+- [ ] 昇格審査の資料作成 ／ （新しいセッション）何に迷っているのかを答える：表面欠陥の書き方か、資料全体の方向性か、それ以外か ／ https://claude.ai/code/session_01GvoV5E6ccPcnuh8nYbez9c
 - [ ] ノズル閉塞を防ぐ休止条件の検証 ／ （新しいセッション）作られたばかりで、まだ報告がない。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01SVgbt7VeVyvk4xwFRoSeMe
 - [ ] M09教材作成 ／ M09 の仕様・本文・チェックリストの案（v0.2.1／v0.1）と確認用 PDF ができた。v1.0 にする前に3点を確認して返す：①S2 の時間配分は現実的か ②NC の一時停止の手順 ③HAZ の説明の言い回し ／ https://claude.ai/code/session_013hd3EPjADEmujSjZePLGam
 - [ ] バイメタル造形CAM自動化 ／ （新しいセッション）仕様書 v0.2 完成（1サイクル分の型を N サイクルに複製し、サイクルごとに変えるのは高さ Z だけ）。未回答の質問 Q10〜Q12（形状の変化、高さ欄の特定、余りの扱い）に答える。あわせて NX 2312 でサイクル1〜2を記録し、高さ欄の変化とスクリーンショット、probe_env.py の結果を MyDrive/claudecode/in_nx_ded_bimetal_cam/（または nx_probe/）に上げる ／ https://claude.ai/code/session_012fSWKeX93eEYPqMjqC6evx

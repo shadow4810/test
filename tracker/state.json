@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-08T13:00:00Z",
+  "last_checked": "2026-10-08T14:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-08T12:46:04.355749Z",
+      "updated_at": "2026-10-08T13:46:05.236329Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -109,6 +109,12 @@
       "base_title": "ノズル閉塞を防ぐ休止条件の検証",
       "group": "🟥判断待ち",
       "updated_at": "2026-10-07T14:01:42.966552Z"
+    },
+    "session_01GvoV5E6ccPcnuh8nYbez9c": {
+      "title": "🟥 昇格審査の資料作成",
+      "base_title": "昇格審査の資料作成",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-08T13:58:38.060212Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
