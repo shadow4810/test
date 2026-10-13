@@ -1,11 +1,11 @@
 {
-  "last_checked": "2026-10-13T14:00:00Z",
+  "last_checked": "2026-10-13T15:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-13T13:53:33.976210Z",
+      "updated_at": "2026-10-13T14:54:36.140188Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -96,7 +96,7 @@
       "title": "🟥 M09教材作成",
       "base_title": "M09教材作成",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-13T13:23:45.631983Z"
+      "updated_at": "2026-10-13T14:18:21.111549Z"
     },
     "session_01SVgbt7VeVyvk4xwFRoSeMe": {
       "title": "🟥 ノズル閉塞を防ぐ休止条件の検証",
