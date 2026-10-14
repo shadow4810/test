@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-14 13:00 UTC（10/14 22:00 JST）
+最終確認: 2026-10-14 14:00 UTC（10/14 23:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -11,8 +11,8 @@
 - [ ] ノズル閉塞を防ぐ休止条件の検証 ／ （新しいセッション）作られたばかりで、まだ報告がない。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01SVgbt7VeVyvk4xwFRoSeMe
 - [ ] M09教材作成 ／ 草案 v0.1 の PDF（10/7 送付）を確認し、4点について返す：①S2 の時間配分 ②NC の一時停止の手順 ③§4.2.3 の言い回し ④そのほか気になる点 ／ https://claude.ai/code/session_013hd3EPjADEmujSjZePLGam
 - [ ] FLOP20260930 ／ 質問が2つ残っている：①close-1 の鍵バックアップを案A（停止）にするか案B（継続）にするか決める ②公式 testnet RPC の URL（testnet 公開は10月下旬〜11月上旬に延期。「公開されたら伝える」と返せばよい）。ほかに、古い出力フォルダ（out_flop/_old）を消すコマンドが用意されている。消すかどうかは中身を見てから決める ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
-- [ ] penguin-sunny-cookie ／ （新しいセッション）作られたばかりで、報告の要約がない（Git リポジトリなし）。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01U8ARTLbr8YRb4KuadYmKCC
 - [ ] EPX_generator開発 ／ 修正を進めるための設計判断2点に答える：①属性設定ツールで部品の種類を絞り込むか（推奨：はい）②読み込まれていない部品の扱い（推奨：警告して確認） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
+- [ ] M08教材作成 ／ M08 の GL 承認を記録済み（承認済みは計12モジュール）。残りの作業（S2 の実施、講義スライド、形状レビュー）をどう進めるかと、M09 に着手してよいかを指示する ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 
 ## 🟧 手作業
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
@@ -22,7 +22,6 @@
 - [ ] OJT進め方相談室 ／ 10/16（金）の7時間の予定（部品メモの修正1h・事務1h・NX復習1h・現場見学2h・チーム観察1.5h・振り返り15分）ができた。現場の案内役を今日か明日のうちに手配する ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
 
 ## 🟦 外部待ち
-- [ ] M08教材作成 ／ M13 は GL 承認済み（10/7、MS-5 は 11/18 承認に変更）。M08 は提出済みで GL レビュー中。結果が届いたらセッションに渡す ／M13 の GL レビュー結果待ち（次の手順は記録済み）。結果が届いたらセッションに渡す ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] DAM-M17 材料技術分析 ／ 材料技術からの分析結果待ち。届いたらセッションを再開する ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
 

@@ -1,65 +1,65 @@
 {
-  "last_checked": "2026-10-14T13:00:00Z",
+  "last_checked": "2026-10-14T14:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
       "title": "🟥 FLOP20260930",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-14T12:54:09.377306Z",
+      "updated_at": "2026-10-14T13:50:11.026445Z",
       "base_title": "FLOP20260930"
     },
     "session_01En3t9RkumGLdNsLKLXSc1S": {
       "title": "✅ 各種ワークブック作成",
       "group": "✅完了",
-      "updated_at": "2026-10-01T20:16:29.911243Z",
+      "updated_at": "2026-10-14T13:15:56.377225Z",
       "base_title": "各種ワークブック作成"
     },
     "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
       "title": "🟥 EPX_generator開発",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-13T13:25:49.912400Z",
+      "updated_at": "2026-10-14T13:16:01.011181Z",
       "base_title": "EPX_generator開発"
     },
     "session_01VidqCopvRnqEo3jWWDjSX7": {
       "title": "🟧 OJT進め方相談室",
       "group": "🟧手作業",
-      "updated_at": "2026-10-13T13:25:31.238120Z",
+      "updated_at": "2026-10-14T13:15:42.876333Z",
       "base_title": "OJT進め方相談室"
     },
     "session_01JQhf2wYNJGHJfmmsRPSdGz": {
       "title": "✅ 指令塔",
       "group": "✅完了",
-      "updated_at": "2026-10-06T23:23:32.593006Z",
+      "updated_at": "2026-10-14T13:15:46.246716Z",
       "base_title": "指令塔"
     },
     "session_01Jwgu2UER3Cy8wjSCnpLzjg": {
       "title": "✅ ワンページ",
       "group": "✅完了",
-      "updated_at": "2026-10-01T20:16:05.733959Z",
+      "updated_at": "2026-10-14T13:15:52.519042Z",
       "base_title": "ワンページ"
     },
     "session_018fTVUa52tU51Wnww3eyxMr": {
       "title": "✅ 計画書",
       "group": "✅完了",
-      "updated_at": "2026-10-01T14:13:10.223708Z",
+      "updated_at": "2026-10-14T13:15:49.549798Z",
       "base_title": "計画書"
     },
     "session_01VcRiswB5sYcoK6PQqF8c6K": {
-      "title": "🟦 M08教材作成",
+      "title": "🟥 M08教材作成",
       "base_title": "M08教材作成",
-      "group": "🟦外部待ち",
-      "updated_at": "2026-10-07T11:28:16.800676Z"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-14T13:20:41.268431Z"
     },
     "session_01Shx2fuvmvcuJHHAVQPfe8p": {
       "title": "✅ 電極ガス抜き穴自動設定",
       "base_title": "電極ガス抜き穴自動設定",
       "group": "✅完了",
-      "updated_at": "2026-10-07T14:04:10.489213Z"
+      "updated_at": "2026-10-14T13:16:59.828788Z"
     },
     "session_01NMcZKJMWnQZUtyTagcTRFL": {
       "base_title": "DAM-M17 材料技術分析",
       "group": "🟦外部待ち",
-      "updated_at": "2026-10-03T05:46:35.374686Z",
+      "updated_at": "2026-10-14T13:16:14.888430Z",
       "title": "🟦 DAM-M17 材料技術分析"
     },
     "session_01RjyqBTpGvmGbdYC1n6A56g": {
@@ -71,50 +71,44 @@
     "session_0183JN1ohfmutn4DiK8dz9iG": {
       "base_title": "M2C の使い方",
       "group": "🟦外部待ち",
-      "updated_at": "2026-10-03T05:47:34.971643Z",
+      "updated_at": "2026-10-14T13:16:06.127652Z",
       "title": "🟦 M2C の使い方"
     },
     "session_01VhcnY2XVmxoGGmjiRfGqa3": {
       "base_title": "SFWローラの修理・高寿命化",
       "group": "🟧手作業",
-      "updated_at": "2026-10-13T13:26:53.521313Z",
+      "updated_at": "2026-10-14T13:16:13.909293Z",
       "title": "🟧 SFWローラの修理・高寿命化"
     },
     "session_015GonF7YvnSZ2DNCtn1NSw4": {
       "base_title": "鍛造金型へのDED造形適用",
       "group": "🟧手作業",
-      "updated_at": "2026-10-07T14:11:29.437395Z",
+      "updated_at": "2026-10-14T13:16:08.951580Z",
       "title": "🟧 鍛造金型へのDED造形適用"
     },
     "session_01PN8DUjPuBCKfHo3QgLGcRA": {
       "title": "🟧 電極prt一括エクスポート開発",
       "base_title": "電極prt一括エクスポート開発",
       "group": "🟧手作業",
-      "updated_at": "2026-10-13T13:24:00.864169Z"
+      "updated_at": "2026-10-14T13:16:54.643438Z"
     },
     "session_013hd3EPjADEmujSjZePLGam": {
       "title": "🟥 M09教材作成",
       "base_title": "M09教材作成",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-13T14:18:21.111549Z"
+      "updated_at": "2026-10-14T13:16:37.702641Z"
     },
     "session_01SVgbt7VeVyvk4xwFRoSeMe": {
       "title": "🟥 ノズル閉塞を防ぐ休止条件の検証",
       "base_title": "ノズル閉塞を防ぐ休止条件の検証",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-07T14:01:42.966552Z"
+      "updated_at": "2026-10-14T13:16:21.554534Z"
     },
     "session_01GvoV5E6ccPcnuh8nYbez9c": {
       "title": "🟥 昇格審査の資料作成",
       "base_title": "昇格審査の資料作成",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-13T13:29:26.925388Z"
-    },
-    "session_01U8ARTLbr8YRb4KuadYmKCC": {
-      "title": "🟥 penguin-sunny-cookie",
-      "base_title": "penguin-sunny-cookie",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-13T13:24:06.226456Z"
+      "updated_at": "2026-10-14T13:15:32.232097Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
