@@ -4,7 +4,7 @@
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
-- [ ] マルチジェット打ち合わせ ／ 試し打ち議題に絞ったメモ（memo_20261021_dmgmori_mjet_meeting.md）送付済み。10/21の打ち合わせで DMG に NiBas 776 W40 のパラメータシート依頼と実績確認 ／ https://claude.ai/code/session_01KUaemM5e2vHyccfFAf1fN9
+- [ ] 10/21（本日）マルチジェット打ち合わせ ／ 下の 🟧「マルチジェット打ち合わせ」を参照 ／ https://claude.ai/code/session_01KUaemM5e2vHyccfFAf1fN9
 
 ## 🟥 判断待ち
 - [ ] 昇格審査の資料作成 ／ レビューが済み、資料と論文はY4相当と判定された（タイトル「水漏れ金型」の修正、部方針への言及の追加、数字の根拠の整理など8項目を指摘）。3点に答える：①鋳造トライは11月か12月か ②指摘①〜⑦のうちどれを自分で直すか ③最新の pptx・docx を `Y4 (1)/` に置く ／ https://claude.ai/code/session_01GvoV5E6ccPcnuh8nYbez9c
