@@ -1,10 +1,10 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-20 12:00 UTC（10/20 21:00 JST）
+最終確認: 2026-10-20 13:00 UTC（10/20 22:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
-（なし）
+- [ ] 10/21（明日）マルチジェット打ち合わせ ／ 下の 🟧「マルチジェット打ち合わせ」を参照 ／ https://claude.ai/code/session_01KUaemM5e2vHyccfFAf1fN9
 
 ## 🟥 判断待ち
 - [ ] 昇格審査の資料作成 ／ レビューが済み、資料と論文はY4相当と判定された（タイトル「水漏れ金型」の修正、部方針への言及の追加、数字の根拠の整理など8項目を指摘）。3点に答える：①鋳造トライは11月か12月か ②指摘①〜⑦のうちどれを自分で直すか ③最新の pptx・docx を `Y4 (1)/` に置く ／ https://claude.ai/code/session_01GvoV5E6ccPcnuh8nYbez9c
@@ -13,7 +13,7 @@
 - [ ] FLOP20260930 ／ 質問が2つ残っている：①close-1 の鍵バックアップを案A（停止）にするか案B（継続）にするか決める ②公式 testnet RPC の URL（testnet 公開は10月下旬〜11月上旬に延期。「公開されたら伝える」と返せばよい）。ほかに、古い出力フォルダ（out_flop/_old）を消すコマンドが用意されている。消すかどうかは中身を見てから決める ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] EPX_generator開発 ／ 修正を進めるための設計判断2点に答える：①属性設定ツールで部品の種類を絞り込むか（推奨：はい）②読み込まれていない部品の扱い（推奨：警告して確認） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 - [ ] M08教材作成 ／ M08 の GL 承認を記録済み（承認済みは計12モジュール）。残りの作業（S2 の実施、講義スライド、形状レビュー）をどう進めるかと、M09 に着手してよいかを指示する ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
-- [ ] penguin-async-flute ／ （新しいセッション）手元のPCでの作業が終わり、確認待ちになった（要約はまだ出ていない）。開いて結果を確認し、次の指示を出す ／ https://claude.ai/code/session_01R1pZkBtmcYANpESph3A1cR
+- [ ] DAM-M17 材料技術分析 ／ 材料技術の分析結果を読み解いた（点の横位置が山の真上に来るかで判定：p12 は B₂Mo₂Ni の主な点が山に乗りホウ化物あり、p13 は一部だけ一致）。この判定でよいか確認し、次に何をするか指示する ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
 
 ## 🟧 手作業
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
@@ -21,10 +21,11 @@
 - [ ] 鍛造金型へのDED造形適用 ／ 試験計画の説明を受けた（YXR33 の板に Inconel718 を薄く盛り、2段階で造形条件・熱処理（5通り）・厚さを決める）。計画書に沿って試験片の製作・試験を進める ／v0.4）とスライドを更新、Google Drive と USB にも反映済み。試験片13個、寿命の目標は摩耗の約5倍、段付きパッド 0.3／0.7 mm（仮）。計画書に沿って試験片の製作・試験を進める（変形は第3〜4段階で確認） ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] 電極prt一括エクスポート開発 ／ 多層対応の electrode_export.py は USB で確認済み。NX 実機で多層アセンブリ（レイヤー200＋201）の試験を行い、結果を zip にしてセッションに渡す ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
 - [ ] OJT進め方相談室 ／ 10/16（金）の7時間の予定（部品メモの修正1h・事務1h・NX復習1h・現場見学2h・チーム観察1.5h・振り返り15分）ができた。現場の案内役を今日か明日のうちに手配する ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
+- [ ] マルチジェット打ち合わせ ／ DMG森精機の回答を照会票に追記し、明日（10/21）の打ち合わせを「回答の穴を埋める会」に組み直した。打ち合わせで、次の材料 NiBas 776 W40 の実績を確かめる（最重要） ／ https://claude.ai/code/session_01KUaemM5e2vHyccfFAf1fN9
 
 ## 🟦 外部待ち
-- [ ] DAM-M17 材料技術分析 ／ 材料技術からの分析結果待ち。届いたらセッションを再開する ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
+- [ ] DMG回答 ／ DMG森精機のマルチジェット回答を記録し、回答 xlsx を配置、Data.dat 列定義の PDF を移動、todo.md を訂正済み。試し打ち費用と更新費用は営業の回答待ち。届いたらセッションに伝える ／ https://claude.ai/code/session_015bjx7BAGMRNPaXk4s3BL4Z
 
 ## ✅ 完了
 - [x] 電極ガス抜き穴自動設定 ／ NX 実機で動作確認済み。最新のジャーナルを USB に入れ、Google Drive と一致を確認（4ファイル、md5 一致）。仕事全体が完了 ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p

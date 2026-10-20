@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-20T12:00:00Z",
+  "last_checked": "2026-10-20T13:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
@@ -58,9 +58,9 @@
     },
     "session_01NMcZKJMWnQZUtyTagcTRFL": {
       "base_title": "DAM-M17 材料技術分析",
-      "group": "🟦外部待ち",
-      "updated_at": "2026-10-14T13:16:14.888430Z",
-      "title": "🟦 DAM-M17 材料技術分析"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-20T12:54:03.677356Z",
+      "title": "🟥 DAM-M17 材料技術分析"
     },
     "session_01RjyqBTpGvmGbdYC1n6A56g": {
       "base_title": "LTX表面と内部の欠陥観察",
@@ -110,11 +110,17 @@
       "group": "🟥判断待ち",
       "updated_at": "2026-10-14T13:15:32.232097Z"
     },
-    "session_01R1pZkBtmcYANpESph3A1cR": {
-      "title": "🟥 penguin-async-flute",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-10-20T11:56:15.862145Z",
-      "base_title": "penguin-async-flute"
+    "session_015bjx7BAGMRNPaXk4s3BL4Z": {
+      "title": "🟦 DMG回答",
+      "group": "🟦外部待ち",
+      "updated_at": "2026-10-20T12:55:07.846929Z",
+      "base_title": "DMG回答"
+    },
+    "session_01KUaemM5e2vHyccfFAf1fN9": {
+      "title": "🟧 マルチジェット打ち合わせ",
+      "group": "🟧手作業",
+      "updated_at": "2026-10-20T12:59:42.437129Z",
+      "base_title": "マルチジェット打ち合わせ"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
