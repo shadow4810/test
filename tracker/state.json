@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-20T15:00:00Z",
+  "last_checked": "2026-10-20T16:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
@@ -59,7 +59,7 @@
     "session_01NMcZKJMWnQZUtyTagcTRFL": {
       "base_title": "DAM-M17 材料技術分析",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-20T14:57:35.955562Z",
+      "updated_at": "2026-10-20T15:01:59.986688Z",
       "title": "🟥 DAM-M17 材料技術分析"
     },
     "session_01RjyqBTpGvmGbdYC1n6A56g": {
@@ -119,8 +119,14 @@
     "session_01KUaemM5e2vHyccfFAf1fN9": {
       "title": "🟧 マルチジェット打ち合わせ",
       "group": "🟧手作業",
-      "updated_at": "2026-10-20T14:55:24.672019Z",
+      "updated_at": "2026-10-20T15:06:04.193065Z",
       "base_title": "マルチジェット打ち合わせ"
+    },
+    "session_01MkKQrT87G738TJw5jaLSvc": {
+      "title": "🟥 EDU00001実務記録",
+      "base_title": "EDU00001実務記録",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-20T15:39:47.068161Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
