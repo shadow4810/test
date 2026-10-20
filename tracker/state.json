@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-20T10:00:00Z",
+  "last_checked": "2026-10-20T11:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
@@ -111,9 +111,9 @@
       "updated_at": "2026-10-14T13:15:32.232097Z"
     },
     "session_01R1pZkBtmcYANpESph3A1cR": {
-      "title": "🟦 penguin-async-flute",
-      "group": "🟦外部待ち",
-      "updated_at": "2026-10-20T10:00:39.328800Z",
+      "title": "🟥 penguin-async-flute",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-20T10:59:19.907085Z",
       "base_title": "penguin-async-flute"
     }
   },
