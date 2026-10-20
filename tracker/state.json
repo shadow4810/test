@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-20T14:00:00Z",
+  "last_checked": "2026-10-20T15:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
@@ -59,7 +59,7 @@
     "session_01NMcZKJMWnQZUtyTagcTRFL": {
       "base_title": "DAM-M17 材料技術分析",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-20T13:49:52.927895Z",
+      "updated_at": "2026-10-20T14:57:35.955562Z",
       "title": "🟥 DAM-M17 材料技術分析"
     },
     "session_01RjyqBTpGvmGbdYC1n6A56g": {
@@ -119,7 +119,7 @@
     "session_01KUaemM5e2vHyccfFAf1fN9": {
       "title": "🟧 マルチジェット打ち合わせ",
       "group": "🟧手作業",
-      "updated_at": "2026-10-20T13:56:49.407582Z",
+      "updated_at": "2026-10-20T14:55:24.672019Z",
       "base_title": "マルチジェット打ち合わせ"
     }
   },

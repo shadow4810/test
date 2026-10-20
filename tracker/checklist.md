@@ -1,10 +1,10 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-20 14:00 UTC（10/20 23:00 JST）
+最終確認: 2026-10-20 15:00 UTC（10/21 0:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
-- [ ] 10/21（明日）マルチジェット打ち合わせ ／ 下の 🟧「マルチジェット打ち合わせ」を参照 ／ https://claude.ai/code/session_01KUaemM5e2vHyccfFAf1fN9
+- [ ] マルチジェット打ち合わせ ／ 試し打ち議題に絞ったメモ（memo_20261021_dmgmori_mjet_meeting.md）送付済み。10/21の打ち合わせで DMG に NiBas 776 W40 のパラメータシート依頼と実績確認 ／ https://claude.ai/code/session_01KUaemM5e2vHyccfFAf1fN9
 
 ## 🟥 判断待ち
 - [ ] 昇格審査の資料作成 ／ レビューが済み、資料と論文はY4相当と判定された（タイトル「水漏れ金型」の修正、部方針への言及の追加、数字の根拠の整理など8項目を指摘）。3点に答える：①鋳造トライは11月か12月か ②指摘①〜⑦のうちどれを自分で直すか ③最新の pptx・docx を `Y4 (1)/` に置く ／ https://claude.ai/code/session_01GvoV5E6ccPcnuh8nYbez9c
@@ -21,7 +21,7 @@
 - [ ] 鍛造金型へのDED造形適用 ／ 試験計画の説明を受けた（YXR33 の板に Inconel718 を薄く盛り、2段階で造形条件・熱処理（5通り）・厚さを決める）。計画書に沿って試験片の製作・試験を進める ／v0.4）とスライドを更新、Google Drive と USB にも反映済み。試験片13個、寿命の目標は摩耗の約5倍、段付きパッド 0.3／0.7 mm（仮）。計画書に沿って試験片の製作・試験を進める（変形は第3〜4段階で確認） ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] 電極prt一括エクスポート開発 ／ 多層対応の electrode_export.py は USB で確認済み。NX 実機で多層アセンブリ（レイヤー200＋201）の試験を行い、結果を zip にしてセッションに渡す ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
 - [ ] OJT進め方相談室 ／ 10/16（金）の7時間の予定（部品メモの修正1h・事務1h・NX復習1h・現場見学2h・チーム観察1.5h・振り返り15分）ができた。現場の案内役を今日か明日のうちに手配する ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
-- [ ] マルチジェット打ち合わせ ／ 明日（10/21）の打ち合わせを「回答の穴を埋める会」に組み直し済み。次の材料 NiBas 776 W40 の資料は手元・Drive・Gmail のどこにもなく、DMG のパラメータシート（S0021〜S0040）にも含まれていなかった。打ち合わせで DMG に NiBas 776 W40 のパラメータシートを依頼し、実績を確かめる ／ https://claude.ai/code/session_01KUaemM5e2vHyccfFAf1fN9
+- [ ] マルチジェット打ち合わせ ／ 試し打ち議題に絞ったメモ（memo_20261021_dmgmori_mjet_meeting.md）送付済み。10/21の打ち合わせで DMG に NiBas 776 W40 のパラメータシート依頼と実績確認 ／ https://claude.ai/code/session_01KUaemM5e2vHyccfFAf1fN9
 
 ## 🟦 外部待ち
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
