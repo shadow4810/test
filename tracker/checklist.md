@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-21 10:00 UTC（10/21 19:00 JST）
+最終確認: 2026-10-21 11:00 UTC（10/21 20:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -13,7 +13,7 @@
 - [ ] FLOP20260930 ／ 質問が2つ残っている：①close-1 の鍵バックアップを案A（停止）にするか案B（継続）にするか決める ②公式 testnet RPC の URL（testnet 公開は10月下旬〜11月上旬に延期。「公開されたら伝える」と返せばよい）。ほかに、古い出力フォルダ（out_flop/_old）を消すコマンドが用意されている。消すかどうかは中身を見てから決める ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] EPX_generator開発 ／ 修正を進めるための設計判断2点に答える：①属性設定ツールで部品の種類を絞り込むか（推奨：はい）②読み込まれていない部品の扱い（推奨：警告して確認） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 - [ ] M08教材作成 ／ M08 の GL 承認を記録済み（承認済みは計12モジュール）。残りの作業（S2 の実施、講義スライド、形状レビュー）をどう進めるかと、M09 に着手してよいかを指示する ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
-- [ ] DAM-M17 材料技術分析 ／ 社内に炉がない前提で材技向け返信文案を修正済み。10/21 10:44 JST にも返答あり（要約なし）。開いて最新の返答を確認し、文案を送るか次の指示を出す ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
+- [ ] DAM-M17 材料技術分析 ／ Sauer 製 Ni 基自溶性合金＋WC 耐摩耗材の PDF 2本（S0012/S0013）を整理し、材料DBメモ§9に追記済み（COAX 9 ノズル、予熱 220〜375℃）。材技向け返信文案（炉なし前提で修正済み）も含めて確認し、次の指示を出す ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
 - [ ] EDU00001実務記録 ／ worklog（EDU00001_osaki_worklog.xlsx）に粉末作業3行・CAM実施ログ10行・スキルマトリクス・講師確認欄を最終反映済み。SharePoint へのデプロイは未実施。中身を確認し、デプロイするか指示する ／ https://claude.ai/code/session_01MkKQrT87G738TJw5jaLSvc
 
 ## 🟧 手作業
