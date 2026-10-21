@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-21 03:00 UTC（10/21 12:00 JST）
+最終確認: 2026-10-21 10:00 UTC（10/21 19:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -14,7 +14,7 @@
 - [ ] EPX_generator開発 ／ 修正を進めるための設計判断2点に答える：①属性設定ツールで部品の種類を絞り込むか（推奨：はい）②読み込まれていない部品の扱い（推奨：警告して確認） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 - [ ] M08教材作成 ／ M08 の GL 承認を記録済み（承認済みは計12モジュール）。残りの作業（S2 の実施、講義スライド、形状レビュー）をどう進めるかと、M09 に着手してよいかを指示する ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] DAM-M17 材料技術分析 ／ 社内に炉がない前提で材技向け返信文案を修正済み。10/21 10:44 JST にも返答あり（要約なし）。開いて最新の返答を確認し、文案を送るか次の指示を出す ／ https://claude.ai/code/session_01NMcZKJMWnQZUtyTagcTRFL
-- [ ] EDU00001実務記録 ／ （新しいセッション）worklog に粉末清掃（10/2・10/16）と CAM 初回単独（10/16）を記入し、テンプレ v0.3 を作成。実施水準などが未記入なので、内容を確認して不足分を伝える ／ https://claude.ai/code/session_01MkKQrT87G738TJw5jaLSvc
+- [ ] EDU00001実務記録 ／ worklog（EDU00001_osaki_worklog.xlsx）に粉末作業3行・CAM実施ログ10行・スキルマトリクス・講師確認欄を最終反映済み。SharePoint へのデプロイは未実施。中身を確認し、デプロイするか指示する ／ https://claude.ai/code/session_01MkKQrT87G738TJw5jaLSvc
 
 ## 🟧 手作業
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
