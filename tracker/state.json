@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-24T08:00:00Z",
+  "last_checked": "2026-10-24T13:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
@@ -115,6 +115,12 @@
       "base_title": "MoB/NiCr皮膜のHVOF溶射とDED",
       "group": "🟥判断待ち",
       "updated_at": "2026-10-24T07:36:54.774923Z"
+    },
+    "session_01LU2WMxVHxJDMgQt9dH5sv4": {
+      "title": "🟥 penguin-jaunty-sphinx",
+      "base_title": "penguin-jaunty-sphinx",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-24T12:36:40.381589Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
