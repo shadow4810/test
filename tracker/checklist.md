@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-10-25 01:00 UTC（10/25 10:00 JST）
+最終確認: 2026-10-25 02:00 UTC（10/25 11:00 JST）
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -15,7 +15,7 @@
 - [ ] M08教材作成 ／ M08 の GL 承認を記録済み（承認済みは計12モジュール）。残りの作業（S2 の実施、講義スライド、形状レビュー）をどう進めるかと、M09 に着手してよいかを指示する ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] MoB/NiCr皮膜のHVOF溶射とDED ／ （新しいセッション）「王さんは割れを消せている」という前提は誤りと報告：王さんも割れは残っており、焦点外しで溶け残りを増やして約8割減らしただけ。この結果を踏まえて次に何を調べるか指示する ／ https://claude.ai/code/session_01Bew9tbnipeqjEQuXfKwPPg
 - [ ] penguin-expressive-snowflake ／ （新しいセッション）始まったばかりで、操作待ち（許可や入力の確認）で止まっている。開いて応答する ／ https://claude.ai/code/session_01G7qbF8WDGPVjYBcqwzYuqW
-- [ ] penguin-jaunty-sphinx ／ （新しいセッション）返答済みでレビュー待ち（要約なし）。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01LU2WMxVHxJDMgQt9dH5sv4
+- [ ] penguin-jaunty-sphinx ／ 返答済みでレビュー待ち（要約なし）。10/25 は毎時 :53 ごろに更新が続いており、自動で定期実行している可能性あり。開いて内容を確認し、次の指示を出す（自動実行だけなら一覧から外す） ／ https://claude.ai/code/session_01LU2WMxVHxJDMgQt9dH5sv4
 
 ## 🟧 手作業
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
