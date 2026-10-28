@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-25T03:00:00Z",
+  "last_checked": "2026-10-28T23:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
@@ -105,10 +105,10 @@
       "updated_at": "2026-10-14T13:15:32.232097Z"
     },
     "session_01G7qbF8WDGPVjYBcqwzYuqW": {
-      "title": "🟥 penguin-expressive-snowflake",
-      "base_title": "penguin-expressive-snowflake",
+      "title": "🟥 M13講師メモ",
+      "base_title": "M13講師メモ",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-24T07:33:02.922086Z"
+      "updated_at": "2026-10-28T22:41:13.605613Z"
     },
     "session_01Bew9tbnipeqjEQuXfKwPPg": {
       "title": "🟥 MoB/NiCr皮膜のHVOF溶射とDED",
@@ -122,6 +122,12 @@
       "group": "🟥判断待ち",
       "updated_at": "2026-10-25T08:00:08.104308Z",
       "auto_suspect": true
+    },
+    "session_01CYJnVqSa1kBzWeo75Q9r3f": {
+      "title": "🟥 penguin-cozy-rabbit",
+      "base_title": "penguin-cozy-rabbit",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-10-28T22:00:10.691328Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
