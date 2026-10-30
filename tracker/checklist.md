@@ -14,7 +14,7 @@
 - [ ] EPX_generator開発 ／ 修正を進めるための設計判断2点に答える：①属性設定ツールで部品の種類を絞り込むか（推奨：はい）②読み込まれていない部品の扱い（推奨：警告して確認） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 - [ ] M08教材作成 ／ M08 の GL 承認を記録済み（承認済みは計12モジュール）。残りの作業（S2 の実施、講義スライド、形状レビュー）をどう進めるかと、M09 に着手してよいかを指示する ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] MoB/NiCr皮膜のHVOF溶射とDED ／ （新しいセッション）「王さんは割れを消せている」という前提は誤りと報告：王さんも割れは残っており、焦点外しで溶け残りを増やして約8割減らしただけ。この結果を踏まえて次に何を調べるか指示する ／ https://claude.ai/code/session_01Bew9tbnipeqjEQuXfKwPPg
-- [ ] M13講師メモ ／ 操作待ち（許可や入力の確認）で止まっている。開いて応答する ／ https://claude.ai/code/session_01G7qbF8WDGPVjYBcqwzYuqW
+- [ ] M13講師メモ ／ EDU00001 M13第1期修了を記録済み（実技9/9、Forms 90/100）。変更はまだコミットされていないので、コミットするよう指示する ／ https://claude.ai/code/session_01G7qbF8WDGPVjYBcqwzYuqW
 - [ ] バイメタル ／ Al溶け込みの悪影響6要因（Fe-Al金属間化合物が最有力）を整理済み。結果を確認し、対策検討・追加調査に進むか、終えるかを決める ／ https://claude.ai/code/session_01CYJnVqSa1kBzWeo75Q9r3f
 - [ ] penguin-jaunty-sphinx ／ 返答済みでレビュー待ち（要約なし）。10/25 は毎時 :53 ごろに更新が続いており、自動で定期実行している可能性あり。開いて内容を確認し、次の指示を出す（自動実行だけなら一覧から外す） ／ https://claude.ai/code/session_01LU2WMxVHxJDMgQt9dH5sv4
 
