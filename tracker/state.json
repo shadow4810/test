@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-10-30T05:00:00Z",
+  "last_checked": "2026-11-02T11:59:19Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
@@ -114,7 +114,7 @@
       "title": "🟥 MoB/NiCr皮膜のHVOF溶射とDED",
       "base_title": "MoB/NiCr皮膜のHVOF溶射とDED",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-24T07:36:54.774923Z"
+      "updated_at": "2026-11-02T11:39:28.861418Z"
     },
     "session_01LU2WMxVHxJDMgQt9dH5sv4": {
       "title": "🟥 penguin-jaunty-sphinx",
@@ -127,7 +127,19 @@
       "title": "🟥 バイメタル",
       "base_title": "バイメタル",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-29T20:51:26.732672Z"
+      "updated_at": "2026-11-02T11:39:13.227098Z"
+    },
+    "session_01CYJnVugiBUHase4M39htmJ": {
+      "title": "🟥 EDU00001による金型部品修理実践",
+      "base_title": "EDU00001による金型部品修理実践",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-11-02T11:39:07.931099Z"
+    },
+    "session_01CYJnVq81Z4R2vxtYQLRqer": {
+      "title": "🟧 パウダーフィーダ清掃の実績記録",
+      "base_title": "パウダーフィーダ清掃の実績記録",
+      "group": "🟧手作業",
+      "updated_at": "2026-11-02T11:41:55.727Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
