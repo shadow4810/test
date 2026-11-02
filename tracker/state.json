@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-02T11:59:19Z",
+  "last_checked": "2026-11-02T21:59:32Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01MuXFYcS6N5ZZiPWKb662Fr": {
@@ -17,7 +17,7 @@
     "session_01FHYT5jSQyJpbRmfs3hZyCQ": {
       "title": "🟥 EPX_generator開発",
       "group": "🟥判断待ち",
-      "updated_at": "2026-10-14T13:16:01.011181Z",
+      "updated_at": "2026-11-02T21:21:47.093370Z",
       "base_title": "EPX_generator開発"
     },
     "session_01VidqCopvRnqEo3jWWDjSX7": {
@@ -84,7 +84,7 @@
       "title": "🟧 電極prt一括エクスポート開発",
       "base_title": "電極prt一括エクスポート開発",
       "group": "🟧手作業",
-      "updated_at": "2026-10-14T13:16:54.643438Z"
+      "updated_at": "2026-11-02T21:21:02.598226Z"
     },
     "session_013hd3EPjADEmujSjZePLGam": {
       "title": "🟥 M09教材作成",
