@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-05 01:00 UTC
+最終確認: 2026-11-05 02:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -13,7 +13,7 @@
 - [ ] FLOP20260930 ／ 質問が2つ残っている：①close-1 の鍵バックアップを案A（停止）にするか案B（継続）にするか決める ②公式 testnet RPC の URL（testnet 公開は10月下旬〜11月上旬に延期。「公開されたら伝える」と返せばよい）。ほかに、古い出力フォルダ（out_flop/_old）を消すコマンドが用意されている。消すかどうかは中身を見てから決める ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
 - [ ] EPX_generator開発 ／ 修正を進めるための設計判断2点に答える：①属性設定ツールで部品の種類を絞り込むか（推奨：はい）②読み込まれていない部品の扱い（推奨：警告して確認） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 - [ ] M08教材作成 ／ M08 の GL 承認を記録済み（承認済みは計12モジュール）。残りの作業（S2 の実施、講義スライド、形状レビュー）をどう進めるかと、M09 に着手してよいかを指示する ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
-- [ ] MoB/NiCr皮膜のHVOF溶射とDED ／ DED用の第一候補を Surfit 1560-00（150/53µm）に決定し、Co-free代替メモ（G-92〜G-94）と§6の照会項目を更新済み。残りの判断（材技への返信・王さんへの共有・Höganäsへの照会を送るか・未コミット分の扱い）がまだ要るか開いて確認し、指示する ／ https://claude.ai/code/session_01Bew9tbnipeqjEQuXfKwPPg
+- [ ] MoB/NiCr皮膜のHVOF溶射とDED ／ DED用の第一候補を Surfit 1560-00（150/53µm）に決定し、Co-free代替メモ（G-92〜G-94）と§6の照会項目を更新済み。文献の原文PDFと日本語訳PDFは Google Drive の 09_文献 に置いた（USBは未接続のため未コピー。USBをつないで同期させる）。残りの判断（材技への返信・王さんへの共有・Höganäsへの照会を送るか・未コミット分の扱い）がまだ要るか開いて確認し、指示する ／ https://claude.ai/code/session_01Bew9tbnipeqjEQuXfKwPPg
 - [ ] M13講師メモ ／ EDU00001 M13第1期修了を記録済み（実技9/9、Forms 90/100）。変更はまだコミットされていないので、コミットするよう指示する ／ https://claude.ai/code/session_01G7qbF8WDGPVjYBcqwzYuqW
 - [ ] バイメタル ／ 質問に答える：依頼先は材技かキグチか ／ https://claude.ai/code/session_01CYJnVqSa1kBzWeo75Q9r3f
 - [ ] EDU00001による金型部品修理実践 ／ （新しいセッション）始まったばかりで、操作待ち（許可や入力の確認）で止まっている。開いて応答する ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
