@@ -1,10 +1,10 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-07 02:00 UTC
+最終確認: 2026-11-07 12:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
-（なし）
+- [ ] 11/25 EDU00001 の修了予定 ／ 18本中11本が修了。残り6本は間に合わない見込み（M08 の S2 は期限切れ）。下の「EDU00001の受講状況」を参照 ／ https://claude.ai/code/session_01CYJnVurKNhrYNxhR4zx29W
 
 ## 🟥 判断待ち
 - [ ] 昇格審査の資料作成 ／ レビューが済み、資料と論文はY4相当と判定された（タイトル「水漏れ金型」の修正、部方針への言及の追加、数字の根拠の整理など8項目を指摘）。3点に答える：①鋳造トライは11月か12月か ②指摘①〜⑦のうちどれを自分で直すか ③最新の pptx・docx を `Y4 (1)/` に置く ／ https://claude.ai/code/session_01GvoV5E6ccPcnuh8nYbez9c
@@ -18,7 +18,8 @@
 - [ ] バイメタル ／ 質問に答える：依頼先は材技かキグチか ／ https://claude.ai/code/session_01CYJnVqSa1kBzWeo75Q9r3f
 - [ ] EDU00001による金型部品修理実践 ／ （新しいセッション）始まったばかりで、操作待ち（許可や入力の確認）で止まっている。開いて応答する ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 - [ ] penguin-jaunty-sphinx ／ 返答済みでレビュー待ち（要約なし）。10/25 は毎時 :53 ごろに更新が続いており、自動で定期実行している可能性あり。開いて内容を確認し、次の指示を出す（自動実行だけなら一覧から外す） ／ https://claude.ai/code/session_01LU2WMxVHxJDMgQt9dH5sv4
-- [ ] EDU00001 厚膜コーティングテスト ／ （新しいセッション）始まったばかりで要約はまだなく、操作待ち（許可や入力の確認）で止まっている。PC との接続も切れているので、PC 側で開いて応答する ／ https://claude.ai/code/session_01CYJnVqYsY5Hv3mUYDmd94t
+- [ ] EDU00001 厚膜コーティングテスト ／ 厚膜コーティング試行を記録するための情報を7点答える：①実施日と所要時間 ②被覆材・母材・形状・層数・ノズル径 ③受講者の担当範囲と講師の関わり ④結果と所感 ⑤M10 v0.0.0 の受講扱い（S1相当）でよいか、観察の有無 ⑥worklog に追加してよいか ⑦progress §7 に受講順変更の1行を足してよいか ／ https://claude.ai/code/session_01CYJnVqYsY5Hv3mUYDmd94t
+- [ ] EDU00001の受講状況 ／ （新しいセッション）EDU00001（大崎さん）は18本中11本が修了。M08 は S2 の期限を過ぎ、残り6本は 11/25 の修了予定に間に合わない見込み。修了予定を延ばすか、残りの進め方を決める ／ https://claude.ai/code/session_01CYJnVurKNhrYNxhR4zx29W
 
 ## 🟧 手作業
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
