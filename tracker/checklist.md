@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-05 14:00 UTC
+最終確認: 2026-11-07 02:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -18,6 +18,7 @@
 - [ ] バイメタル ／ 質問に答える：依頼先は材技かキグチか ／ https://claude.ai/code/session_01CYJnVqSa1kBzWeo75Q9r3f
 - [ ] EDU00001による金型部品修理実践 ／ （新しいセッション）始まったばかりで、操作待ち（許可や入力の確認）で止まっている。開いて応答する ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 - [ ] penguin-jaunty-sphinx ／ 返答済みでレビュー待ち（要約なし）。10/25 は毎時 :53 ごろに更新が続いており、自動で定期実行している可能性あり。開いて内容を確認し、次の指示を出す（自動実行だけなら一覧から外す） ／ https://claude.ai/code/session_01LU2WMxVHxJDMgQt9dH5sv4
+- [ ] EDU00001 厚膜コーティングテスト ／ （新しいセッション）始まったばかりで要約はまだなく、操作待ち（許可や入力の確認）で止まっている。PC との接続も切れているので、PC 側で開いて応答する ／ https://claude.ai/code/session_01CYJnVqYsY5Hv3mUYDmd94t
 
 ## 🟧 手作業
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
