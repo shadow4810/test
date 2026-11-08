@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-08T03:00:00Z",
+  "last_checked": "2026-11-08T04:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -99,22 +99,22 @@
       "updated_at": "2026-10-30T04:07:54.000971Z"
     },
     "session_01CYJnVugiBUHase4M39htmJ": {
-      "title": "🟥 EDU00001による金型部品修理実践",
-      "base_title": "EDU00001による金型部品修理実践",
+      "title": "🟥 M09実践形式まとめ",
+      "base_title": "M09実践形式まとめ",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T02:46:08.236541Z"
+      "updated_at": "2026-11-08T03:54:13.276640Z"
     },
     "session_01CYJnVrE9RuREyUtL28bu8V": {
       "title": "🟥 M14の教材作成",
       "base_title": "M14の教材作成",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T02:46:38.763019Z"
+      "updated_at": "2026-11-08T03:37:17.250740Z"
     },
     "session_01CYJnVsNx3SMVoQsxYcdM6m": {
-      "title": "🟥 EDU00001 厚膜コーティングテスト",
-      "base_title": "EDU00001 厚膜コーティングテスト",
+      "title": "🟥 M10実践形式まとめ",
+      "base_title": "M10実践形式まとめ",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T02:47:21.436705Z"
+      "updated_at": "2026-11-08T03:54:20.518701Z"
     },
     "session_01CYJnVtyKXpUeF9giMeoQTm": {
       "title": "🟧 作業実績記録",
@@ -144,7 +144,7 @@
       "title": "🟦 FLOP20260930",
       "base_title": "FLOP20260930",
       "group": "🟦外部待ち",
-      "updated_at": "2026-11-08T02:36:03.182810Z"
+      "updated_at": "2026-11-08T03:36:26.239830Z"
     },
     "session_01CYJnVtHLULuVYYbT3HRPyx": {
       "title": "🟥 EPX_generator開発",
@@ -156,7 +156,19 @@
       "title": "🟧 モアレ3D形状測定による欠陥観察",
       "base_title": "モアレ3D形状測定による欠陥観察",
       "group": "🟧手作業",
-      "updated_at": "2026-11-08T02:59:42.972919Z"
+      "updated_at": "2026-11-08T03:17:37.571500Z"
+    },
+    "session_01CYJnVqu5iYU5Hbdrw9RY64": {
+      "title": "🟧 M08実践形式まとめ",
+      "base_title": "M08実践形式まとめ",
+      "group": "🟧手作業",
+      "updated_at": "2026-11-08T03:57:13.936523Z"
+    },
+    "session_01CYJnVrKepBnLXH945DYnbR": {
+      "title": "✅ 週次ウォッチ全件読了",
+      "base_title": "週次ウォッチ全件読了",
+      "group": "✅完了",
+      "updated_at": "2026-11-08T03:19:44.563515Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
