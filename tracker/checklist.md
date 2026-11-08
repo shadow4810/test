@@ -1,25 +1,23 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-07 12:00 UTC
+最終確認: 2026-11-08 02:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
-- [ ] 11/25 EDU00001 の修了予定 ／ 18本中11本が修了。残り6本は間に合わない見込み（M08 の S2 は期限切れ）。下の「EDU00001の受講状況」を参照 ／ https://claude.ai/code/session_01CYJnVurKNhrYNxhR4zx29W
+- [ ] 11/25 EDU00001 の修了予定 ／ 18本中11本が修了。残り6本は間に合わない見込み（M08 の S2 は期限切れ）。修了予定を延ばすか残りの進め方を決める（受講状況セッションは11/8にアーカイブ済み） ／ https://claude.ai/code/session_01CYJnVurKNhrYNxhR4zx29W
 
 ## 🟥 判断待ち
 - [ ] 昇格審査の資料作成 ／ レビューが済み、資料と論文はY4相当と判定された（タイトル「水漏れ金型」の修正、部方針への言及の追加、数字の根拠の整理など8項目を指摘）。3点に答える：①鋳造トライは11月か12月か ②指摘①〜⑦のうちどれを自分で直すか ③最新の pptx・docx を `Y4 (1)/` に置く ／ https://claude.ai/code/session_01GvoV5E6ccPcnuh8nYbez9c
 - [ ] ノズル閉塞を防ぐ休止条件の検証 ／ （新しいセッション）作られたばかりで、まだ報告がない。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01SVgbt7VeVyvk4xwFRoSeMe
 - [ ] M09教材作成 ／ 草案 v0.1 の PDF（10/7 送付）を確認し、4点について返す：①S2 の時間配分 ②NC の一時停止の手順 ③§4.2.3 の言い回し ④そのほか気になる点 ／ https://claude.ai/code/session_013hd3EPjADEmujSjZePLGam
-- [ ] FLOP20260930 ／ 質問が2つ残っている：①close-1 の鍵バックアップを案A（停止）にするか案B（継続）にするか決める ②公式 testnet RPC の URL（testnet 公開は10月下旬〜11月上旬に延期。「公開されたら伝える」と返せばよい）。ほかに、古い出力フォルダ（out_flop/_old）を消すコマンドが用意されている。消すかどうかは中身を見てから決める ／ https://claude.ai/code/session_01MuXFYcS6N5ZZiPWKb662Fr
-- [ ] EPX_generator開発 ／ 修正を進めるための設計判断2点に答える：①属性設定ツールで部品の種類を絞り込むか（推奨：はい）②読み込まれていない部品の扱い（推奨：警告して確認） ／ https://claude.ai/code/session_01FHYT5jSQyJpbRmfs3hZyCQ
 - [ ] M08教材作成 ／ M08 の GL 承認を記録済み（承認済みは計12モジュール）。残りの作業（S2 の実施、講義スライド、形状レビュー）をどう進めるかと、M09 に着手してよいかを指示する ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
-- [ ] MoB/NiCr皮膜のHVOF溶射とDED ／ DED用の第一候補を Surfit 1560-00（150/53µm）に決定し、Co-free代替メモ（G-92〜G-94）と§6の照会項目を更新済み。文献の原文PDFと日本語訳PDFは Google Drive の 09_文献 に置いた（USBは未接続のため未コピー。USBをつないで同期させる）。残りの判断（材技への返信・王さんへの共有・Höganäsへの照会を送るか・未コミット分の扱い）がまだ要るか開いて確認し、指示する ／ https://claude.ai/code/session_01Bew9tbnipeqjEQuXfKwPPg
 - [ ] M13講師メモ ／ EDU00001 M13第1期修了を記録済み（実技9/9、Forms 90/100）。変更はまだコミットされていないので、コミットするよう指示する ／ https://claude.ai/code/session_01G7qbF8WDGPVjYBcqwzYuqW
-- [ ] バイメタル ／ 質問に答える：依頼先は材技かキグチか ／ https://claude.ai/code/session_01CYJnVqSa1kBzWeo75Q9r3f
-- [ ] EDU00001による金型部品修理実践 ／ （新しいセッション）始まったばかりで、操作待ち（許可や入力の確認）で止まっている。開いて応答する ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
-- [ ] penguin-jaunty-sphinx ／ 返答済みでレビュー待ち（要約なし）。10/25 は毎時 :53 ごろに更新が続いており、自動で定期実行している可能性あり。開いて内容を確認し、次の指示を出す（自動実行だけなら一覧から外す） ／ https://claude.ai/code/session_01LU2WMxVHxJDMgQt9dH5sv4
-- [ ] EDU00001 厚膜コーティングテスト ／ 厚膜コーティング試行を記録するための情報を7点答える：①実施日と所要時間 ②被覆材・母材・形状・層数・ノズル径 ③受講者の担当範囲と講師の関わり ④結果と所感 ⑤M10 v0.0.0 の受講扱い（S1相当）でよいか、観察の有無 ⑥worklog に追加してよいか ⑦progress §7 に受講順変更の1行を足してよいか ／ https://claude.ai/code/session_01CYJnVqYsY5Hv3mUYDmd94t
-- [ ] EDU00001の受講状況 ／ （新しいセッション）EDU00001（大崎さん）は18本中11本が修了。M08 は S2 の期限を過ぎ、残り6本は 11/25 の修了予定に間に合わない見込み。修了予定を延ばすか、残りの進め方を決める ／ https://claude.ai/code/session_01CYJnVurKNhrYNxhR4zx29W
+- [ ] EDU00001による金型部品修理実践 ／ 11/8 に返答あり（要約なし）。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
+- [ ] M14の教材作成 ／ （新しいセッション）調査メモと仕様 v0.1 を作成済み。本文と小テストは回答待ち。research_m14_postprocess_qa.md §4.1 の優先度A の質問 Q1〜Q7 に答える ／ https://claude.ai/code/session_01CYJnVrE9RuREyUtL28bu8V
+- [ ] EPX_generator開発 ／ （11/8 に新しいセッションへ移行、まだ報告なし）前のセッションの設計判断2点が残っている：①属性設定ツールで部品の種類を絞り込むか（推奨：はい）②読み込まれていない部品の扱い（推奨：警告して確認）。開いて答える ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
+- [ ] バイメタル ／ （11/8 に新しいセッションへ移行、まだ報告なし）前のセッションの質問が残っている：依頼先は材技かキグチか。開いて答える ／ https://claude.ai/code/session_01CYJnVtzzF23mHpSAowznjm
+- [ ] DAM-M17 材料技術分析 ／ （11/8 に新しいセッションとして再開、まだ報告なし）前回は Sauer 製 Ni基自溶性合金＋WC の2本（S0012/S0013）を材料DBメモ§9に追記したところ。開いて次の指示を出す ／ https://claude.ai/code/session_01CYJnVqjRHudNee37DEh26Q
+- [ ] 回転曲げ疲労試験片 ／ （11/8 に新しいセッションへ移行）返答があったが要約がない。前回は回転曲げ（I-6）での開始を推奨し、GLレビュー後に計画v3へ進む段階だった。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01CYJnVudJnh8hmT4RChEtGa
 
 ## 🟧 手作業
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
@@ -27,11 +25,12 @@
 - [ ] 鍛造金型へのDED造形適用 ／ 試験計画の説明を受けた（YXR33 の板に Inconel718 を薄く盛り、2段階で造形条件・熱処理（5通り）・厚さを決める）。計画書に沿って試験片の製作・試験を進める ／v0.4）とスライドを更新、Google Drive と USB にも反映済み。試験片13個、寿命の目標は摩耗の約5倍、段付きパッド 0.3／0.7 mm（仮）。計画書に沿って試験片の製作・試験を進める（変形は第3〜4段階で確認） ／ https://claude.ai/code/session_015GonF7YvnSZ2DNCtn1NSw4
 - [ ] 電極prt一括エクスポート開発 ／ 多層対応の electrode_export.py は USB で確認済み。NX 実機で多層アセンブリ（レイヤー200＋201）の試験を行い、結果を zip にしてセッションに渡す ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
 - [ ] OJT進め方相談室 ／ 10/16（金）の7時間の予定（部品メモの修正1h・事務1h・NX復習1h・現場見学2h・チーム観察1.5h・振り返り15分）ができた。現場の案内役を今日か明日のうちに手配する ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
-- [ ] パウダーフィーダ清掃の実績記録 ／ （新しいセッション）EDU00001 の粉末作業ログに 10/30 のパウダーフィーダ清掃（ホッパ2、簡易清掃、1.5h）を記録済み。粉末の銘柄・ロット No. を伝え、SharePoint へのデプロイを行う ／ https://claude.ai/code/session_01CYJnVq81Z4R2vxtYQLRqer
+- [ ] 作業実績記録 ／ （新しいセッション）worklog の実施ログにビルドIDと10/30の工程を記入し、スキルマトリクス15セルを更新済み。残りは 11/9 の PT 後の対応と SharePoint へのデプロイ ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
 
 ## 🟦 外部待ち
-- [ ] 回転曲げ疲労試験片 ／ 回転曲げ（I-6）で始めることを推奨（採取条件3つ付き）。方式比較の1枚資料と概算スクリプトを作成済み。GLのレビューが返ってきたら方向を決めて計画v3へ（GLに資料をまだ渡していなければ渡す） ／ https://claude.ai/code/session_01CYJnVrHDEc67xXXDWWqUfL
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
+- [ ] EDU00001 厚膜コーティングテスト ／ （11/8 に新しいセッションへ移行）M10 の試行（11/4 CAM 約2h、講師立会い）を進捗表・worklog・todo に記録済み。11/11か12の造形が済んだら、所感とビルドIDをセッションに伝える ／ https://claude.ai/code/session_01CYJnVsNx3SMVoQsxYcdM6m
+- [ ] FLOP20260930 ／ （11/8 に新しいセッションへ移行）常駐処理が稼働中で、毎時の集計を報告している（01時台の納品は0件）。Devnet 推論の再試行を明日 9:07 に予約済み。結果を待つ ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 
 ## ✅ 完了
 - [x] 電極ガス抜き穴自動設定 ／ NX 実機で動作確認済み。最新のジャーナルを USB に入れ、Google Drive と一致を確認（4ファイル、md5 一致）。仕事全体が完了 ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
