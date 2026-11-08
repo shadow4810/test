@@ -5,7 +5,7 @@
 
 ## ⏰ 期限が近いもの
 - [ ] 11/25 EDU00001 の修了予定 ／ 18本中11本が修了。残り6本は間に合わない見込み（M08 の S2 は期限切れ）。修了予定を延ばすか残りの進め方を決める（受講状況セッションは11/8にアーカイブ済み） ／ https://claude.ai/code/session_01CYJnVurKNhrYNxhR4zx29W
-- [ ] 11/9 EDU00001 の M09 実践（M09 未達4点の割り付け案）とPT後の作業実績記録 ／ 案の採用を決めておく。「M09実践形式まとめ」を参照（PT 後に結果を伝える） ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
+- [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
 - [ ] 昇格審査の資料作成 ／ レビューが済み、資料と論文はY4相当と判定された（タイトル「水漏れ金型」の修正、部方針への言及の追加、数字の根拠の整理など8項目を指摘）。3点に答える：①鋳造トライは11月か12月か ②指摘①〜⑦のうちどれを自分で直すか ③最新の pptx・docx を `Y4 (1)/` に置く ／ https://claude.ai/code/session_01GvoV5E6ccPcnuh8nYbez9c
