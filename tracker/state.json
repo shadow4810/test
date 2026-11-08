@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-08T05:00:00Z",
+  "last_checked": "2026-11-08T08:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -99,76 +99,70 @@
       "updated_at": "2026-10-30T04:07:54.000971Z"
     },
     "session_01CYJnVugiBUHase4M39htmJ": {
-      "title": "🟥 M09実践形式まとめ",
+      "title": "🟧 M09実践形式まとめ",
       "base_title": "M09実践形式まとめ",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T03:54:13.276640Z"
+      "group": "🟧手作業",
+      "updated_at": "2026-11-08T07:23:57.884954Z"
     },
     "session_01CYJnVrE9RuREyUtL28bu8V": {
       "title": "🟥 M14の教材作成",
       "base_title": "M14の教材作成",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T04:08:02.492195Z"
+      "updated_at": "2026-11-08T07:22:48.093972Z"
     },
     "session_01CYJnVsNx3SMVoQsxYcdM6m": {
       "title": "🟥 M10実践形式まとめ",
       "base_title": "M10実践形式まとめ",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T03:54:20.518701Z"
+      "updated_at": "2026-11-08T07:22:57.665292Z"
     },
     "session_01CYJnVtyKXpUeF9giMeoQTm": {
-      "title": "🟧 作業実績記録",
+      "title": "🟥 作業実績記録",
       "base_title": "作業実績記録",
-      "group": "🟧手作業",
-      "updated_at": "2026-11-08T04:05:41.218173Z"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-11-08T07:26:26.703094Z"
     },
     "session_01CYJnVqjRHudNee37DEh26Q": {
       "title": "🟥 DAM-M17 材料技術分析",
       "base_title": "DAM-M17 材料技術分析",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T01:31:42.956842Z"
+      "updated_at": "2026-11-08T07:26:19.145816Z"
     },
     "session_01CYJnVtzzF23mHpSAowznjm": {
       "title": "🟥 バイメタル",
       "base_title": "バイメタル",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T01:31:35.048313Z"
+      "updated_at": "2026-11-08T07:26:23.531769Z"
     },
     "session_01CYJnVudJnh8hmT4RChEtGa": {
       "title": "🟥 回転曲げ疲労試験片",
       "base_title": "回転曲げ疲労試験片",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T02:54:50.423520Z"
+      "updated_at": "2026-11-08T07:26:31.343764Z"
     },
     "session_01CYJnVsHcZh7y7pvtFkyFbJ": {
       "title": "🟦 FLOP20260930",
       "base_title": "FLOP20260930",
       "group": "🟦外部待ち",
-      "updated_at": "2026-11-08T04:47:08.470325Z"
+      "updated_at": "2026-11-08T07:52:15.373808Z"
     },
     "session_01CYJnVtHLULuVYYbT3HRPyx": {
       "title": "🟥 EPX_generator開発",
       "base_title": "EPX_generator開発",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T01:30:57.693025Z"
+      "updated_at": "2026-11-08T07:25:50.260362Z"
     },
     "session_01CYJnVtWfewxTeYgV1FFRdR": {
       "title": "🟧 モアレ3D形状測定による欠陥観察",
       "base_title": "モアレ3D形状測定による欠陥観察",
       "group": "🟧手作業",
-      "updated_at": "2026-11-08T03:17:37.571500Z"
+      "updated_at": "2026-11-08T07:23:16.262562Z"
     },
     "session_01CYJnVqu5iYU5Hbdrw9RY64": {
-      "title": "🟧 M08実践形式まとめ",
+      "title": "🟥 M08実践形式まとめ",
       "base_title": "M08実践形式まとめ",
-      "group": "🟧手作業",
-      "updated_at": "2026-11-08T04:00:18.330224Z"
-    },
-    "session_01CYJnVrKepBnLXH945DYnbR": {
-      "title": "✅ 週次ウォッチ全件読了",
-      "base_title": "週次ウォッチ全件読了",
-      "group": "✅完了",
-      "updated_at": "2026-11-08T03:19:44.563515Z"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-11-08T07:23:09.107542Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
