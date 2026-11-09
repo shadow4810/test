@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-09 14:00 UTC
+最終確認: 2026-11-09 22:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -13,7 +13,7 @@
 - [ ] M09教材作成 ／ 草案 v0.1 の PDF（10/7 送付）を確認し、4点について返す：①S2 の時間配分 ②NC の一時停止の手順 ③§4.2.3 の言い回し ④そのほか気になる点 ／ https://claude.ai/code/session_013hd3EPjADEmujSjZePLGam
 - [ ] M08教材作成 ／ M08 の GL 承認を記録済み（承認済みは計12モジュール）。残りの作業（S2 の実施、講義スライド、形状レビュー）をどう進めるかと、M09 に着手してよいかを指示する ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] M13講師メモ ／ EDU00001 M13第1期修了を記録済み（実技9/9、Forms 90/100）。変更はまだコミットされていないので、コミットするよう指示する ／ https://claude.ai/code/session_01G7qbF8WDGPVjYBcqwzYuqW
-- [ ] M14の教材作成 ／ 本文と確認テスト10問（draft v0.1）をレビューし、次を決める：Q6（実施日）、Q7（確認テストの実施形式）、R9（断面観察記録を DED_QMS に申し送るか）。続く M15 は書籍[13]を軸にするか社内トラブル事例を使うかを決め、「M15 進めて」と返す ／ https://claude.ai/code/session_01CYJnVrE9RuREyUtL28bu8V
+- [ ] M14の教材作成 ／ 送付済みの本文PDF（m14_postprocess_qa.pdf）と確認テストPDF（quiz_m14_postprocess_qa.pdf）をレビューし、Q6（実施日）・Q7（確認テストの実施形式）・R9（断面観察記録を DED_QMS に申し送るか）を決めて返す。M15 は書籍[13]軸か社内事例かも決める ／ https://claude.ai/code/session_01CYJnVrE9RuREyUtL28bu8V
 - [ ] バイメタル ／ 未コミットだった3件をコミットして保存中。依頼書は依頼先が決まるのを待っている：依頼先は材技かキグチかを答える ／ https://claude.ai/code/session_01CYJnVtzzF23mHpSAowznjm
 - [ ] DAM-M17 材料技術分析 ／ 材技への依頼文ができた（A案を推奨）。今日送ってよいか決める。送る前に、相手が知らない前提が書かれていないか最終確認する ／ https://claude.ai/code/session_01CYJnVqjRHudNee37DEh26Q
 - [ ] 回転曲げ疲労試験片 ／ 11/8 の 07:26 にも返答があったが、要約がない。前回は回転曲げ（I-6）での開始を推奨し、GLレビュー後に計画v3へ進む段階だった。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01CYJnVudJnh8hmT4RChEtGa
