@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-09 13:00 UTC
+最終確認: 2026-11-09 14:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -30,7 +30,7 @@
 - [ ] OJT進め方相談室 ／ 10/16（金）の7時間の予定（部品メモの修正1h・事務1h・NX復習1h・現場見学2h・チーム観察1.5h・振り返り15分）ができた。現場の案内役を今日か明日のうちに手配する ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
 - [ ] モアレ3D形状測定による欠陥観察 ／ 次の3つを行う：①依頼書の空欄（両品の材料・造形条件・切削取り代、モアレ装置名）を埋める ②材技に3点（装置の原理と分解能、凹みのしきい値、10〜20µm の割れの見え方）を確認する ③WinROOF 担当に、040235 と同じしきい値で8枚を処理できるか問い合わせる ／ https://claude.ai/code/session_01CYJnVtWfewxTeYgV1FFRdR
 - [ ] M09実践形式まとめ ／ 11/9 の割り付け案と再造形での補完計画をチェックリスト §6 に追加し、progress §7 に順序変更を記録済み。11/9 に PT などを実施し、終わったら結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
-- [ ] EPX_generator開発 ／ 抑制した電極・ワークピースを EPX から外すよう修正（実行時に確認画面が出る）。テスト73件成功、USB と Google Drive にも反映済み。NX 実機で C-02・C-03 を確認し、結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
+- [ ] EPX_generator開発 ／ 抑制した電極・ワークピースを EPX から外すよう修正済み（テスト73件成功）。NX での確認項目をチェックシート（out_epx_generator/07_試験/EPX_NX確認チェックリスト.xlsx）にまとめ、Google Drive と USB に格納済み。チェックシートに沿って NX 実機で C-02・C-03 などを確認し、結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 
 ## 🟦 外部待ち
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
