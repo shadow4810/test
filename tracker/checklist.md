@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-09 01:00 UTC
+最終確認: 2026-11-09 11:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -14,7 +14,6 @@
 - [ ] M08教材作成 ／ M08 の GL 承認を記録済み（承認済みは計12モジュール）。残りの作業（S2 の実施、講義スライド、形状レビュー）をどう進めるかと、M09 に着手してよいかを指示する ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] M13講師メモ ／ EDU00001 M13第1期修了を記録済み（実技9/9、Forms 90/100）。変更はまだコミットされていないので、コミットするよう指示する ／ https://claude.ai/code/session_01G7qbF8WDGPVjYBcqwzYuqW
 - [ ] M14の教材作成 ／ 本文と確認テスト10問（draft v0.1）をレビューし、次を決める：Q6（実施日）、Q7（確認テストの実施形式）、R9（断面観察記録を DED_QMS に申し送るか）。続く M15 は書籍[13]を軸にするか社内トラブル事例を使うかを決め、「M15 進めて」と返す ／ https://claude.ai/code/session_01CYJnVrE9RuREyUtL28bu8V
-- [ ] EPX_generator開発 ／ 3点に答える：①設定ツールの候補を部品の種類で絞るか（推奨：絞る）②ロードされていない部品があるとき、EPX 生成ツールで警告して確認するか（推奨：警告して確認）③セッションの役割分担（Opus は設計・レビュー、Sonnet は実装・調査）でよいか ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 - [ ] バイメタル ／ 未コミットだった3件をコミットして保存中。依頼書は依頼先が決まるのを待っている：依頼先は材技かキグチかを答える ／ https://claude.ai/code/session_01CYJnVtzzF23mHpSAowznjm
 - [ ] DAM-M17 材料技術分析 ／ 材技への依頼文ができた（A案を推奨）。今日送ってよいか決める。送る前に、相手が知らない前提が書かれていないか最終確認する ／ https://claude.ai/code/session_01CYJnVqjRHudNee37DEh26Q
 - [ ] 回転曲げ疲労試験片 ／ 11/8 の 07:26 にも返答があったが、要約がない。前回は回転曲げ（I-6）での開始を推奨し、GLレビュー後に計画v3へ進む段階だった。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01CYJnVudJnh8hmT4RChEtGa
@@ -31,6 +30,7 @@
 - [ ] OJT進め方相談室 ／ 10/16（金）の7時間の予定（部品メモの修正1h・事務1h・NX復習1h・現場見学2h・チーム観察1.5h・振り返り15分）ができた。現場の案内役を今日か明日のうちに手配する ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
 - [ ] モアレ3D形状測定による欠陥観察 ／ 次の3つを行う：①依頼書の空欄（両品の材料・造形条件・切削取り代、モアレ装置名）を埋める ②材技に3点（装置の原理と分解能、凹みのしきい値、10〜20µm の割れの見え方）を確認する ③WinROOF 担当に、040235 と同じしきい値で8枚を処理できるか問い合わせる ／ https://claude.ai/code/session_01CYJnVtWfewxTeYgV1FFRdR
 - [ ] M09実践形式まとめ ／ 11/9 の割り付け案と再造形での補完計画をチェックリスト §6 に追加し、progress §7 に順序変更を記録済み。11/9 に PT などを実施し、終わったら結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
+- [ ] EPX_generator開発 ／ ①設定ツール候補の部品種類での絞り込み ②未ロード部品の警告を実装し、テスト全件成功（Python 68件、VB 43件）。Google Drive には反映済み。USB に反映し、NX で C-02・S-02・S-08 を確認して結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 
 ## 🟦 外部待ち
 - [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
