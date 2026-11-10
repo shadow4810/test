@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-10T11:00:00Z",
+  "last_checked": "2026-11-10T12:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -150,7 +150,7 @@
       "title": "🟧 EPX_generator開発",
       "base_title": "EPX_generator開発",
       "group": "🟧手作業",
-      "updated_at": "2026-11-10T10:44:12.735607Z"
+      "updated_at": "2026-11-10T11:39:13.656807Z"
     },
     "session_01CYJnVtWfewxTeYgV1FFRdR": {
       "title": "🟧 モアレ3D形状測定による欠陥観察",
@@ -165,10 +165,10 @@
       "updated_at": "2026-11-08T07:23:09.107542Z"
     },
     "session_01CYJnVuCHejbEX7423usvtQ": {
-      "title": "🟦 ツール作成",
+      "title": "🟧 ツール作成",
       "base_title": "ツール作成",
-      "group": "🟦外部待ち",
-      "updated_at": "2026-11-10T10:44:15.326355Z"
+      "group": "🟧手作業",
+      "updated_at": "2026-11-10T11:18:18.269756Z"
     },
     "session_01CYJnVu3nutyZjEwgjtWqMW": {
       "title": "✅ キグチの試験結果におけるCu-10Al降伏応力",
