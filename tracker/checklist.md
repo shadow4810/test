@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-11 11:00 UTC
+最終確認: 2026-11-12 11:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -30,7 +30,7 @@
 - [ ] OJT進め方相談室 ／ 10/16（金）の7時間の予定（部品メモの修正1h・事務1h・NX復習1h・現場見学2h・チーム観察1.5h・振り返り15分）ができた。現場の案内役を今日か明日のうちに手配する ／ https://claude.ai/code/session_01VidqCopvRnqEo3jWWDjSX7
 - [ ] モアレ3D形状測定による欠陥観察 ／ 次の3つを行う：①依頼書の空欄（両品の材料・造形条件・切削取り代、モアレ装置名）を埋める ②材技に3点（装置の原理と分解能、凹みのしきい値、10〜20µm の割れの見え方）を確認する ③WinROOF 担当に、040235 と同じしきい値で8枚を処理できるか問い合わせる ／ https://claude.ai/code/session_01CYJnVtWfewxTeYgV1FFRdR
 - [ ] M09実践形式まとめ ／ 11/9 の割り付け案と再造形での補完計画をチェックリスト §6 に追加し、progress §7 に順序変更を記録済み。11/9 に PT などを実施し、終わったら結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
-- [ ] EPX_generator開発 ／ NX 確認チェックシートの No.1〜9 はすべて OK。残りは No.10（任意）と No.11（牧野さんの実機での読み込み）で、どちらもユーザー側の作業。No.11 を依頼・実施し、結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
+- [ ] EPX_generator開発 ／ 11/12 に SFT265402 の HYPERI_EPX データ PDF を受領済み（中身を確認）。NX 確認チェックシートは No.1〜9 OK、残りは No.10（任意）と No.11（牧野さんの実機での読み込み）。No.11 を依頼・実施し、結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 - [ ] ツール作成 ／ 仕様は現状のまま据え置きで決定。NX 実機で EPX_一括付与_NX確認チェックリスト.xlsx（10項目）に沿って確認する（結果の共有は任意） ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 
 ## 🟦 外部待ち
