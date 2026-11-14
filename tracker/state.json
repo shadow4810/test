@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-14T03:00:00Z",
+  "last_checked": "2026-11-14T04:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -20,12 +20,6 @@
       "updated_at": "2026-10-14T13:15:52.519042Z",
       "base_title": "ワンページ"
     },
-    "session_018fTVUa52tU51Wnww3eyxMr": {
-      "title": "✅ 計画書",
-      "group": "✅完了",
-      "updated_at": "2026-10-14T13:15:49.549798Z",
-      "base_title": "計画書"
-    },
     "session_01VcRiswB5sYcoK6PQqF8c6K": {
       "title": "🟥 M08教材作成",
       "base_title": "M08教材作成",
@@ -43,12 +37,6 @@
       "group": "🟧手作業",
       "updated_at": "2026-10-08T14:50:03.953744Z",
       "title": "🟧 LTX表面と内部の欠陥観察"
-    },
-    "session_0183JN1ohfmutn4DiK8dz9iG": {
-      "base_title": "M2C の使い方",
-      "group": "🟦外部待ち",
-      "updated_at": "2026-10-14T13:16:06.127652Z",
-      "title": "🟦 M2C の使い方"
     },
     "session_01VhcnY2XVmxoGGmjiRfGqa3": {
       "base_title": "SFWローラの修理・高寿命化",

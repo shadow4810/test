@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-14 03:00 UTC
+最終確認: 2026-11-14 04:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -32,12 +32,10 @@
 - [ ] ツール作成 ／ 仕様は現状のまま据え置きで決定。NX 実機で EPX_一括付与_NX確認チェックリスト.xlsx（10項目）に沿って確認する（結果の共有は任意） ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 
 ## 🟦 外部待ち
-- [ ] M2C の使い方 ／ 試験日程待ち。決まったらセッションに伝えると、計画に日付・材料・チェックリストを追記する ／ https://claude.ai/code/session_0183JN1ohfmutn4DiK8dz9iG
 
 ## ✅ 完了
 - [x] キグチの試験結果におけるCu-10Al降伏応力 ／ Cu-10Al の硬さは HV0.5 で A条件 177HV・C条件 173HV と回答済み（HRB は換算の参考値、比較には HV0.5 を使う）。要対応なし ／ https://claude.ai/code/session_01CYJnVu3nutyZjEwgjtWqMW
 - [x] 電極ガス抜き穴自動設定 ／ NX 実機で動作確認済み。最新のジャーナルを USB に入れ、Google Drive と一致を確認（4ファイル、md5 一致）。仕事全体が完了 ／ https://claude.ai/code/session_01Shx2fuvmvcuJHHAVQPfe8p
 - [x] 指令塔 ／ ワンページ説明①台本の完了報告を受領。要対応なし ／ https://claude.ai/code/session_01JQhf2wYNJGHJfmmsRPSdGz
-- [x] 計画書 ／ 承認済みの計画書（20260929）を正本として確認。Drive と USB の差し替えも済み ／ https://claude.ai/code/session_018fTVUa52tU51Wnww3eyxMr
 - [x] 各種ワークブック作成 ／ 週次ふりかえり用のテンプレートを作り直し、Drive と USB に同期済み ／ https://claude.ai/code/session_01En3t9RkumGLdNsLKLXSc1S
 - [x] ワンページ ／ 欄名を「ふりかえり実施」に統一し、Drive と USB に配置済み ／ https://claude.ai/code/session_01Jwgu2UER3Cy8wjSCnpLzjg
