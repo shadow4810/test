@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-14T07:00:00Z",
+  "last_checked": "2026-11-14T08:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -7,18 +7,6 @@
       "group": "✅完了",
       "updated_at": "2026-10-14T13:15:56.377225Z",
       "base_title": "各種ワークブック作成"
-    },
-    "session_01JQhf2wYNJGHJfmmsRPSdGz": {
-      "title": "✅ 指令塔",
-      "group": "✅完了",
-      "updated_at": "2026-10-14T13:15:46.246716Z",
-      "base_title": "指令塔"
-    },
-    "session_01Jwgu2UER3Cy8wjSCnpLzjg": {
-      "title": "✅ ワンページ",
-      "group": "✅完了",
-      "updated_at": "2026-10-14T13:15:52.519042Z",
-      "base_title": "ワンページ"
     },
     "session_01VcRiswB5sYcoK6PQqF8c6K": {
       "title": "🟥 M08教材作成",
@@ -155,7 +143,7 @@
     "session_01CYJnVr5dxXHPjrhgdxLwNL": {
       "title": "🟥 放電加工たわみ計算ツール",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-14T06:45:39.766986Z",
+      "updated_at": "2026-11-14T07:41:42.707573Z",
       "base_title": "放電加工たわみ計算ツール"
     }
   },
