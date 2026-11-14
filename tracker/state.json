@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-14T10:00:00Z",
+  "last_checked": "2026-11-14T11:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -13,12 +13,6 @@
       "base_title": "M08教材作成",
       "group": "🟥判断待ち",
       "updated_at": "2026-10-14T14:13:34.156354Z"
-    },
-    "session_01Shx2fuvmvcuJHHAVQPfe8p": {
-      "title": "✅ 電極ガス抜き穴自動設定",
-      "base_title": "電極ガス抜き穴自動設定",
-      "group": "✅完了",
-      "updated_at": "2026-10-14T13:16:59.828788Z"
     },
     "session_01RjyqBTpGvmGbdYC1n6A56g": {
       "base_title": "LTX表面と内部の欠陥観察",
@@ -141,9 +135,9 @@
       "updated_at": "2026-11-10T10:18:27.133746Z"
     },
     "session_01CYJnVr5dxXHPjrhgdxLwNL": {
-      "title": "🟥 放電加工たわみ計算ツール",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-11-14T09:39:00.412340Z",
+      "title": "🟦 放電加工たわみ計算ツール",
+      "group": "🟦外部待ち",
+      "updated_at": "2026-11-14T10:14:21.335433Z",
       "base_title": "放電加工たわみ計算ツール"
     }
   },
