@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-14T00:00:00Z",
+  "last_checked": "2026-11-14T03:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -55,12 +55,6 @@
       "group": "🟧手作業",
       "updated_at": "2026-10-14T13:16:13.909293Z",
       "title": "🟧 SFWローラの修理・高寿命化"
-    },
-    "session_015GonF7YvnSZ2DNCtn1NSw4": {
-      "base_title": "鍛造金型へのDED造形適用",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-14T13:16:08.951580Z",
-      "title": "🟧 鍛造金型へのDED造形適用"
     },
     "session_01PN8DUjPuBCKfHo3QgLGcRA": {
       "title": "🟧 電極prt一括エクスポート開発",
