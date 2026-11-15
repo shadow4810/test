@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-15T09:00:00Z",
+  "last_checked": "2026-11-15T10:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -137,7 +137,7 @@
     "session_01CYJnVr5dxXHPjrhgdxLwNL": {
       "title": "🟥 放電加工たわみ計算ツール",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-15T08:57:20.024181Z",
+      "updated_at": "2026-11-15T09:49:21.767370Z",
       "base_title": "放電加工たわみ計算ツール"
     },
     "session_01CYJnVqPAd7uoRJW45Ew8gi": {
@@ -145,6 +145,18 @@
       "base_title": "不具合考察",
       "group": "🟥",
       "updated_at": "2026-11-15T08:21:03.993887Z"
+    },
+    "session_01CYJnVsMuHRz5kc29K37fiX": {
+      "title": "🟥 実運用時のルールぎめ",
+      "base_title": "実運用時のルールぎめ",
+      "group": "🟥",
+      "updated_at": "2026-11-15T09:56:55.016550Z"
+    },
+    "session_01CYJnVtRFE2RnHY7YmwuT2p": {
+      "title": "🟥 Zジャンプの時のたわみについて理解を深める",
+      "base_title": "Zジャンプの時のたわみについて理解を深める",
+      "group": "🟥",
+      "updated_at": "2026-11-15T09:55:52.858266Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
