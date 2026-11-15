@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-15T00:00:00Z",
+  "last_checked": "2026-11-15T01:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -141,10 +141,10 @@
       "base_title": "放電加工たわみ計算ツール"
     },
     "session_01CYJnVqPAd7uoRJW45Ew8gi": {
-      "title": "🟥 不具合考察",
+      "title": "🟧 不具合考察",
       "base_title": "不具合考察",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-11-14T23:15:52.083142Z"
+      "group": "🟧",
+      "updated_at": "2026-11-15T00:21:23.355597Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
