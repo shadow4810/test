@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-15 08:00 UTC
+最終確認: 2026-11-15 09:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,7 +8,8 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
-- [ ] 放電加工たわみ計算ツール ／ 報告書 pptx に5枚目「計算結果: たわみの形」が追加された（加工面のずれ約33µm、遠い端の持ち上がり約37µm）。PowerPoint で表示と内容を確認し、直す点があれば指示する ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
+- [ ] 不具合考察 ／ 0.5ms刻みの座標データからジャンプ速度・加減速・揺動の形を読めるが、電極のたわみは直接出ず、放電の有無には極間電圧などの信号が要る、と回答あり。座標データで解析を進めるか、電圧信号も用意するかを決める ／ https://claude.ai/code/session_01CYJnVqPAd7uoRJW45Ew8gi
+- [ ] 放電加工たわみ計算ツール ／ 油抜き穴 φ5×4本の位置（底面中心線上、ロッド側から25/5/33/60mm）が決まり、vent_holes.png と報告書6枚目が送られた。位置と報告書を確認し、直す点があれば指示する ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
 - [ ] 昇格審査の資料作成 ／ レビューが済み、資料と論文はY4相当と判定された（タイトル「水漏れ金型」の修正、部方針への言及の追加、数字の根拠の整理など8項目を指摘）。3点に答える：①鋳造トライは11月か12月か ②指摘①〜⑦のうちどれを自分で直すか ③最新の pptx・docx を `Y4 (1)/` に置く ／ https://claude.ai/code/session_01GvoV5E6ccPcnuh8nYbez9c
 - [ ] ノズル閉塞を防ぐ休止条件の検証 ／ （新しいセッション）作られたばかりで、まだ報告がない。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01SVgbt7VeVyvk4xwFRoSeMe
 - [ ] M09教材作成 ／ 草案 v0.1 の PDF（10/7 送付）を確認し、4点について返す：①S2 の時間配分 ②NC の一時停止の手順 ③§4.2.3 の言い回し ④そのほか気になる点 ／ https://claude.ai/code/session_013hd3EPjADEmujSjZePLGam
@@ -24,7 +25,6 @@
 - [ ] FLOP20260930 ／ 監視中のセッションが承認待ち（REQUIRES_ACTION）で止まっている。開いて許可するか判断する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 
 ## 🟧 手作業
-- [ ] 不具合考察 ／ 6つの加工条件それぞれについて、揺動・放電ギャップ・ジャンプ速度／上昇量／周期・加工深さ（設定記号や NC の該当部分でも可）を集めて送る ／ https://claude.ai/code/session_01CYJnVqPAd7uoRJW45Ew8gi
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [ ] SFWローラの修理・高寿命化 ／ 肉盛り層の詳細を見るため、NiBas 776 W40 の PDF を themes/machine_materials/references/ に置く。あわせて、試験計画スライド v6 の確認と、Höganäs 粉末の入手先のヘガネスジャパン（048-583-5561 か iProS のフォーム）への問い合わせ ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] 電極prt一括エクスポート開発 ／ 多層対応の electrode_export.py は USB で確認済み。NX 実機で多層アセンブリ（レイヤー200＋201）の試験を行い、結果を zip にしてセッションに渡す ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
