@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-16 10:59 UTC
+最終確認: 2026-11-16 11:59 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,6 +8,7 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
+- [ ] 20261116 測定データ ／ データ整理文書（docs/data_reference_20261116.md）と抽出ツールを確認し、文書に挙がった未確認事項に答える。計算比較（todo 6章）に進むか決める ／ https://claude.ai/code/session_01CYJnVsVKGNyMEDywm8se3j
 - [ ] 実運用時のルールぎめ ／ 判定スクリプト src/edm_squeeze/screen.py が完成。DA4007 は仮定値の試算で NG（最大189N、たわみ196µm）。仮定値を実値に置き換えるか、ジャーナル用の確認事項4点に進むかを決める ／ https://claude.ai/code/session_01CYJnVsMuHRz5kc29K37fiX
 - [ ] Zジャンプの時のたわみについて理解を深める ／ 「ロッドは図心ではなく力の作用線上に付ける」と説明があった。電極ごとに作用線を求めてたわみを再計算するよう進めるか決める ／ https://claude.ai/code/session_01CYJnVtRFE2RnHY7YmwuT2p
 - [ ] 不具合考察 ／ 0.5ms刻みの座標データからジャンプ速度・加減速・揺動の形を読めるが、電極のたわみは直接出ず、放電の有無には極間電圧などの信号が要る、と回答あり。座標データで解析を進めるか、電圧信号も用意するかを決める ／ https://claude.ai/code/session_01CYJnVqPAd7uoRJW45Ew8gi
@@ -35,7 +36,6 @@
 - [ ] ツール作成 ／ 仕様は現状のまま据え置きで決定。NX 実機で EPX_一括付与_NX確認チェックリスト.xlsx（10項目）に沿って確認する（結果の共有は任意） ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 
 ## 🟦 外部待ち
-- [ ] 20261116 測定データ ／ 開始直後で作業中。最初の報告が出るのを待つ ／ https://claude.ai/code/session_01CYJnVsVKGNyMEDywm8se3j
 - [ ] FLOP20260930 ／ 監視を張り直し、進捗を待っている。結果が出るまで待つ ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 
 ## ✅ 完了
