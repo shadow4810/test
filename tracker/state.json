@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-16T19:59:17Z",
+  "last_checked": "2026-11-16T20:59:30Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -102,7 +102,7 @@
       "title": "🟦 FLOP20260930",
       "base_title": "FLOP20260930",
       "group": "🟦外部待ち",
-      "updated_at": "2026-11-16T19:56:52.891920Z"
+      "updated_at": "2026-11-16T20:57:07.763580Z"
     },
     "session_01CYJnVtHLULuVYYbT3HRPyx": {
       "title": "🟧 EPX_generator開発",
@@ -137,7 +137,7 @@
     "session_01CYJnVr5dxXHPjrhgdxLwNL": {
       "title": "🟥 放電加工たわみ計算ツール",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-16T14:09:36.283491Z",
+      "updated_at": "2026-11-16T20:54:35.041897Z",
       "base_title": "放電加工たわみ計算ツール"
     },
     "session_01CYJnVqPAd7uoRJW45Ew8gi": {
