@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-16 11:59 UTC
+最終確認: 2026-11-16 13:01 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,11 +8,9 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
-- [ ] 20261116 測定データ ／ データ整理文書（docs/data_reference_20261116.md）と抽出ツールを確認し、文書に挙がった未確認事項に答える。計算比較（todo 6章）に進むか決める ／ https://claude.ai/code/session_01CYJnVsVKGNyMEDywm8se3j
 - [ ] 実運用時のルールぎめ ／ 判定スクリプト src/edm_squeeze/screen.py が完成。DA4007 は仮定値の試算で NG（最大189N、たわみ196µm）。仮定値を実値に置き換えるか、ジャーナル用の確認事項4点に進むかを決める ／ https://claude.ai/code/session_01CYJnVsMuHRz5kc29K37fiX
 - [ ] Zジャンプの時のたわみについて理解を深める ／ 「ロッドは図心ではなく力の作用線上に付ける」と説明があった。電極ごとに作用線を求めてたわみを再計算するよう進めるか決める ／ https://claude.ai/code/session_01CYJnVtRFE2RnHY7YmwuT2p
 - [ ] 不具合考察 ／ 0.5ms刻みの座標データからジャンプ速度・加減速・揺動の形を読めるが、電極のたわみは直接出ず、放電の有無には極間電圧などの信号が要る、と回答あり。座標データで解析を進めるか、電圧信号も用意するかを決める ／ https://claude.ai/code/session_01CYJnVqPAd7uoRJW45Ew8gi
-- [ ] 放電加工たわみ計算ツール ／ 油抜き穴 φ5×4本の位置（底面中心線上、ロッド側から25/5/33/60mm）が決まり、vent_holes.png と報告書6枚目が送られた。位置と報告書を確認し、直す点があれば指示する ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
 - [ ] 昇格審査の資料作成 ／ レビューが済み、資料と論文はY4相当と判定された（タイトル「水漏れ金型」の修正、部方針への言及の追加、数字の根拠の整理など8項目を指摘）。3点に答える：①鋳造トライは11月か12月か ②指摘①〜⑦のうちどれを自分で直すか ③最新の pptx・docx を `Y4 (1)/` に置く ／ https://claude.ai/code/session_01GvoV5E6ccPcnuh8nYbez9c
 - [ ] ノズル閉塞を防ぐ休止条件の検証 ／ （新しいセッション）作られたばかりで、まだ報告がない。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01SVgbt7VeVyvk4xwFRoSeMe
 - [ ] M09教材作成 ／ 草案 v0.1 の PDF（10/7 送付）を確認し、4点について返す：①S2 の時間配分 ②NC の一時停止の手順 ③§4.2.3 の言い回し ④そのほか気になる点 ／ https://claude.ai/code/session_013hd3EPjADEmujSjZePLGam
@@ -36,6 +34,8 @@
 - [ ] ツール作成 ／ 仕様は現状のまま据え置きで決定。NX 実機で EPX_一括付与_NX確認チェックリスト.xlsx（10項目）に沿って確認する（結果の共有は任意） ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 
 ## 🟦 外部待ち
+- [ ] 放電加工たわみ計算ツール ／ 測定データのセッションから頼まれたジャンプ時たわみの計算を実行中。終わったら報告を確認する ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
+- [ ] 20261116 測定データ ／ ジャンプ時たわみの計算を「放電加工たわみ計算ツール」に頼み、結果待ち。整理文書（docs/data_reference_20261116.md）の未確認事項は結果と一緒に見る ／ https://claude.ai/code/session_01CYJnVsVKGNyMEDywm8se3j
 - [ ] FLOP20260930 ／ 監視を張り直し、進捗を待っている。結果が出るまで待つ ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 
 ## ✅ 完了
