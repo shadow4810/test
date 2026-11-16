@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-16 19:59 UTC
+最終確認: 2026-11-16 20:59 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,7 +8,7 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
-- [ ] 放電加工たわみ計算ツール ／ 実測値と新しいジャンプ仮定で工程1〜6を再計算した報告pptx（8枚、Drive差し替え済み）を確認し、次に進むか判断する ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
+- [ ] 放電加工たわみ計算ツール ／ 1枚目を測定画面の画像入りに直した報告pptx（Drive差し替え済み）をPowerPointで開いて表示を確認し、次に進むか判断する ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
 - [ ] 20261116 測定データ ／ 依頼した再計算が終わった。整理文書（docs/data_reference_20261116.md）の未確認事項に答え、計算比較（todo 6章）をどうするか決める ／ https://claude.ai/code/session_01CYJnVsVKGNyMEDywm8se3j
 - [ ] 実運用時のルールぎめ ／ 判定スクリプト src/edm_squeeze/screen.py が完成。DA4007 は仮定値の試算で NG（最大189N、たわみ196µm）。仮定値を実値に置き換えるか、ジャーナル用の確認事項4点に進むかを決める ／ https://claude.ai/code/session_01CYJnVsMuHRz5kc29K37fiX
 - [ ] Zジャンプの時のたわみについて理解を深める ／ 「ロッドは図心ではなく力の作用線上に付ける」と説明があった。電極ごとに作用線を求めてたわみを再計算するよう進めるか決める ／ https://claude.ai/code/session_01CYJnVtRFE2RnHY7YmwuT2p
