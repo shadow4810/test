@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-15 10:00 UTC
+最終確認: 2026-11-16 08:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -24,7 +24,6 @@
 - [ ] M10実践形式まとめ（旧 EDU00001 厚膜コーティングテスト） ／ M10 試行（11/4 CAM 約2h、講師立会い）は記録済み。追加の評価項目の提案に対し4点答える：①造形品は実使用品か、断面を採ってよいか ②DED_QMS 報告書の対象か ③ビッカース硬さ計はあるか ④仮のチェックリスト・予測表を今日作ってよいか ／ https://claude.ai/code/session_01CYJnVsNx3SMVoQsxYcdM6m
 - [ ] M08実践形式まとめ ／ 進める順番の案が出た：①日程ずれの記録 ②講義進行資料 script_m08 の作成（期限超過）③S2 の実施と記録 ④押印 PDF の SharePoint 格納確認。この順で着手してよいか指示する ／ https://claude.ai/code/session_01CYJnVqu5iYU5Hbdrw9RY64
 - [ ] 作業実績記録 ／ デプロイ用 zip は Drive に配置済み（SharePoint へのデプロイは未）。今週の作業の優先順を整理し、自分の作業（M09 の PT、M14 のレビュー回答、M10 の造形）と、すぐ着手できる教材開発（M09 v0.3、M16・M15 の仕様）を並べた。推奨どおり M16 の仕様をヒアリングから始めてよいか決めて返す ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
-- [ ] FLOP20260930 ／ 監視中のセッションが承認待ち（REQUIRES_ACTION）で止まっている。開いて許可するか判断する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 
 ## 🟧 手作業
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
@@ -36,6 +35,7 @@
 - [ ] ツール作成 ／ 仕様は現状のまま据え置きで決定。NX 実機で EPX_一括付与_NX確認チェックリスト.xlsx（10項目）に沿って確認する（結果の共有は任意） ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 
 ## 🟦 外部待ち
+- [ ] 🟦 FLOP20260930 ／ 監視は変化なし。予約を作り直し、次回は19:47 JSTに自動実行。結果待ち ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 
 ## ✅ 完了
 - [x] キグチの試験結果におけるCu-10Al降伏応力 ／ Cu-10Al の硬さは HV0.5 で A条件 177HV・C条件 173HV と回答済み（HRB は換算の参考値、比較には HV0.5 を使う）。要対応なし ／ https://claude.ai/code/session_01CYJnVu3nutyZjEwgjtWqMW
