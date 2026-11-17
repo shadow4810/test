@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-17 14:59 UTC
+最終確認: 2026-11-17 15:59 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -28,14 +28,14 @@
 - [ ] 作業実績記録 ／ 11/11〜11/17の実績5件を worklog（行16〜20）に追記し、progress.md とスキルマトリクスも更新済み。内容を確認し、次に何を進めるか決める ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
 
 ## 🟧 手作業
-- [ ] 開発ツール作成 ／ EPX_generator開発セッションにミラー電極出力の依頼が届いているか、名前の付け方の質問が出ていないかを確認する ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
+- [ ] 開発ツール作成 ／ USB を挿し、NX で 07_試験/EPX_一括付与_NX確認チェックリスト.xlsx の 8 項目を確認（ED3R__001 のコピーを使い、AAA / BBB / CCC は先に消す） ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 - [ ] FLOP20260930 ／ 監視の常駐が止まったまま（FLOPに変化なし、faucetは404のまま）。セッションの最新メッセージにある再起動コマンド（kill → daemons/start_all.sh）を手元で実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
 - [ ] SFWローラの修理・高寿命化 ／ 肉盛り層の詳細を見るため、NiBas 776 W40 の PDF を themes/machine_materials/references/ に置く。あわせて、試験計画スライド v6 の確認と、Höganäs 粉末の入手先のヘガネスジャパン（048-583-5561 か iProS のフォーム）への問い合わせ ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] 電極prt一括エクスポート開発 ／ 多層対応の electrode_export.py は USB で確認済み。NX 実機で多層アセンブリ（レイヤー200＋201）の試験を行い、結果を zip にしてセッションに渡す ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
 - [ ] モアレ3D形状測定による欠陥観察 ／ 次の3つを行う：①依頼書の空欄（両品の材料・造形条件・切削取り代、モアレ装置名）を埋める ②材技に3点（装置の原理と分解能、凹みのしきい値、10〜20µm の割れの見え方）を確認する ③WinROOF 担当に、040235 と同じしきい値で8枚を処理できるか問い合わせる ／ https://claude.ai/code/session_01CYJnVtWfewxTeYgV1FFRdR
 - [ ] M09実践形式まとめ ／ 11/9 の割り付け案と再造形での補完計画をチェックリスト §6 に追加し、progress §7 に順序変更を記録済み。11/9 に PT などを実施し、終わったら結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
-- [ ] EPX_generator開発 ／ 14:58 時点で作業中（ミラー電極出力の依頼対応とみられる）。終わったら結果と質問を確認。NX 確認チェックシート No.11（牧野さんの実機での読み込み）は未完 ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
+- [ ] EPX_generator開発 ／ ミラー電極出力を追加済み（テスト通過、Drive 配置済み）。USB を挿して USB へ入れてもらい、牧野さんの実機で確認（チェックシート No.11） ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 
 ## 🟦 外部待ち
 
