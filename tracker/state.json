@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-17T07:00:02Z",
+  "last_checked": "2026-11-17T10:59:40Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -78,7 +78,7 @@
       "title": "🟥 作業実績記録",
       "base_title": "作業実績記録",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T07:26:26.703094Z"
+      "updated_at": "2026-11-17T10:31:31.226885Z"
     },
     "session_01CYJnVqjRHudNee37DEh26Q": {
       "title": "🟥 DAM-M17 材料技術分析",
@@ -102,7 +102,7 @@
       "title": "🟧 FLOP20260930",
       "base_title": "FLOP20260930",
       "group": "🟧手作業",
-      "updated_at": "2026-11-17T06:53:37.224191Z"
+      "updated_at": "2026-11-17T10:47:41.723775Z"
     },
     "session_01CYJnVtHLULuVYYbT3HRPyx": {
       "title": "🟧 EPX_generator開発",
@@ -123,10 +123,10 @@
       "updated_at": "2026-11-08T07:23:09.107542Z"
     },
     "session_01CYJnVuCHejbEX7423usvtQ": {
-      "title": "🟧 ツール作成",
+      "title": "🟥 ツール作成",
       "base_title": "ツール作成",
-      "group": "🟧手作業",
-      "updated_at": "2026-11-11T10:02:00.264869Z"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-11-17T10:34:05.553806Z"
     },
     "session_01CYJnVu3nutyZjEwgjtWqMW": {
       "title": "✅ キグチの試験結果におけるCu-10Al降伏応力",
