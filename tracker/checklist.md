@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-17 10:59 UTC
+最終確認: 2026-11-17 14:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,7 +8,8 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
-- [ ] ツール作成 ／ ED3R属性の対応表づくりで止まっている。前回の5つの質問に答え、ELECTRODE_NAME（電極名）につないだ式を伝える ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
+- [ ] 入力UIツール作成 ／ 最初の依頼内容を入力（まだ会話なし） ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
+- [ ] 開発ツール作成 ／ ED3R属性の対応表づくりで止まっている。前回の5つの質問に答え、ELECTRODE_NAME（電極名）につないだ式を伝える ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 - [ ] 放電加工たわみ計算ツール ／ 深さ方向の削りすぎは電極の傾きでは説明できないと分かった（7枚目の「合わない」はそのまま）。pptx（1枚目修正済み）の表示を確認し、原因をどう追うか決める ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
 - [ ] 20261116 測定データ ／ 傾きでは説明できないという検証結果をpptx側に渡した。整理文書（docs/data_reference_20261116.md）の未確認事項に答え、次に何を調べるか決める ／ https://claude.ai/code/session_01CYJnVsVKGNyMEDywm8se3j
 - [ ] 実運用時のルールぎめ ／ 判定スクリプト src/edm_squeeze/screen.py が完成。DA4007 は仮定値の試算で NG（最大189N、たわみ196µm）。仮定値を実値に置き換えるか、ジャーナル用の確認事項4点に進むかを決める ／ https://claude.ai/code/session_01CYJnVsMuHRz5kc29K37fiX
