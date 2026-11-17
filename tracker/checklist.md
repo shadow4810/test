@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-17 22:00 UTC
+最終確認: 2026-11-17 22:59 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -26,7 +26,7 @@
 - [ ] 作業実績記録 ／ 11/11〜11/17の実績5件を worklog（行16〜20）に追記し、progress.md とスキルマトリクスも更新済み。内容を確認し、次に何を進めるか決める ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
 
 ## 🟧 手作業
-- [ ] 入力UIツール作成 ／ EPX属性入力ジャーナル epx_attribute_edit.vb は完成しドライブ反映済み（テスト76件成功）。NX で確認シート12項目の動作確認をする ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
+- [ ] 入力UIツール作成 ／ EPX属性入力ジャーナル epx_attribute_edit.vb は完成（テスト76件成功）。配布 zip は MyDrive/claudecode/out_epx_generator/epx_generator_01-08_20261118.zip。NX で確認シート12項目の動作確認をする ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
 - [ ] 開発ツール作成 ／ USB を挿し、NX で 07_試験/EPX_一括付与_NX確認チェックリスト.xlsx の 8 項目を確認（ED3R__001 のコピーを使い、AAA / BBB / CCC は先に消す） ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 - [ ] FLOP20260930 ／ 監視の常駐が止まったまま（FLOPに変化なし、faucetは404のまま）。セッションの最新メッセージにある再起動コマンド（kill → daemons/start_all.sh）を手元で実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
