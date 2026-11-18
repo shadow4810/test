@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-18T21:59:33Z",
+  "last_checked": "2026-11-18T22:59:53Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -96,7 +96,7 @@
       "title": "🟧 FLOP20260930",
       "base_title": "FLOP20260930",
       "group": "🟧手作業",
-      "updated_at": "2026-11-18T16:47:39.881320Z"
+      "updated_at": "2026-11-18T22:48:10.737978Z"
     },
     "session_01CYJnVtHLULuVYYbT3HRPyx": {
       "title": "🟧 EPX_generator開発",
@@ -168,7 +168,7 @@
       "title": "🟥 DED造形のスパッタ過多不具合",
       "base_title": "DED造形のスパッタ過多不具合",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-18T21:07:15.112206Z"
+      "updated_at": "2026-11-18T22:30:17.965265Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
