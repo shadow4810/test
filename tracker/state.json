@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-18T06:59:47Z",
+  "last_checked": "2026-11-18T11:00:42Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -93,10 +93,10 @@
       "updated_at": "2026-11-08T07:26:31.343764Z"
     },
     "session_01CYJnVsHcZh7y7pvtFkyFbJ": {
-      "title": "🟦 FLOP20260930",
+      "title": "🟧 FLOP20260930",
       "base_title": "FLOP20260930",
-      "group": "🟦外部待ち",
-      "updated_at": "2026-11-18T06:53:36.972366Z"
+      "group": "🟧手作業",
+      "updated_at": "2026-11-18T10:48:16.180479Z"
     },
     "session_01CYJnVtHLULuVYYbT3HRPyx": {
       "title": "🟧 EPX_generator開発",
