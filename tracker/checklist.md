@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-19 10:59 UTC
+最終確認: 2026-11-19 11:59 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,6 +8,7 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
+- [ ] DED造形のスパッタ過多不具合 ／ 調査メモ research_lpc_iptc_retry_ltx_20261119.md（§3.5 造形肌の観察、§4 考察）を確認し、次の手を決める ／ https://claude.ai/code/session_01CYJnVrhM3Z3WA1AiuVJei2
 - [ ] 放電加工たわみ計算ツール ／ 深さ方向の削りすぎは電極の傾きでは説明できないと分かった（7枚目の「合わない」はそのまま）。pptx（1枚目修正済み）の表示を確認し、原因をどう追うか決める ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
 - [ ] 20261116 測定データ ／ 電極長手は139.6mmで摩耗なし。壁の段は電極形状ではなく加工時の動きか放電状態が原因と判断（docs/data_reference_20261116.md 7章）。この結論を確認し、次に動き・放電状態を調べるか決める ／ https://claude.ai/code/session_01CYJnVsVKGNyMEDywm8se3j
 - [ ] 実運用時のルールぎめ ／ 判定スクリプト src/edm_squeeze/screen.py が完成。DA4007 は仮定値の試算で NG（最大189N、たわみ196µm）。仮定値を実値に置き換えるか、ジャーナル用の確認事項4点に進むかを決める ／ https://claude.ai/code/session_01CYJnVsMuHRz5kc29K37fiX
@@ -26,7 +27,6 @@
 - [ ] 作業実績記録 ／ 11/11〜11/17の実績5件を worklog（行16〜20）に追記し、progress.md とスキルマトリクスも更新済み。内容を確認し、次に何を進めるか決める ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
 
 ## 🟧 手作業
-- [ ] DED造形のスパッタ過多不具合 ／ themes/build_troubleshooting/references/20261119_lpc_iptc_retry/ に NC（.mpf）とログ（Data.dat）を入れて伝える（可能なら LPC/IPTC 設定も） ／ https://claude.ai/code/session_01CYJnVrhM3Z3WA1AiuVJei2
 - [ ] FLOP20260930 ／ セッションが以前のメッセージで示したコマンドを実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 - [ ] 入力UIツール作成 ／ EPX属性入力ジャーナル epx_attribute_edit.vb は完成（テスト76件成功）。配布 zip は MyDrive/claudecode/out_epx_generator/epx_generator_01-08_20261118.zip。NX で確認シート12項目の動作確認をする ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
 - [ ] 開発ツール作成 ／ USB を挿し、NX で 07_試験/EPX_一括付与_NX確認チェックリスト.xlsx の 8 項目を確認（ED3R__001 のコピーを使い、AAA / BBB / CCC は先に消す） ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ

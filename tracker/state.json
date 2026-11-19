@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-19T10:59:40Z",
+  "last_checked": "2026-11-19T11:59:20Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -165,10 +165,10 @@
       "updated_at": "2026-11-17T22:24:47.071362Z"
     },
     "session_01CYJnVrhM3Z3WA1AiuVJei2": {
-      "title": "🟧 DED造形のスパッタ過多不具合",
+      "title": "🟥 DED造形のスパッタ過多不具合",
       "base_title": "DED造形のスパッタ過多不具合",
-      "group": "🟧手作業",
-      "updated_at": "2026-11-19T10:51:33.084549Z"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-11-19T11:58:01.222982Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
