@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-19T13:59:30Z",
+  "last_checked": "2026-11-19T14:59:30Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -13,12 +13,6 @@
       "base_title": "M08教材作成",
       "group": "🟥判断待ち",
       "updated_at": "2026-10-14T14:13:34.156354Z"
-    },
-    "session_01RjyqBTpGvmGbdYC1n6A56g": {
-      "base_title": "LTX表面と内部の欠陥観察",
-      "group": "🟧手作業",
-      "updated_at": "2026-10-08T14:50:03.953744Z",
-      "title": "🟧 LTX表面と内部の欠陥観察"
     },
     "session_01VhcnY2XVmxoGGmjiRfGqa3": {
       "base_title": "SFWローラの修理・高寿命化",
