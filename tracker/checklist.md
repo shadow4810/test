@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-19 07:59 UTC
+最終確認: 2026-11-19 10:59 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,7 +8,6 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
-- [ ] DED造形のスパッタ過多不具合 ／ 層間冷却の最大待機900秒案（62×62mmでは造形時間が数倍になる見込み）で初回試しを行うか決める ／ https://claude.ai/code/session_01CYJnVrhM3Z3WA1AiuVJei2
 - [ ] 放電加工たわみ計算ツール ／ 深さ方向の削りすぎは電極の傾きでは説明できないと分かった（7枚目の「合わない」はそのまま）。pptx（1枚目修正済み）の表示を確認し、原因をどう追うか決める ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
 - [ ] 20261116 測定データ ／ 電極長手は139.6mmで摩耗なし。壁の段は電極形状ではなく加工時の動きか放電状態が原因と判断（docs/data_reference_20261116.md 7章）。この結論を確認し、次に動き・放電状態を調べるか決める ／ https://claude.ai/code/session_01CYJnVsVKGNyMEDywm8se3j
 - [ ] 実運用時のルールぎめ ／ 判定スクリプト src/edm_squeeze/screen.py が完成。DA4007 は仮定値の試算で NG（最大189N、たわみ196µm）。仮定値を実値に置き換えるか、ジャーナル用の確認事項4点に進むかを決める ／ https://claude.ai/code/session_01CYJnVsMuHRz5kc29K37fiX
@@ -27,6 +26,8 @@
 - [ ] 作業実績記録 ／ 11/11〜11/17の実績5件を worklog（行16〜20）に追記し、progress.md とスキルマトリクスも更新済み。内容を確認し、次に何を進めるか決める ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
 
 ## 🟧 手作業
+- [ ] DED造形のスパッタ過多不具合 ／ themes/build_troubleshooting/references/20261119_lpc_iptc_retry/ に NC（.mpf）とログ（Data.dat）を入れて伝える（可能なら LPC/IPTC 設定も） ／ https://claude.ai/code/session_01CYJnVrhM3Z3WA1AiuVJei2
+- [ ] FLOP20260930 ／ セッションが以前のメッセージで示したコマンドを実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 - [ ] 入力UIツール作成 ／ EPX属性入力ジャーナル epx_attribute_edit.vb は完成（テスト76件成功）。配布 zip は MyDrive/claudecode/out_epx_generator/epx_generator_01-08_20261118.zip。NX で確認シート12項目の動作確認をする ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
 - [ ] 開発ツール作成 ／ USB を挿し、NX で 07_試験/EPX_一括付与_NX確認チェックリスト.xlsx の 8 項目を確認（ED3R__001 のコピーを使い、AAA / BBB / CCC は先に消す） ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 - [ ] LTX表面と内部の欠陥観察（旧 Winroof解析） ／ ログを Google Drive の claudecode/in_ded_general/ に置く：B1・B17・B20 の Data.dat フォルダ、造形条件の表、あれば NC プログラム。置いたらセッションに伝える（参考論文2本の PDF はセッションから受け取り済み：H13 上のアルミ青銅と、アルミ青銅上の H13） ／ https://claude.ai/code/session_01RjyqBTpGvmGbdYC1n6A56g
@@ -37,7 +38,6 @@
 - [ ] EPX_generator開発 ／ ミラー電極出力を追加済み（テスト通過、Drive 配置済み）。USB を挿して USB へ入れてもらい、牧野さんの実機で確認（チェックシート No.11） ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 
 ## 🟦 外部待ち
-- [ ] FLOP20260930 ／ キー登録済み。推論が429（混雑）のため、セッションが毎日自動で再試行中。結果を待つ ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 
 ## ✅ 完了
 - [x] キグチの試験結果におけるCu-10Al降伏応力 ／ Cu-10Al の硬さは HV0.5 で A条件 177HV・C条件 173HV と回答済み（HRB は換算の参考値、比較には HV0.5 を使う）。要対応なし ／ https://claude.ai/code/session_01CYJnVu3nutyZjEwgjtWqMW
