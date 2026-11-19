@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-19 11:59 UTC
+最終確認: 2026-11-19 12:59 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,7 +8,7 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
-- [ ] DED造形のスパッタ過多不具合 ／ 調査メモ research_lpc_iptc_retry_ltx_20261119.md（§3.5 造形肌の観察、§4 考察）を確認し、次の手を決める ／ https://claude.ai/code/session_01CYJnVrhM3Z3WA1AiuVJei2
+- [ ] DED造形のスパッタ過多不具合 ／ 提示された条件案（1.6mm: LPC 1000→550W、目標面積2500、IPTC (250,900,300) 毎層／薄壁は 3mm・1.6mm 案）と試し手順を見て、試すか決める（調査メモ §5.1/5.2 は未コミット） ／ https://claude.ai/code/session_01CYJnVrhM3Z3WA1AiuVJei2
 - [ ] 放電加工たわみ計算ツール ／ 深さ方向の削りすぎは電極の傾きでは説明できないと分かった（7枚目の「合わない」はそのまま）。pptx（1枚目修正済み）の表示を確認し、原因をどう追うか決める ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
 - [ ] 20261116 測定データ ／ 電極長手は139.6mmで摩耗なし。壁の段は電極形状ではなく加工時の動きか放電状態が原因と判断（docs/data_reference_20261116.md 7章）。この結論を確認し、次に動き・放電状態を調べるか決める ／ https://claude.ai/code/session_01CYJnVsVKGNyMEDywm8se3j
 - [ ] 実運用時のルールぎめ ／ 判定スクリプト src/edm_squeeze/screen.py が完成。DA4007 は仮定値の試算で NG（最大189N、たわみ196µm）。仮定値を実値に置き換えるか、ジャーナル用の確認事項4点に進むかを決める ／ https://claude.ai/code/session_01CYJnVsMuHRz5kc29K37fiX
