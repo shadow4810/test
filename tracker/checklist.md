@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-20 23:00 UTC
+最終確認: 2026-11-21 05:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -27,6 +27,7 @@
 - [ ] 作業実績記録 ／ 11/11〜11/17の実績5件を worklog（行16〜20）に追記し、progress.md とスキルマトリクスも更新済み。内容を確認し、次に何を進めるか決める ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
 
 ## 🟧 手作業
+- [ ] Perpdex残高付きウォレットポートフォリオ ／ Phase 1 完了（テスト34件通過）。Phase 2 に進むため Alchemy の API キーを用意して渡す ／ https://claude.ai/code/session_01CYJnVrqZfCJo69P5GkJ7CJ
 - [ ] FLOP20260930 ／ セッションが以前のメッセージで示したコマンドを実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 - [ ] 入力UIツール作成 ／ EPX属性入力ジャーナル epx_attribute_edit.vb は完成（テスト76件成功）。配布 zip は MyDrive/claudecode/out_epx_generator/epx_generator_01-08_20261118.zip。NX で確認シート12項目の動作確認をする ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
 - [ ] 開発ツール作成 ／ USB を挿し、NX で 07_試験/EPX_一括付与_NX確認チェックリスト.xlsx の 8 項目を確認（ED3R__001 のコピーを使い、AAA / BBB / CCC は先に消す） ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ

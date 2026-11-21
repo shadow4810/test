@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-20T23:00:06Z",
+  "last_checked": "2026-11-21T05:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -60,7 +60,7 @@
       "title": "🟥 M10実践形式まとめ",
       "base_title": "M10実践形式まとめ",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T07:22:57.665292Z"
+      "updated_at": "2026-11-21T04:04:56.774823Z"
     },
     "session_01CYJnVtyKXpUeF9giMeoQTm": {
       "title": "🟥 作業実績記録",
@@ -72,13 +72,13 @@
       "title": "🟥 DAM-M17 材料技術分析",
       "base_title": "DAM-M17 材料技術分析",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T07:26:19.145816Z"
+      "updated_at": "2026-11-21T04:04:52.366465Z"
     },
     "session_01CYJnVtzzF23mHpSAowznjm": {
       "title": "🟥 バイメタル",
       "base_title": "バイメタル",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-08T07:26:23.531769Z"
+      "updated_at": "2026-11-21T04:04:52.212376Z"
     },
     "session_01CYJnVudJnh8hmT4RChEtGa": {
       "title": "🟥 回転曲げ疲労試験片",
@@ -96,7 +96,7 @@
       "title": "🟧 EPX_generator開発",
       "base_title": "EPX_generator開発",
       "group": "🟧手作業",
-      "updated_at": "2026-11-17T16:00:27.088657Z"
+      "updated_at": "2026-11-21T04:04:57.981704Z"
     },
     "session_01CYJnVtWfewxTeYgV1FFRdR": {
       "title": "🟧 モアレ3D形状測定による欠陥観察",
@@ -120,7 +120,7 @@
       "title": "✅ キグチの試験結果におけるCu-10Al降伏応力",
       "base_title": "キグチの試験結果におけるCu-10Al降伏応力",
       "group": "✅完了",
-      "updated_at": "2026-11-10T10:18:27.133746Z"
+      "updated_at": "2026-11-21T04:04:55.253226Z"
     },
     "session_01CYJnVr5dxXHPjrhgdxLwNL": {
       "title": "🟥 放電加工たわみ計算ツール",
@@ -132,25 +132,25 @@
       "title": "🟥 不具合考察",
       "base_title": "不具合考察",
       "group": "🟥",
-      "updated_at": "2026-11-15T08:21:03.993887Z"
+      "updated_at": "2026-11-21T04:04:55.617927Z"
     },
     "session_01CYJnVsMuHRz5kc29K37fiX": {
       "title": "🟥 実運用時のルールぎめ",
       "base_title": "実運用時のルールぎめ",
       "group": "🟥",
-      "updated_at": "2026-11-15T09:56:55.016550Z"
+      "updated_at": "2026-11-21T04:04:55.599884Z"
     },
     "session_01CYJnVtRFE2RnHY7YmwuT2p": {
       "title": "🟥 Zジャンプの時のたわみについて理解を深める",
       "base_title": "Zジャンプの時のたわみについて理解を深める",
       "group": "🟥",
-      "updated_at": "2026-11-15T09:55:52.858266Z"
+      "updated_at": "2026-11-21T04:04:55.570578Z"
     },
     "session_01CYJnVsVKGNyMEDywm8se3j": {
       "title": "🟥 20261116 測定データ",
       "base_title": "20261116 測定データ",
       "group": "🟥判断待ち",
-      "updated_at": "2026-11-17T22:01:04.773233Z"
+      "updated_at": "2026-11-21T04:04:55.803370Z"
     },
     "session_01CYJnVsgu3QrfadqrYHpRgv": {
       "title": "🟧 入力UIツール作成",
@@ -163,6 +163,12 @@
       "base_title": "DED造形のスパッタ過多不具合",
       "group": "🟥判断待ち",
       "updated_at": "2026-11-19T13:29:22.797364Z"
+    },
+    "session_01CYJnVrqZfCJo69P5GkJ7CJ": {
+      "title": "🟧 Perpdex残高付きウォレットポートフォリオ",
+      "base_title": "Perpdex残高付きウォレットポートフォリオ",
+      "group": "🟧手作業",
+      "updated_at": "2026-11-21T04:42:38.980467Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
