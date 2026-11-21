@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-21T07:00:00Z",
+  "last_checked": "2026-11-21T08:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -168,7 +168,7 @@
       "title": "🟧 Perpdex残高付きウォレットポートフォリオ",
       "base_title": "Perpdex残高付きウォレットポートフォリオ",
       "group": "🟧手作業",
-      "updated_at": "2026-11-21T06:50:45.688171Z"
+      "updated_at": "2026-11-21T07:45:50.553448Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
