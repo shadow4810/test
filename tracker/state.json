@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-22T01:00:00Z",
+  "last_checked": "2026-11-22T02:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -169,6 +169,12 @@
       "base_title": "Perpdex残高付きウォレットポートフォリオ",
       "group": "🟧手作業",
       "updated_at": "2026-11-22T00:12:20.387142Z"
+    },
+    "session_01CYJnVt5xMzd8pvaqQEtia4": {
+      "title": "🟧 Copilot環境のLists",
+      "base_title": "Copilot環境のLists",
+      "group": "🟧",
+      "updated_at": "2026-11-22T01:59:01.060779Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
