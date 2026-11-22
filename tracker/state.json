@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-22T04:00:00Z",
+  "last_checked": "2026-11-22T05:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -174,7 +174,7 @@
       "title": "🟧 Copilot環境のLists",
       "base_title": "Copilot環境のLists",
       "group": "🟧手作業",
-      "updated_at": "2026-11-22T03:41:20.496975Z"
+      "updated_at": "2026-11-22T04:38:19.671517Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"

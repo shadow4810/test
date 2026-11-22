@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-22 04:00 UTC
+最終確認: 2026-11-22 05:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -27,7 +27,7 @@
 
 ## 🟧 手作業
 - [ ] 作業実績記録 ／ 学習者レポートのスライドが完成（チャットのPNGはプレビュー、本体はPPTX）。PPTXを確認して上長に送る ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
-- [ ] Copilot環境のLists ／ daily-reply-kit を作り直し、doc-review-kit も作成済み（テスト通過）。場面タグ「社内文書」を2つのリストに手で追加し、両キットを Copilot に入れて試す ／ https://claude.ai/code/session_01CYJnVt5xMzd8pvaqQEtia4
+- [ ] Copilot環境のLists ／ ID4・5 を統合登録、doc-review-kit の返答形式を4型に固定、feedback-logger を修正して ZIP を作り直した。Copilot で古いスキルを削除して新しい ZIP を入れ直し、場面タグ「社内文書」を2つのリストに追加して試す ／ https://claude.ai/code/session_01CYJnVt5xMzd8pvaqQEtia4
 - [ ] Perpdex残高付きウォレットポートフォリオ ／ `pf` コマンド（最新残高を取得してページを開く）と「最新に更新」ボタンを追加、テスト118件通過、未コミット。変更をコミットし、config/wallets.toml に Aave アカウントと EtherFi Cash Vault のアドレスを登録して `pf` で結果を確認する ／ https://claude.ai/code/session_01CYJnVrqZfCJo69P5GkJ7CJ
 - [ ] FLOP20260930 ／ セッションが以前のメッセージで示したコマンドを実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 - [ ] 入力UIツール作成 ／ EPX属性入力ジャーナル epx_attribute_edit.vb は完成（テスト76件成功）。配布 zip は MyDrive/claudecode/out_epx_generator/epx_generator_01-08_20261118.zip。NX で確認シート12項目の動作確認をする ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
