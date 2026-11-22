@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-22 09:00 UTC
+最終確認: 2026-11-22 10:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -10,7 +10,7 @@
 ## 🟥 判断待ち
 - [ ] EDU00002準備 ／ 抜粋版19hの計画案ができた。方針5点に答える：開始日と受講ペース（週4hで3か月前か）、M07の自立度目標（独力か講師同席か）、メーカ教育後にM08以降へ進むか、抜粋パスのGL承認が要るか、EDU00002のCAD/CAM・機械系の経歴 ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
 - [ ] M15教材作成 ／ spec・本文・確認テスト10問の v0.1 ができた（未コミット）。下書きをレビューし、未決事項3件を決める ／ https://claude.ai/code/session_01CYJnVt7JjKeDRY242ZM8Q7
-- [ ] M14 学習目標と確認テスト ／ 学習目標10件と本文15小節・書籍の節・確認テストQ1〜Q10の対応表ができた。対応表を確認し、§1.1に組み込むかどうか決める ／ https://claude.ai/code/session_01CYJnVurHQANEfMxrWC9AZ5
+- [ ] M14 学習目標と確認テスト ／ 提案1（演習②を②-1〜②-3の3回に分ける）と提案3（§4.3.1に用語の予告）を本文・specに反映してコミットし、PDFを送付済み。PDFを確認して内容を承認する ／ https://claude.ai/code/session_01CYJnVurHQANEfMxrWC9AZ5
 - [ ] DED造形のスパッタ過多不具合 ／ 提示された条件案（1.6mm: LPC 1000→550W、目標面積2500、IPTC (250,900,300) 毎層／薄壁は 3mm・1.6mm 案）と試し手順を見て、試すか決める（調査メモ §5.1/5.2 は未コミット） ／ https://claude.ai/code/session_01CYJnVrhM3Z3WA1AiuVJei2
 - [ ] 放電加工たわみ計算ツール ／ 深さ方向の削りすぎは電極の傾きでは説明できないと分かった（7枚目の「合わない」はそのまま）。pptx（1枚目修正済み）の表示を確認し、原因をどう追うか決める ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
 - [ ] 20261116 測定データ ／ 電極長手は139.6mmで摩耗なし。壁の段は電極形状ではなく加工時の動きか放電状態が原因と判断（docs/data_reference_20261116.md 7章）。この結論を確認し、次に動き・放電状態を調べるか決める ／ https://claude.ai/code/session_01CYJnVsVKGNyMEDywm8se3j
@@ -29,7 +29,7 @@
 
 ## 🟧 手作業
 - [ ] 作業実績記録 ／ 学習者レポートのスライドが完成（チャットのPNGはプレビュー、本体はPPTX）。PPTXを確認して上長に送る ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
-- [ ] Copilot環境のLists ／ doc-review-kit.zip を作り直し、SKILL.md §4 に ID 6・7・8 を反映。Copilot で古い doc-review-kit を削除して新しい ZIP を上げ、返答文を送ってから、このセッションに「改善ログを更新して」と伝える ／ https://claude.ai/code/session_01CYJnVt5xMzd8pvaqQEtia4
+- [ ] Copilot環境改善 ／ doc-review-kit.zip を作り直した（用語の指摘は Linter の結果だけ、MUST が0件なら「配布可（WANT n件）」と判定）。Copilot で改善ログを登録し、ZIP を差し替えて、もう一度レビューして確かめる ／ https://claude.ai/code/session_01CYJnVt5xMzd8pvaqQEtia4
 - [ ] Perpdex残高付きウォレットポートフォリオ ／ `pf` コマンド（最新残高を取得してページを開く）と「最新に更新」ボタンを追加、テスト118件通過、未コミット。変更をコミットし、config/wallets.toml に Aave アカウントと EtherFi Cash Vault のアドレスを登録して `pf` で結果を確認する ／ https://claude.ai/code/session_01CYJnVrqZfCJo69P5GkJ7CJ
 - [ ] FLOP20260930 ／ セッションが以前のメッセージで示したコマンドを実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 - [ ] 入力UIツール作成 ／ EPX属性入力ジャーナル epx_attribute_edit.vb は完成（テスト76件成功）。配布 zip は MyDrive/claudecode/out_epx_generator/epx_generator_01-08_20261118.zip。NX で確認シート12項目の動作確認をする ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
