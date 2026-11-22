@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-22T21:00:00Z",
+  "last_checked": "2026-11-22T22:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01VcRiswB5sYcoK6PQqF8c6K": {
@@ -102,7 +102,7 @@
       "title": "🟧 開発ツール作成",
       "base_title": "開発ツール作成",
       "group": "🟧手作業",
-      "updated_at": "2026-11-17T16:01:07.503076Z"
+      "updated_at": "2026-11-22T21:42:50.055511Z"
     },
     "session_01CYJnVu3nutyZjEwgjtWqMW": {
       "title": "✅ キグチの試験結果におけるCu-10Al降伏応力",
@@ -144,7 +144,7 @@
       "title": "🟧 入力UIツール作成",
       "base_title": "入力UIツール作成",
       "group": "🟧手作業",
-      "updated_at": "2026-11-17T22:24:47.071362Z"
+      "updated_at": "2026-11-22T21:42:43.738083Z"
     },
     "session_01CYJnVrhM3Z3WA1AiuVJei2": {
       "title": "🟥 DED造形のスパッタ過多不具合",
@@ -181,6 +181,12 @@
       "base_title": "EDU00002準備",
       "group": "🟥判断待ち",
       "updated_at": "2026-11-22T08:27:35.080938Z"
+    },
+    "session_01CYJnVtiw7DdKU1y9Fhiv4U": {
+      "title": "🟥 EPXeditor開発",
+      "base_title": "EPXeditor開発",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-11-22T21:43:57.760675Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
