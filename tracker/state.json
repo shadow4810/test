@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-22T03:00:00Z",
+  "last_checked": "2026-11-22T04:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -63,10 +63,10 @@
       "updated_at": "2026-11-21T04:04:56.774823Z"
     },
     "session_01CYJnVtyKXpUeF9giMeoQTm": {
-      "title": "🟥 作業実績記録",
+      "title": "🟧 作業実績記録",
       "base_title": "作業実績記録",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-11-17T10:31:31.226885Z"
+      "group": "🟧",
+      "updated_at": "2026-11-22T03:44:01.957926Z"
     },
     "session_01CYJnVqjRHudNee37DEh26Q": {
       "title": "🟥 DAM-M17 材料技術分析",
@@ -174,7 +174,7 @@
       "title": "🟧 Copilot環境のLists",
       "base_title": "Copilot環境のLists",
       "group": "🟧",
-      "updated_at": "2026-11-22T02:49:07.591723Z"
+      "updated_at": "2026-11-22T03:41:20.496975Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"

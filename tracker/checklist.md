@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-22 03:00 UTC
+最終確認: 2026-11-22 04:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -24,10 +24,10 @@
 - [ ] 回転曲げ疲労試験片 ／ 11/8 の 07:26 にも返答があったが、要約がない。前回は回転曲げ（I-6）での開始を推奨し、GLレビュー後に計画v3へ進む段階だった。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01CYJnVudJnh8hmT4RChEtGa
 - [ ] M10実践形式まとめ（旧 EDU00001 厚膜コーティングテスト） ／ M10 試行（11/4 CAM 約2h、講師立会い）は記録済み。追加の評価項目の提案に対し4点答える：①造形品は実使用品か、断面を採ってよいか ②DED_QMS 報告書の対象か ③ビッカース硬さ計はあるか ④仮のチェックリスト・予測表を今日作ってよいか ／ https://claude.ai/code/session_01CYJnVsNx3SMVoQsxYcdM6m
 - [ ] M08実践形式まとめ ／ 進める順番の案が出た：①日程ずれの記録 ②講義進行資料 script_m08 の作成（期限超過）③S2 の実施と記録 ④押印 PDF の SharePoint 格納確認。この順で着手してよいか指示する ／ https://claude.ai/code/session_01CYJnVqu5iYU5Hbdrw9RY64
-- [ ] 作業実績記録 ／ 11/11〜11/17の実績5件を worklog（行16〜20）に追記し、progress.md とスキルマトリクスも更新済み。内容を確認し、次に何を進めるか決める ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
 
 ## 🟧 手作業
-- [ ] Copilot環境のLists ／ 太字などの装飾文字を検出するチェックを追加し、dist/daily-reply-kit.zip を作り直した（テスト通過）。この zip を Copilot に入れ直して、もう一度テストする ／ https://claude.ai/code/session_01CYJnVt5xMzd8pvaqQEtia4
+- [ ] 作業実績記録 ／ 学習者レポートのスライドが完成（チャットのPNGはプレビュー、本体はPPTX）。PPTXを確認して上長に送る ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
+- [ ] Copilot環境のLists ／ daily-reply-kit を作り直し、doc-review-kit も作成済み（テスト通過）。場面タグ「社内文書」を2つのリストに手で追加し、両キットを Copilot に入れて試す ／ https://claude.ai/code/session_01CYJnVt5xMzd8pvaqQEtia4
 - [ ] Perpdex残高付きウォレットポートフォリオ ／ `pf` コマンド（最新残高を取得してページを開く）と「最新に更新」ボタンを追加、テスト118件通過、未コミット。変更をコミットし、config/wallets.toml に Aave アカウントと EtherFi Cash Vault のアドレスを登録して `pf` で結果を確認する ／ https://claude.ai/code/session_01CYJnVrqZfCJo69P5GkJ7CJ
 - [ ] FLOP20260930 ／ セッションが以前のメッセージで示したコマンドを実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 - [ ] 入力UIツール作成 ／ EPX属性入力ジャーナル epx_attribute_edit.vb は完成（テスト76件成功）。配布 zip は MyDrive/claudecode/out_epx_generator/epx_generator_01-08_20261118.zip。NX で確認シート12項目の動作確認をする ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
