@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-22 10:00 UTC
+最終確認: 2026-11-22 20:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -44,4 +44,3 @@
 
 ## ✅ 完了
 - [x] キグチの試験結果におけるCu-10Al降伏応力 ／ Cu-10Al の硬さは HV0.5 で A条件 177HV・C条件 173HV と回答済み（HRB は換算の参考値、比較には HV0.5 を使う）。要対応なし ／ https://claude.ai/code/session_01CYJnVu3nutyZjEwgjtWqMW
-- [x] 各種ワークブック作成 ／ 週次ふりかえり用のテンプレートを作り直し、Drive と USB に同期済み ／ https://claude.ai/code/session_01En3t9RkumGLdNsLKLXSc1S
