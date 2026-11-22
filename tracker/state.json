@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-22T08:00:00Z",
+  "last_checked": "2026-11-22T09:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01En3t9RkumGLdNsLKLXSc1S": {
@@ -49,12 +49,6 @@
       "base_title": "M09実践形式まとめ",
       "group": "🟧手作業",
       "updated_at": "2026-11-08T07:23:57.884954Z"
-    },
-    "session_01CYJnVrE9RuREyUtL28bu8V": {
-      "title": "🟥 M14の教材作成",
-      "base_title": "M14の教材作成",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-11-09T21:07:00.464422Z"
     },
     "session_01CYJnVsNx3SMVoQsxYcdM6m": {
       "title": "🟥 M10実践形式まとめ",
@@ -174,7 +168,25 @@
       "title": "🟧 Copilot環境のLists",
       "base_title": "Copilot環境のLists",
       "group": "🟧手作業",
-      "updated_at": "2026-11-22T07:59:01.566840Z"
+      "updated_at": "2026-11-22T08:44:59.364272Z"
+    },
+    "session_01CYJnVurHQANEfMxrWC9AZ5": {
+      "title": "🟥 M14 学習目標と確認テスト",
+      "base_title": "M14 学習目標と確認テスト",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-11-22T08:51:08.159894Z"
+    },
+    "session_01CYJnVt7JjKeDRY242ZM8Q7": {
+      "title": "🟥 M15教材作成",
+      "base_title": "M15教材作成",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-11-22T08:30:13.536054Z"
+    },
+    "session_01CYJnVuo7eUV5paETemqMBq": {
+      "title": "🟥 EDU00002準備",
+      "base_title": "EDU00002準備",
+      "group": "🟥判断待ち",
+      "updated_at": "2026-11-22T08:27:35.080938Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"

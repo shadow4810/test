@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-22 08:00 UTC
+最終確認: 2026-11-22 09:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,6 +8,9 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
+- [ ] EDU00002準備 ／ 抜粋版19hの計画案ができた。方針5点に答える：開始日と受講ペース（週4hで3か月前か）、M07の自立度目標（独力か講師同席か）、メーカ教育後にM08以降へ進むか、抜粋パスのGL承認が要るか、EDU00002のCAD/CAM・機械系の経歴 ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
+- [ ] M15教材作成 ／ spec・本文・確認テスト10問の v0.1 ができた（未コミット）。下書きをレビューし、未決事項3件を決める ／ https://claude.ai/code/session_01CYJnVt7JjKeDRY242ZM8Q7
+- [ ] M14 学習目標と確認テスト ／ 学習目標10件と本文15小節・書籍の節・確認テストQ1〜Q10の対応表ができた。対応表を確認し、§1.1に組み込むかどうか決める ／ https://claude.ai/code/session_01CYJnVurHQANEfMxrWC9AZ5
 - [ ] DED造形のスパッタ過多不具合 ／ 提示された条件案（1.6mm: LPC 1000→550W、目標面積2500、IPTC (250,900,300) 毎層／薄壁は 3mm・1.6mm 案）と試し手順を見て、試すか決める（調査メモ §5.1/5.2 は未コミット） ／ https://claude.ai/code/session_01CYJnVrhM3Z3WA1AiuVJei2
 - [ ] 放電加工たわみ計算ツール ／ 深さ方向の削りすぎは電極の傾きでは説明できないと分かった（7枚目の「合わない」はそのまま）。pptx（1枚目修正済み）の表示を確認し、原因をどう追うか決める ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
 - [ ] 20261116 測定データ ／ 電極長手は139.6mmで摩耗なし。壁の段は電極形状ではなく加工時の動きか放電状態が原因と判断（docs/data_reference_20261116.md 7章）。この結論を確認し、次に動き・放電状態を調べるか決める ／ https://claude.ai/code/session_01CYJnVsVKGNyMEDywm8se3j
@@ -18,7 +21,6 @@
 - [ ] M09教材作成 ／ 草案 v0.1 の PDF（10/7 送付）を確認し、4点について返す：①S2 の時間配分 ②NC の一時停止の手順 ③§4.2.3 の言い回し ④そのほか気になる点 ／ https://claude.ai/code/session_013hd3EPjADEmujSjZePLGam
 - [ ] M08教材作成 ／ M08 の GL 承認を記録済み（承認済みは計12モジュール）。残りの作業（S2 の実施、講義スライド、形状レビュー）をどう進めるかと、M09 に着手してよいかを指示する ／ https://claude.ai/code/session_01VcRiswB5sYcoK6PQqF8c6K
 - [ ] M13講師メモ ／ EDU00001 M13第1期修了を記録済み（実技9/9、Forms 90/100）。変更はまだコミットされていないので、コミットするよう指示する ／ https://claude.ai/code/session_01G7qbF8WDGPVjYBcqwzYuqW
-- [ ] M14の教材作成 ／ 送付済みの本文PDF（m14_postprocess_qa.pdf）と確認テストPDF（quiz_m14_postprocess_qa.pdf）をレビューし、Q6（実施日）・Q7（確認テストの実施形式）・R9（断面観察記録を DED_QMS に申し送るか）を決めて返す。M15 は書籍[13]軸か社内事例かも決める ／ https://claude.ai/code/session_01CYJnVrE9RuREyUtL28bu8V
 - [ ] バイメタル ／ 未コミットだった3件をコミットして保存中。依頼書は依頼先が決まるのを待っている：依頼先は材技かキグチかを答える ／ https://claude.ai/code/session_01CYJnVtzzF23mHpSAowznjm
 - [ ] DAM-M17 材料技術分析 ／ 材技への依頼文ができた（A案を推奨）。今日送ってよいか決める。送る前に、相手が知らない前提が書かれていないか最終確認する ／ https://claude.ai/code/session_01CYJnVqjRHudNee37DEh26Q
 - [ ] 回転曲げ疲労試験片 ／ 11/8 の 07:26 にも返答があったが、要約がない。前回は回転曲げ（I-6）での開始を推奨し、GLレビュー後に計画v3へ進む段階だった。開いて内容を確認し、次の指示を出す ／ https://claude.ai/code/session_01CYJnVudJnh8hmT4RChEtGa
@@ -27,7 +29,7 @@
 
 ## 🟧 手作業
 - [ ] 作業実績記録 ／ 学習者レポートのスライドが完成（チャットのPNGはプレビュー、本体はPPTX）。PPTXを確認して上長に送る ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
-- [ ] Copilot環境のLists ／ 試験用の依頼書2本（作成中の依頼書、DAM-M17分析依頼書）を選定、どちらもチェックでエラー0件。Copilot で古いスキルを削除して新しい ZIP を入れ直し、場面タグ「社内文書」を2つのリストに追加してから、この2本を送って結果を確認する ／ https://claude.ai/code/session_01CYJnVt5xMzd8pvaqQEtia4
+- [ ] Copilot環境のLists ／ doc-review-kit.zip を作り直し、SKILL.md §4 に ID 6・7・8 を反映。Copilot で古い doc-review-kit を削除して新しい ZIP を上げ、返答文を送ってから、このセッションに「改善ログを更新して」と伝える ／ https://claude.ai/code/session_01CYJnVt5xMzd8pvaqQEtia4
 - [ ] Perpdex残高付きウォレットポートフォリオ ／ `pf` コマンド（最新残高を取得してページを開く）と「最新に更新」ボタンを追加、テスト118件通過、未コミット。変更をコミットし、config/wallets.toml に Aave アカウントと EtherFi Cash Vault のアドレスを登録して `pf` で結果を確認する ／ https://claude.ai/code/session_01CYJnVrqZfCJo69P5GkJ7CJ
 - [ ] FLOP20260930 ／ セッションが以前のメッセージで示したコマンドを実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 - [ ] 入力UIツール作成 ／ EPX属性入力ジャーナル epx_attribute_edit.vb は完成（テスト76件成功）。配布 zip は MyDrive/claudecode/out_epx_generator/epx_generator_01-08_20261118.zip。NX で確認シート12項目の動作確認をする ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
