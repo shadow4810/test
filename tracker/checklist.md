@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-23 02:00 UTC
+最終確認: 2026-11-23 04:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,7 +8,6 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
-- [ ] 開発ツール作成 ／ 3点を回答する：①電極コメントのサイズ出力を案 A・B・C のどれにするか（B に C を予備で足す形も可）②p15 を X、p17 を Y でよいか ③小数は1桁（X50.0）か3桁（X50.000）か ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 - [ ] EPXeditor開発 ／ EPXGenerator 仕様の要点3件（電極サイズ・ワーク寸法・加工前形状の書き場所）を整理済み、ファイルは未変更。次に何を作るか指示する ／ https://claude.ai/code/session_01CYJnVtiw7DdKU1y9Fhiv4U
 - [ ] EDU00002準備 ／ 抜粋版19hの計画案ができた。方針5点に答える：開始日と受講ペース（週4hで3か月前か）、M07の自立度目標（独力か講師同席か）、メーカ教育後にM08以降へ進むか、抜粋パスのGL承認が要るか、EDU00002のCAD/CAM・機械系の経歴 ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
 - [ ] M15教材作成 ／ spec・本文・確認テスト10問の v0.1 ができた（未コミット）。下書きをレビューし、未決事項3件を決める ／ https://claude.ai/code/session_01CYJnVt7JjKeDRY242ZM8Q7
@@ -30,16 +29,17 @@
 - [ ] M08実践形式まとめ ／ 進める順番の案が出た：①日程ずれの記録 ②講義進行資料 script_m08 の作成（期限超過）③S2 の実施と記録 ④押印 PDF の SharePoint 格納確認。この順で着手してよいか指示する ／ https://claude.ai/code/session_01CYJnVqu5iYU5Hbdrw9RY64
 
 ## 🟧 手作業
+- [ ] 開発ツール作成 ／ 電極属性を body から読む形に2種類の JSON を編集済み（テスト100件通過）。USB を挿して反映してもらい、NX で 07_試験 のチェックリストを確認する ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 - [ ] 作業実績記録 ／ 学習者レポートのスライドが完成（チャットのPNGはプレビュー、本体はPPTX）。PPTXを確認して上長に送る ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
 - [ ] Copilot環境改善 ／ doc-review-kit.zip を作り直した（用語の指摘は Linter の結果だけ、MUST が0件なら「配布可（WANT n件）」と判定）。Copilot で改善ログを登録し、ZIP を差し替えて、もう一度レビューして確かめる ／ https://claude.ai/code/session_01CYJnVt5xMzd8pvaqQEtia4
 - [ ] Perpdex残高付きウォレットポートフォリオ ／ `pf` コマンド（最新残高を取得してページを開く）と「最新に更新」ボタンを追加、テスト118件通過、未コミット。変更をコミットし、config/wallets.toml に Aave アカウントと EtherFi Cash Vault のアドレスを登録して `pf` で結果を確認する ／ https://claude.ai/code/session_01CYJnVrqZfCJo69P5GkJ7CJ
 - [ ] FLOP20260930 ／ セッションが以前のメッセージで示したコマンドを実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
-- [ ] 入力UIツール作成 ／ 1151行目の Point 指定を直し、Drive と zip（epx_generator_01-08_20261123.zip）を更新済み。USB に入れて NX で動作を確認する ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
+- [ ] 入力UIツール作成 ／ 電極の属性を body から読む形に変更し、入力ツール・一括付与・Python のテストは全件成功（Drive 反映済み）。設定ツールは未テストで、確認シートに COMMENT 項目も未追加。USB に入れて NX で動作を確認する ／ https://claude.ai/code/session_01CYJnVsgu3QrfadqrYHpRgv
 - [ ] SFWローラの修理・高寿命化 ／ 肉盛り層の詳細を見るため、NiBas 776 W40 の PDF を themes/machine_materials/references/ に置く。あわせて、試験計画スライド v6 の確認と、Höganäs 粉末の入手先のヘガネスジャパン（048-583-5561 か iProS のフォーム）への問い合わせ ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
 - [ ] 電極prt一括エクスポート開発 ／ 多層対応の electrode_export.py は USB で確認済み。NX 実機で多層アセンブリ（レイヤー200＋201）の試験を行い、結果を zip にしてセッションに渡す ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
 - [ ] モアレ3D形状測定による欠陥観察 ／ 次の3つを行う：①依頼書の空欄（両品の材料・造形条件・切削取り代、モアレ装置名）を埋める ②材技に3点（装置の原理と分解能、凹みのしきい値、10〜20µm の割れの見え方）を確認する ③WinROOF 担当に、040235 と同じしきい値で8枚を処理できるか問い合わせる ／ https://claude.ai/code/session_01CYJnVtWfewxTeYgV1FFRdR
 - [ ] M09実践形式まとめ ／ 11/9 の割り付け案と再造形での補完計画をチェックリスト §6 に追加し、progress §7 に順序変更を記録済み。11/9 に PT などを実施し、終わったら結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
-- [ ] EPX_generator開発 ／ ミラー電極出力を追加済み（テスト通過、Drive 配置済み）。USB を挿して USB へ入れてもらい、牧野さんの実機で確認（チェックシート No.11） ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
+- [ ] EPX_generator開発 ／ 電極属性を body から読む対応とテスト（生成100件、VB.NET 計197件）は完了。USB を挿して USB へ入れてもらい、牧野さんの実機で確認する ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 
 ## 🟦 外部待ち
 
