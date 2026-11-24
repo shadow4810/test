@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-24T04:00:00Z",
+  "last_checked": "2026-11-24T05:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01VcRiswB5sYcoK6PQqF8c6K": {
@@ -81,10 +81,10 @@
       "updated_at": "2026-11-20T22:47:29.172265Z"
     },
     "session_01CYJnVtHLULuVYYbT3HRPyx": {
-      "title": "🟥 EPX_generator開発",
+      "title": "🟧 EPX_generator開発",
       "base_title": "EPX_generator開発",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-11-24T03:59:19.012055Z"
+      "group": "🟧手作業",
+      "updated_at": "2026-11-24T04:06:04.674101Z"
     },
     "session_01CYJnVtWfewxTeYgV1FFRdR": {
       "title": "🟧 モアレ3D形状測定による欠陥観察",
@@ -102,7 +102,7 @@
       "title": "🟧 開発ツール作成",
       "base_title": "開発ツール作成",
       "group": "🟧手作業",
-      "updated_at": "2026-11-23T03:25:19.216895Z"
+      "updated_at": "2026-11-24T04:03:02.423866Z"
     },
     "session_01CYJnVu3nutyZjEwgjtWqMW": {
       "title": "✅ キグチの試験結果におけるCu-10Al降伏応力",
@@ -144,7 +144,7 @@
       "title": "🟧 入力UIツール作成",
       "base_title": "入力UIツール作成",
       "group": "🟧手作業",
-      "updated_at": "2026-11-23T03:22:36.830225Z"
+      "updated_at": "2026-11-24T04:02:56.024360Z"
     },
     "session_01CYJnVrhM3Z3WA1AiuVJei2": {
       "title": "🟥 DED造形のスパッタ過多不具合",
