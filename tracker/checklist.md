@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-24 05:00 UTC
+最終確認: 2026-11-24 10:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -28,7 +28,7 @@
 - [ ] M08実践形式まとめ ／ 進める順番の案が出た：①日程ずれの記録 ②講義進行資料 script_m08 の作成（期限超過）③S2 の実施と記録 ④押印 PDF の SharePoint 格納確認。この順で着手してよいか指示する ／ https://claude.ai/code/session_01CYJnVqu5iYU5Hbdrw9RY64
 
 ## 🟧 手作業
-- [ ] EPX_generator開発 ／ EPX 出力を電極名順に並べ替える修正は完了（テスト104件通過）。USB へ入れて、NX と牧野さんの実機で確認する（M-17） ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
+- [ ] EPX_generator開発 ／ 電極名順の修正で変わった9ファイルを zip で受け取り済み。ドライブへ反映し、NX では epx_generator.py だけ差し替えて、牧野さんの実機で確認する（M-17） ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 - [ ] EPXeditor開発 ／ v3.7 の ZIP を受け取り済み（深さ違いの電極は1つのポットを共有する形に変更）。社内 PC の Chrome と Hyper i で動作を確認する ／ https://claude.ai/code/session_01CYJnVtiw7DdKU1y9Fhiv4U
 - [ ] 開発ツール作成 ／ edm_detail_info を電極名順に並べ替え、SPEC 4.7・TESTPLAN 7.6 に改訂済み（テスト104件通過）。USB を挿して反映してもらい、NX で 07_試験 のチェックリストを確認する ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
 - [ ] 作業実績記録 ／ 学習者レポートのスライドが完成（チャットのPNGはプレビュー、本体はPPTX）。PPTXを確認して上長に送る ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
