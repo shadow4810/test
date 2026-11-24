@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-24 01:00 UTC
+最終確認: 2026-11-24 04:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,6 +8,7 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
+- [ ] EPX_generator開発 ／ 電極の並び順を生成ツール側で並べ替える案を採用するか決める（GetChildren() の順はナビゲータ順と別）。あわせて USB へ入れて牧野さんの実機で確認する ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 - [ ] EDU00002準備 ／ 抜粋版19hの計画案ができた。方針5点に答える：開始日と受講ペース（週4hで3か月前か）、M07の自立度目標（独力か講師同席か）、メーカ教育後にM08以降へ進むか、抜粋パスのGL承認が要るか、EDU00002のCAD/CAM・機械系の経歴 ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
 - [ ] M15教材作成 ／ spec・本文・確認テスト10問の v0.1 ができた（未コミット）。下書きをレビューし、未決事項3件を決める ／ https://claude.ai/code/session_01CYJnVt7JjKeDRY242ZM8Q7
 - [ ] M14 学習目標と確認テスト ／ 提案1（演習②を②-1〜②-3の3回に分ける）と提案3（§4.3.1に用語の予告）を本文・specに反映してコミットし、PDFを送付済み。PDFを確認して内容を承認する ／ https://claude.ai/code/session_01CYJnVurHQANEfMxrWC9AZ5
@@ -39,7 +40,6 @@
 - [ ] 電極prt一括エクスポート開発 ／ 多層対応の electrode_export.py は USB で確認済み。NX 実機で多層アセンブリ（レイヤー200＋201）の試験を行い、結果を zip にしてセッションに渡す ／ https://claude.ai/code/session_01PN8DUjPuBCKfHo3QgLGcRA
 - [ ] モアレ3D形状測定による欠陥観察 ／ 次の3つを行う：①依頼書の空欄（両品の材料・造形条件・切削取り代、モアレ装置名）を埋める ②材技に3点（装置の原理と分解能、凹みのしきい値、10〜20µm の割れの見え方）を確認する ③WinROOF 担当に、040235 と同じしきい値で8枚を処理できるか問い合わせる ／ https://claude.ai/code/session_01CYJnVtWfewxTeYgV1FFRdR
 - [ ] M09実践形式まとめ ／ 11/9 の割り付け案と再造形での補完計画をチェックリスト §6 に追加し、progress §7 に順序変更を記録済み。11/9 に PT などを実施し、終わったら結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
-- [ ] EPX_generator開発 ／ 電極属性を body から読む対応とテスト（生成100件、VB.NET 計197件）は完了。USB を挿して USB へ入れてもらい、牧野さんの実機で確認する ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 
 ## 🟦 外部待ち
 
