@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-23T13:00:00Z",
+  "last_checked": "2026-11-24T00:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01VcRiswB5sYcoK6PQqF8c6K": {
@@ -183,10 +183,10 @@
       "updated_at": "2026-11-22T08:27:35.080938Z"
     },
     "session_01CYJnVtiw7DdKU1y9Fhiv4U": {
-      "title": "🟥 EPXeditor開発",
+      "title": "🟧 EPXeditor開発",
       "base_title": "EPXeditor開発",
-      "group": "🟥判断待ち",
-      "updated_at": "2026-11-23T12:00:42.540393Z"
+      "group": "🟧手作業",
+      "updated_at": "2026-11-23T23:21:35.044630Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
