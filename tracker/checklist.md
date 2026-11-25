@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-25 19:00 UTC
+最終確認: 2026-11-25 23:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -43,7 +43,7 @@
 - [ ] M09実践形式まとめ ／ 11/9 の割り付け案と再造形での補完計画をチェックリスト §6 に追加し、progress §7 に順序変更を記録済み。11/9 に PT などを実施し、終わったら結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟦 外部待ち
-- [ ] テストネット ／ faucet から 10 FLOP を受け取り済み（残高 10.0）。テストネット用の推論ゲートウェイがまだ動いていないので使えない。ゲートウェイの稼働を待つ（次の受け取りは24時間後） ／ https://claude.ai/code/session_01CYJnVqTjUQjL5MMntpcdRF
+- [ ] テストネット ／ ゲートウェイ・推論・得点の受付がどれもまだ始まっていない。10 FLOP は受け取り済みなので次の受け取りは見送り、記録は tasks/todo.md。運営側の開始を待つ ／ https://claude.ai/code/session_01CYJnVqTjUQjL5MMntpcdRF
 
 ## ✅ 完了
 - [x] キグチの試験結果におけるCu-10Al降伏応力 ／ Cu-10Al の硬さは HV0.5 で A条件 177HV・C条件 173HV と回答済み（HRB は換算の参考値、比較には HV0.5 を使う）。要対応なし ／ https://claude.ai/code/session_01CYJnVu3nutyZjEwgjtWqMW
