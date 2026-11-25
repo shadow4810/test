@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-25 00:00 UTC
+最終確認: 2026-11-25 13:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,6 +8,7 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
+- [ ] EDU00002実施記録 ／ 新しく作ったばかりでまだやり取りなし。記録する受講者の情報（氏名・社員番号・実施日・モジュール・評価結果など）を伝える ／ https://claude.ai/code/session_01CYJnVr7BDv593UeaZZsLpz
 - [ ] EDU00002準備 ／ M00〜M05 の抜粋時間割を1ファイルで受け取った（リポジトリには未保存）。内容を確認し、旧一体版 script_short_course_m00_m07.md をどうするか決める（M06〜M07 は未着手） ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
 - [ ] M15教材作成 ／ spec・本文・確認テスト10問の v0.1 ができた（未コミット）。下書きをレビューし、未決事項3件を決める ／ https://claude.ai/code/session_01CYJnVt7JjKeDRY242ZM8Q7
 - [ ] M14 学習目標と確認テスト ／ 提案1（演習②を②-1〜②-3の3回に分ける）と提案3（§4.3.1に用語の予告）を本文・specに反映してコミットし、PDFを送付済み。PDFを確認して内容を承認する ／ https://claude.ai/code/session_01CYJnVurHQANEfMxrWC9AZ5
@@ -28,10 +29,10 @@
 - [ ] M08実践形式まとめ ／ 進める順番の案が出た：①日程ずれの記録 ②講義進行資料 script_m08 の作成（期限超過）③S2 の実施と記録 ④押印 PDF の SharePoint 格納確認。この順で着手してよいか指示する ／ https://claude.ai/code/session_01CYJnVqu5iYU5Hbdrw9RY64
 
 ## 🟧 手作業
+- [ ] EDU00001実施記録 ／ 11/25 の M09 再造形を実施ログ・チェックリスト・進捗に記録済み。#7 の PT は未実施なので日程を決めて実施し、SharePoint への反映も行う ／ https://claude.ai/code/session_01CYJnVuW4E6snDUHYaqfEMo
 - [ ] EPX_generator開発 ／ 電極名順の修正で変わった9ファイルを、半角英数字名の zip で受け取り済み（開けることは確認済み）。ドライブへ反映し、NX では epx_generator.py だけ差し替えて、牧野さんの実機で確認する（M-17） ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 - [ ] EPXeditor開発 ／ v3.7 の ZIP を受け取り済み（深さ違いの電極は1つのポットを共有する形に変更）。社内 PC の Chrome と Hyper i で動作を確認する ／ https://claude.ai/code/session_01CYJnVtiw7DdKU1y9Fhiv4U
 - [ ] 開発ツール作成 ／ edm_detail_info を電極名順に並べ替え、SPEC 4.7・TESTPLAN 7.6 に改訂済み（テスト104件通過）。USB を挿して反映してもらい、NX で 07_試験 のチェックリストを確認する ／ https://claude.ai/code/session_01CYJnVuCHejbEX7423usvtQ
-- [ ] 作業実績記録 ／ 学習者レポートのスライドが完成（チャットのPNGはプレビュー、本体はPPTX）。PPTXを確認して上長に送る ／ https://claude.ai/code/session_01CYJnVtyKXpUeF9giMeoQTm
 - [ ] Copilot環境改善 ／ doc-review-kit.zip を作り直した（用語の指摘は Linter の結果だけ、MUST が0件なら「配布可（WANT n件）」と判定）。Copilot で改善ログを登録し、ZIP を差し替えて、もう一度レビューして確かめる ／ https://claude.ai/code/session_01CYJnVt5xMzd8pvaqQEtia4
 - [ ] Perpdex残高付きウォレットポートフォリオ ／ `pf` コマンド（最新残高を取得してページを開く）と「最新に更新」ボタンを追加、テスト118件通過、未コミット。変更をコミットし、config/wallets.toml に Aave アカウントと EtherFi Cash Vault のアドレスを登録して `pf` で結果を確認する ／ https://claude.ai/code/session_01CYJnVrqZfCJo69P5GkJ7CJ
 - [ ] FLOP20260930 ／ セッションが以前のメッセージで示したコマンドを実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
@@ -42,6 +43,7 @@
 - [ ] M09実践形式まとめ ／ 11/9 の割り付け案と再造形での補完計画をチェックリスト §6 に追加し、progress §7 に順序変更を記録済み。11/9 に PT などを実施し、終わったら結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟦 外部待ち
+- [ ] テストネット ／ flop-watch の公式チェックを再予約済み。初回 11/26 1:46 の結果を待つ ／ https://claude.ai/code/session_01CYJnVqTjUQjL5MMntpcdRF
 
 ## ✅ 完了
 - [x] キグチの試験結果におけるCu-10Al降伏応力 ／ Cu-10Al の硬さは HV0.5 で A条件 177HV・C条件 173HV と回答済み（HRB は換算の参考値、比較には HV0.5 を使う）。要対応なし ／ https://claude.ai/code/session_01CYJnVu3nutyZjEwgjtWqMW
