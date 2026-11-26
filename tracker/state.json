@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-25T23:00:00Z",
+  "last_checked": "2026-11-26T05:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01VcRiswB5sYcoK6PQqF8c6K": {
@@ -198,7 +198,7 @@
       "title": "🟦 テストネット",
       "base_title": "テストネット",
       "group": "🟦外部待ち",
-      "updated_at": "2026-11-25T22:46:50.097853Z"
+      "updated_at": "2026-11-26T04:46:54.610059Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
