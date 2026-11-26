@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-26 21:00 UTC
+最終確認: 2026-11-26 22:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -9,7 +9,7 @@
 
 ## 🟥 判断待ち
 - [ ] テストネット ／ 公式CLIに flop_account.json の鍵を渡してよいか答える（不安なら --new-wallet で新しいテスト用ウォレットを使う） ／ https://claude.ai/code/session_01CYJnVqTjUQjL5MMntpcdRF
-- [ ] エージェント構築 ／ Copilot スキル候補7件の提案が届いている（推奨は epx-check・machining-calc-kit・oss-license-check、先に doc-review-kit の未完了2件を終わらせる案）。どれから作るか決めて伝える ／ https://claude.ai/code/session_01CYJnVqtPHXPLvXRhc1xXrc
+- [ ] エージェント構築 ／ doe-kit の仕様書と計画ができた。仕様 §3.1（v2 へ先送りする範囲）を確認し、Copilot 側で Python が動くか確かめて返信する ／ https://claude.ai/code/session_01CYJnVqtPHXPLvXRhc1xXrc
 - [ ] EDU00002実施記録 ／ m03_equipment.pdf（15ページ）が届いている。p.3 と p.14 を印刷する。進行ガイド v0.3 は未コミットのまま。内容を確認してコミットしてよいか指示する ／ https://claude.ai/code/session_01CYJnVr7BDv593UeaZZsLpz
 - [ ] EDU00002準備 ／ M00〜M05 の抜粋時間割を1ファイルで受け取った（リポジトリには未保存）。内容を確認し、旧一体版 script_short_course_m00_m07.md をどうするか決める（M06〜M07 は未着手） ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
 - [ ] M15教材作成 ／ spec・本文・確認テスト10問の v0.1 ができた（未コミット）。下書きをレビューし、未決事項3件を決める ／ https://claude.ai/code/session_01CYJnVt7JjKeDRY242ZM8Q7
