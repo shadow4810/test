@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-26 12:00 UTC
+最終確認: 2026-11-26 13:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,7 +8,7 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
-- [ ] EDU00002実施記録 ／ 教材PDFの使用ページを時間帯別に整理済み（印刷は p.3 と p.14 の2枚）。進行ガイド v0.3 は未コミットのまま。内容を確認してコミットしてよいか指示する ／ https://claude.ai/code/session_01CYJnVr7BDv593UeaZZsLpz
+- [ ] EDU00002実施記録 ／ m03_equipment.pdf（15ページ）が届いている。p.3 と p.14 を印刷する。進行ガイド v0.3 は未コミットのまま。内容を確認してコミットしてよいか指示する ／ https://claude.ai/code/session_01CYJnVr7BDv593UeaZZsLpz
 - [ ] EDU00002準備 ／ M00〜M05 の抜粋時間割を1ファイルで受け取った（リポジトリには未保存）。内容を確認し、旧一体版 script_short_course_m00_m07.md をどうするか決める（M06〜M07 は未着手） ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
 - [ ] M15教材作成 ／ spec・本文・確認テスト10問の v0.1 ができた（未コミット）。下書きをレビューし、未決事項3件を決める ／ https://claude.ai/code/session_01CYJnVt7JjKeDRY242ZM8Q7
 - [ ] M14 学習目標と確認テスト ／ 提案1（演習②を②-1〜②-3の3回に分ける）と提案3（§4.3.1に用語の予告）を本文・specに反映してコミットし、PDFを送付済み。PDFを確認して内容を承認する ／ https://claude.ai/code/session_01CYJnVurHQANEfMxrWC9AZ5
