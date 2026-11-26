@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-26 16:00 UTC
+最終確認: 2026-11-26 17:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,6 +8,7 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
+- [ ] テストネット ／ 公式CLIに flop_account.json の鍵を渡してよいか答える（不安なら --new-wallet で新しいテスト用ウォレットを使う） ／ https://claude.ai/code/session_01CYJnVqTjUQjL5MMntpcdRF
 - [ ] エージェント構築 ／ Copilot スキル候補7件の提案が届いている（推奨は epx-check・machining-calc-kit・oss-license-check、先に doc-review-kit の未完了2件を終わらせる案）。どれから作るか決めて伝える ／ https://claude.ai/code/session_01CYJnVqtPHXPLvXRhc1xXrc
 - [ ] EDU00002実施記録 ／ m03_equipment.pdf（15ページ）が届いている。p.3 と p.14 を印刷する。進行ガイド v0.3 は未コミットのまま。内容を確認してコミットしてよいか指示する ／ https://claude.ai/code/session_01CYJnVr7BDv593UeaZZsLpz
 - [ ] EDU00002準備 ／ M00〜M05 の抜粋時間割を1ファイルで受け取った（リポジトリには未保存）。内容を確認し、旧一体版 script_short_course_m00_m07.md をどうするか決める（M06〜M07 は未着手） ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
@@ -44,7 +45,6 @@
 - [ ] M09実践形式まとめ ／ 11/9 の割り付け案と再造形での補完計画をチェックリスト §6 に追加し、progress §7 に順序変更を記録済み。11/9 に PT などを実施し、終わったら結果をセッションに伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟦 外部待ち
-- [ ] テストネット ／ テストネットは変化なし。セッション側の毎時チェックは停止済み。運営側から推論手段や得点開始の告知が出たら、セッションに再開を指示する ／ https://claude.ai/code/session_01CYJnVqTjUQjL5MMntpcdRF
 
 ## ✅ 完了
 - [x] キグチの試験結果におけるCu-10Al降伏応力 ／ Cu-10Al の硬さは HV0.5 で A条件 177HV・C条件 173HV と回答済み（HRB は換算の参考値、比較には HV0.5 を使う）。要対応なし ／ https://claude.ai/code/session_01CYJnVu3nutyZjEwgjtWqMW
