@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-27 15:00 UTC
+最終確認: 2026-11-27 16:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,8 +8,7 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
-- [ ] CAMエージェント構築 ／ 開始直後に操作待ちで止まっている。セッションを開いて許可や最初の指示に答える ／ https://claude.ai/code/session_01CYJnVsdGWfGA8t1HzBdC6Z
-- [ ] エージェント構築 ／ ベイズ最適化エージェントの設計案（doe-kit と同じ方式）に対し、用途・1回の提案数・目的の数を答える。あわせて Copilot の ZIP を 11/22 18:13 版に差し替え、docx 報告書を Word で確認、doe-kit 入れ替え、Lists 追加、Copilot 登録、試験1・2 ／ https://claude.ai/code/session_01CYJnVqtPHXPLvXRhc1xXrc
+- [ ] CAMエージェント構築 ／ 対応範囲の整理（STL・図面から工程案、段取り文書、NCチェック、簡単なNC下書き）を受けて、最初に作るものを決める（推奨はNCチェッカーか段取り指示書の自動作成） ／ https://claude.ai/code/session_01CYJnVsdGWfGA8t1HzBdC6Z
 - [ ] EDU00002実施記録 ／ m03_equipment.pdf（15ページ）が届いている。p.3 と p.14 を印刷する。進行ガイド v0.3 は未コミットのまま。内容を確認してコミットしてよいか指示する ／ https://claude.ai/code/session_01CYJnVr7BDv593UeaZZsLpz
 - [ ] EDU00002準備 ／ M00〜M05 の抜粋時間割を1ファイルで受け取った（リポジトリには未保存）。内容を確認し、旧一体版 script_short_course_m00_m07.md をどうするか決める（M06〜M07 は未着手） ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
 - [ ] M15教材作成 ／ spec・本文・確認テスト10問の v0.1 ができた（未コミット）。下書きをレビューし、未決事項3件を決める ／ https://claude.ai/code/session_01CYJnVt7JjKeDRY242ZM8Q7
@@ -31,6 +30,7 @@
 - [ ] M08実践形式まとめ ／ 進める順番の案が出た：①日程ずれの記録 ②講義進行資料 script_m08 の作成（期限超過）③S2 の実施と記録 ④押印 PDF の SharePoint 格納確認。この順で着手してよいか指示する ／ https://claude.ai/code/session_01CYJnVqu5iYU5Hbdrw9RY64
 
 ## 🟧 手作業
+- [ ] エージェント構築 ／ bo-kit.txt を .zip に名前を変えて Copilot に登録し試す（120テスト通過済み）。doe-kit は ZIP を 11/22 18:13 版に差し替え、docx 報告書を Word で確認、入れ替え後の動作確認、Lists 追加、試験1・2 ／ https://claude.ai/code/session_01CYJnVqtPHXPLvXRhc1xXrc
 - [ ] テストネット ／ GitHub での申請を自分で出す（issue #1699・#327 は無反応、登録は 404、チャットは API キー要求のまま。毎時の自動監視は停止済み） ／ https://claude.ai/code/session_01CYJnVqTjUQjL5MMntpcdRF
 - [ ] EDU00001実施記録 ／ 11/25 の M09 再造形を実施ログ・チェックリスト・進捗に記録済み。#7 の PT は未実施なので日程を決めて実施し、SharePoint への反映も行う ／ https://claude.ai/code/session_01CYJnVuW4E6snDUHYaqfEMo
 - [ ] EPX_generator開発 ／ 電極名順の修正で変わった9ファイルを、半角英数字名の zip で受け取り済み（開けることは確認済み）。ドライブへ反映し、NX では epx_generator.py だけ差し替えて、牧野さんの実機で確認する（M-17） ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
