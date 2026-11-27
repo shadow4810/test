@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-27T22:00:00Z",
+  "last_checked": "2026-11-27T23:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01VcRiswB5sYcoK6PQqF8c6K": {
@@ -198,7 +198,7 @@
       "title": "🟧 テストネット",
       "base_title": "テストネット",
       "group": "🟧手作業",
-      "updated_at": "2026-11-27T21:43:41.919516Z"
+      "updated_at": "2026-11-27T22:46:54.200336Z"
     },
     "session_01CYJnVqtPHXPLvXRhc1xXrc": {
       "title": "🟧 エージェント構築",
