@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-27 14:00 UTC
+最終確認: 2026-11-27 15:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,6 +8,8 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
+- [ ] CAMエージェント構築 ／ 開始直後に操作待ちで止まっている。セッションを開いて許可や最初の指示に答える ／ https://claude.ai/code/session_01CYJnVsdGWfGA8t1HzBdC6Z
+- [ ] エージェント構築 ／ ベイズ最適化エージェントの設計案（doe-kit と同じ方式）に対し、用途・1回の提案数・目的の数を答える。あわせて Copilot の ZIP を 11/22 18:13 版に差し替え、docx 報告書を Word で確認、doe-kit 入れ替え、Lists 追加、Copilot 登録、試験1・2 ／ https://claude.ai/code/session_01CYJnVqtPHXPLvXRhc1xXrc
 - [ ] EDU00002実施記録 ／ m03_equipment.pdf（15ページ）が届いている。p.3 と p.14 を印刷する。進行ガイド v0.3 は未コミットのまま。内容を確認してコミットしてよいか指示する ／ https://claude.ai/code/session_01CYJnVr7BDv593UeaZZsLpz
 - [ ] EDU00002準備 ／ M00〜M05 の抜粋時間割を1ファイルで受け取った（リポジトリには未保存）。内容を確認し、旧一体版 script_short_course_m00_m07.md をどうするか決める（M06〜M07 は未着手） ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
 - [ ] M15教材作成 ／ spec・本文・確認テスト10問の v0.1 ができた（未コミット）。下書きをレビューし、未決事項3件を決める ／ https://claude.ai/code/session_01CYJnVt7JjKeDRY242ZM8Q7
@@ -30,7 +32,6 @@
 
 ## 🟧 手作業
 - [ ] テストネット ／ GitHub での申請を自分で出す（issue #1699・#327 は無反応、登録は 404、チャットは API キー要求のまま。毎時の自動監視は停止済み） ／ https://claude.ai/code/session_01CYJnVqTjUQjL5MMntpcdRF
-- [ ] エージェント構築 ／ Copilot の ZIP を 11/22 18:13 版に差し替える（17:41 版が残っている可能性。差し替えで ID 9・10 の修正が反映）。docx 報告書の見た目を Word で確認し、doe-kit を入れ替えて動作確認。Lists 追加、Copilot への登録、試験1・2も自分で行う ／ https://claude.ai/code/session_01CYJnVqtPHXPLvXRhc1xXrc
 - [ ] EDU00001実施記録 ／ 11/25 の M09 再造形を実施ログ・チェックリスト・進捗に記録済み。#7 の PT は未実施なので日程を決めて実施し、SharePoint への反映も行う ／ https://claude.ai/code/session_01CYJnVuW4E6snDUHYaqfEMo
 - [ ] EPX_generator開発 ／ 電極名順の修正で変わった9ファイルを、半角英数字名の zip で受け取り済み（開けることは確認済み）。ドライブへ反映し、NX では epx_generator.py だけ差し替えて、牧野さんの実機で確認する（M-17） ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 - [ ] EPXeditor開発 ／ v3.7 の ZIP を受け取り済み（深さ違いの電極は1つのポットを共有する形に変更）。社内 PC の Chrome と Hyper i で動作を確認する ／ https://claude.ai/code/session_01CYJnVtiw7DdKU1y9Fhiv4U
