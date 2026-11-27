@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-27 12:00 UTC
+最終確認: 2026-11-27 13:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -30,7 +30,7 @@
 
 ## 🟧 手作業
 - [ ] テストネット ／ GitHub での申請を自分で出す（issue #1699・#327 は無反応、ウォレット登録は 404 のまま。モデル一覧は qwen3-14b が復活） ／ https://claude.ai/code/session_01CYJnVqTjUQjL5MMntpcdRF
-- [ ] エージェント構築 ／ doe-kit v1 完成。zip 3件は .txt でも受け取り済み。Lists 追加、Copilot への登録、試験1・2を自分で行う ／ https://claude.ai/code/session_01CYJnVqtPHXPLvXRhc1xXrc
+- [ ] エージェント構築 ／ 解析結果が表と図の docx 報告書で返るよう変更済み（テスト65件通過）。Word で見た目を確認し、doe-kit を入れ替えて動作を確かめる。Lists 追加、Copilot への登録、試験1・2も自分で行う ／ https://claude.ai/code/session_01CYJnVqtPHXPLvXRhc1xXrc
 - [ ] EDU00001実施記録 ／ 11/25 の M09 再造形を実施ログ・チェックリスト・進捗に記録済み。#7 の PT は未実施なので日程を決めて実施し、SharePoint への反映も行う ／ https://claude.ai/code/session_01CYJnVuW4E6snDUHYaqfEMo
 - [ ] EPX_generator開発 ／ 電極名順の修正で変わった9ファイルを、半角英数字名の zip で受け取り済み（開けることは確認済み）。ドライブへ反映し、NX では epx_generator.py だけ差し替えて、牧野さんの実機で確認する（M-17） ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 - [ ] EPXeditor開発 ／ v3.7 の ZIP を受け取り済み（深さ違いの電極は1つのポットを共有する形に変更）。社内 PC の Chrome と Hyper i で動作を確認する ／ https://claude.ai/code/session_01CYJnVtiw7DdKU1y9Fhiv4U

@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-27T12:00:00Z",
+  "last_checked": "2026-11-27T13:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01VcRiswB5sYcoK6PQqF8c6K": {
@@ -198,13 +198,13 @@
       "title": "🟧 テストネット",
       "base_title": "テストネット",
       "group": "🟧手作業",
-      "updated_at": "2026-11-27T11:43:39.856055Z"
+      "updated_at": "2026-11-27T12:46:40.950368Z"
     },
     "session_01CYJnVqtPHXPLvXRhc1xXrc": {
       "title": "🟧 エージェント構築",
       "base_title": "エージェント構築",
       "group": "🟧手作業",
-      "updated_at": "2026-11-27T01:15:48.292851Z"
+      "updated_at": "2026-11-27T12:48:43.007888Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
