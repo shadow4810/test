@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-26 23:00 UTC
+最終確認: 2026-11-27 00:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -9,7 +9,6 @@
 
 ## 🟥 判断待ち
 - [ ] テストネット ／ 公式CLIに flop_account.json の鍵を渡してよいか答える（不安なら --new-wallet で新しいテスト用ウォレットを使う） ／ https://claude.ai/code/session_01CYJnVqTjUQjL5MMntpcdRF
-- [ ] エージェント構築 ／ doe-kit の仕様書と計画ができた。仕様 §3.1（v2 へ先送りする範囲）を確認し、Copilot 側で Python が動くか確かめて返信する ／ https://claude.ai/code/session_01CYJnVqtPHXPLvXRhc1xXrc
 - [ ] EDU00002実施記録 ／ m03_equipment.pdf（15ページ）が届いている。p.3 と p.14 を印刷する。進行ガイド v0.3 は未コミットのまま。内容を確認してコミットしてよいか指示する ／ https://claude.ai/code/session_01CYJnVr7BDv593UeaZZsLpz
 - [ ] EDU00002準備 ／ M00〜M05 の抜粋時間割を1ファイルで受け取った（リポジトリには未保存）。内容を確認し、旧一体版 script_short_course_m00_m07.md をどうするか決める（M06〜M07 は未着手） ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
 - [ ] M15教材作成 ／ spec・本文・確認テスト10問の v0.1 ができた（未コミット）。下書きをレビューし、未決事項3件を決める ／ https://claude.ai/code/session_01CYJnVt7JjKeDRY242ZM8Q7
@@ -31,6 +30,7 @@
 - [ ] M08実践形式まとめ ／ 進める順番の案が出た：①日程ずれの記録 ②講義進行資料 script_m08 の作成（期限超過）③S2 の実施と記録 ④押印 PDF の SharePoint 格納確認。この順で着手してよいか指示する ／ https://claude.ai/code/session_01CYJnVqu5iYU5Hbdrw9RY64
 
 ## 🟧 手作業
+- [ ] エージェント構築 ／ doe-kit v1 が完成（dist/doe-kit.zip、テスト58件合格）。Lists 追加、Copilot への登録、試験1・2を自分で行う ／ https://claude.ai/code/session_01CYJnVqtPHXPLvXRhc1xXrc
 - [ ] EDU00001実施記録 ／ 11/25 の M09 再造形を実施ログ・チェックリスト・進捗に記録済み。#7 の PT は未実施なので日程を決めて実施し、SharePoint への反映も行う ／ https://claude.ai/code/session_01CYJnVuW4E6snDUHYaqfEMo
 - [ ] EPX_generator開発 ／ 電極名順の修正で変わった9ファイルを、半角英数字名の zip で受け取り済み（開けることは確認済み）。ドライブへ反映し、NX では epx_generator.py だけ差し替えて、牧野さんの実機で確認する（M-17） ／ https://claude.ai/code/session_01CYJnVtHLULuVYYbT3HRPyx
 - [ ] EPXeditor開発 ／ v3.7 の ZIP を受け取り済み（深さ違いの電極は1つのポットを共有する形に変更）。社内 PC の Chrome と Hyper i で動作を確認する ／ https://claude.ai/code/session_01CYJnVtiw7DdKU1y9Fhiv4U
