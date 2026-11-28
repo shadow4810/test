@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-11-28T03:00:00Z",
+  "last_checked": "2026-11-28T04:00:00Z",
   "self": "session_01XQTdaAEYnqDzHmLLr94d5X",
   "sessions": {
     "session_01VcRiswB5sYcoK6PQqF8c6K": {
@@ -141,22 +141,28 @@
       "updated_at": "2026-11-24T12:04:52.350092Z"
     },
     "session_01CYJnVs7GTusDmomLm1YC2v": {
-      "title": "🟧 エージェント構築",
+      "title": "🟥 エージェント構築",
       "base_title": "エージェント構築",
-      "group": "🟧手作業",
-      "updated_at": "2026-11-28T02:29:24.834316Z"
+      "group": "🟥判断待ち",
+      "updated_at": "2026-11-28T03:06:49.945053Z"
     },
     "session_01CYJnVsMhssa41wkKXGWYMN": {
       "title": "🟧 CAMエージェント構築",
       "base_title": "CAMエージェント構築",
       "group": "🟧手作業",
-      "updated_at": "2026-11-28T02:46:07.913663Z"
+      "updated_at": "2026-11-28T03:49:05.358319Z"
     },
     "session_01CYJnVqTjUQjL5MMntpcdRF": {
       "title": "🟧 テストネット",
       "base_title": "テストネット",
       "group": "🟧手作業",
-      "updated_at": "2026-11-28T02:46:32.778590Z"
+      "updated_at": "2026-11-28T03:36:34.873460Z"
+    },
+    "session_01CYJnVrqZfCJo69P5GkJ7CJ": {
+      "title": "🟧 Perpdex残高付きウォレットポートフォリオ",
+      "base_title": "Perpdex残高付きウォレットポートフォリオ",
+      "group": "🟧手作業",
+      "updated_at": "2026-11-28T03:47:50.396653Z"
     }
   },
   "done_rule": "✅は仕事全体が終わった時だけ。報告が区切りでも次の段階・確認・レビューが残っていれば🟥/🟧/🟦に入れる"
