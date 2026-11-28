@@ -1,6 +1,6 @@
 # Claude セッション進捗チェックリスト
 
-最終確認: 2026-11-28 02:00 UTC
+最終確認: 2026-11-28 03:00 UTC
 区分はセッション名の頭の絵文字で表示（🟥 / 🟧 / 🟦 / ✅）。✅ は仕事全体が終わったものだけ
 
 ## ⏰ 期限が近いもの
@@ -8,8 +8,6 @@
 - [ ] 11/9 EDU00001 の M09 実践（PT など）／ 割り付け案はチェックリストに反映済み。当日実施し、終わったら結果を「M09実践形式まとめ」に伝える ／ https://claude.ai/code/session_01CYJnVugiBUHase4M39htmJ
 
 ## 🟥 判断待ち
-- [ ] CAMエージェント構築 ／ 作業中（再開直後）。終わったら最初に作るものを決める（推奨はNCチェッカーか段取り指示書の自動作成） ／ https://claude.ai/code/session_01CYJnVsMhssa41wkKXGWYMN
-- [ ] エージェント構築 ／ bo-kit を Copilot で置き換えて試し、_回2.xlsx の有無・No.11〜14 の行・_回3 の有無・かかった時間を貼る。cam-kit について使う機械・制御装置・CAM・STL の出どころ・工具リスト・NC の用途と、nc_lint と形状解析のどちらを先にするかを答える ／ https://claude.ai/code/session_01CYJnVs7GTusDmomLm1YC2v
 - [ ] EDU00002準備 ／ M00〜M05 の抜粋時間割を1ファイルで受け取った（リポジトリには未保存）。内容を確認し、旧一体版 script_short_course_m00_m07.md をどうするか決める（M06〜M07 は未着手） ／ https://claude.ai/code/session_01CYJnVuo7eUV5paETemqMBq
 - [ ] DED造形のスパッタ過多不具合 ／ 提示された条件案（1.6mm: LPC 1000→550W、目標面積2500、IPTC (250,900,300) 毎層／薄壁は 3mm・1.6mm 案）と試し手順を見て、試すか決める（調査メモ §5.1/5.2 は未コミット） ／ https://claude.ai/code/session_01CYJnVrhM3Z3WA1AiuVJei2
 - [ ] 放電加工たわみ計算ツール ／ 深さ方向の削りすぎは電極の傾きでは説明できないと分かった（7枚目の「合わない」はそのまま）。pptx（1枚目修正済み）の表示を確認し、原因をどう追うか決める ／ https://claude.ai/code/session_01CYJnVr5dxXHPjrhgdxLwNL
@@ -28,6 +26,9 @@
 - [ ] M08実践形式まとめ ／ 進める順番の案が出た：①日程ずれの記録 ②講義進行資料 script_m08 の作成（期限超過）③S2 の実施と記録 ④押印 PDF の SharePoint 格納確認。この順で着手してよいか指示する ／ https://claude.ai/code/session_01CYJnVqu5iYU5Hbdrw9RY64
 
 ## 🟧 手作業
+- [ ] エージェント構築 ／ bo-kit.txt で Copilot の bo-kit を差し替え、回3の xlsx を添付して回4を依頼する（回4の修正は確認済み、止めどきは「頭打ち」）。cam-kit の確認事項（機械・制御装置・CAM・STLの出どころ・工具リスト・NCの用途、nc_lint と形状解析の順番）にも答える ／ https://claude.ai/code/session_01CYJnVs7GTusDmomLm1YC2v
+- [ ] CAMエージェント構築 ／ curv_map --step（STEP併用の曲率マップ）が完成。Drive に追加された8ファイルを確認し、実データで試す ／ https://claude.ai/code/session_01CYJnVsMhssa41wkKXGWYMN
+- [ ] テストネット ／ GitHub での申請を自分で出す（運営の返信待ちで推論は未実行。issue #1699・#327 は無反応、登録は 404） ／ https://claude.ai/code/session_01CYJnVqTjUQjL5MMntpcdRF
 - [ ] Copilot環境改善 ／ doc-review-kit.zip を作り直した（用語の指摘は Linter の結果だけ、MUST が0件なら「配布可（WANT n件）」と判定）。Copilot で改善ログを登録し、ZIP を差し替えて、もう一度レビューして確かめる ／ https://claude.ai/code/session_01CYJnVt5xMzd8pvaqQEtia4
 - [ ] FLOP20260930 ／ セッションが以前のメッセージで示したコマンドを実行する ／ https://claude.ai/code/session_01CYJnVsHcZh7y7pvtFkyFbJ
 - [ ] SFWローラの修理・高寿命化 ／ 肉盛り層の詳細を見るため、NiBas 776 W40 の PDF を themes/machine_materials/references/ に置く。あわせて、試験計画スライド v6 の確認と、Höganäs 粉末の入手先のヘガネスジャパン（048-583-5561 か iProS のフォーム）への問い合わせ ／ https://claude.ai/code/session_01VhcnY2XVmxoGGmjiRfGqa3
